@@ -1,0 +1,4702 @@
+[
+    {
+        "time": "10:34:03",
+        "latitude": 33.9354,
+        "longitude": -118.4232,
+        "course": "262",
+        "speed_kts": 182.0,
+        "speed_mph": 209.0,
+        "altitude_feet": 750.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(KSNA)"
+    },
+    {
+        "time": "10:34:19",
+        "latitude": 33.9337,
+        "longitude": -118.4396,
+        "course": "264",
+        "speed_kts": 184.0,
+        "speed_mph": 212.0,
+        "altitude_feet": 1300.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(KSNA)"
+    },
+    {
+        "time": "10:34:35",
+        "latitude": 33.9321,
+        "longitude": -118.4559,
+        "course": "263",
+        "speed_kts": 196.0,
+        "speed_mph": 226.0,
+        "altitude_feet": 1775.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(KSMO)"
+    },
+    {
+        "time": "10:34:51",
+        "latitude": 33.9303,
+        "longitude": -118.4759,
+        "course": "265",
+        "speed_kts": 218.0,
+        "speed_mph": 251.0,
+        "altitude_feet": 2025.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(KSMO)"
+    },
+    {
+        "time": "10:35:21",
+        "latitude": 33.9272,
+        "longitude": -118.514,
+        "course": "265",
+        "speed_kts": 250.0,
+        "speed_mph": 288.0,
+        "altitude_feet": 2650.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(KLAX)"
+    },
+    {
+        "time": "10:35:51",
+        "latitude": 33.9236,
+        "longitude": -118.5577,
+        "course": "265",
+        "speed_kts": 270.0,
+        "speed_mph": 311.0,
+        "altitude_feet": 3550.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(KLAX)"
+    },
+    {
+        "time": "10:36:14",
+        "latitude": 33.9208,
+        "longitude": -118.5927,
+        "course": "264",
+        "speed_kts": 275.0,
+        "speed_mph": 316.0,
+        "altitude_feet": 4525.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(KRNM)"
+    },
+    {
+        "time": "10:36:35",
+        "latitude": 33.9184,
+        "longitude": -118.6242,
+        "course": "267",
+        "speed_kts": 269.0,
+        "speed_mph": 310.0,
+        "altitude_feet": 5625.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(KLAX)"
+    },
+    {
+        "time": "10:36:52",
+        "latitude": 33.9178,
+        "longitude": -118.651,
+        "course": "270",
+        "speed_kts": 267.0,
+        "speed_mph": 307.0,
+        "altitude_feet": 6525.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(KSNA)"
+    },
+    {
+        "time": "10:37:17",
+        "latitude": 33.9177,
+        "longitude": -118.6863,
+        "course": "270",
+        "speed_kts": 268.0,
+        "speed_mph": 308.0,
+        "altitude_feet": 7550.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(KSZP)"
+    },
+    {
+        "time": "10:37:39",
+        "latitude": 33.9175,
+        "longitude": -118.7197,
+        "course": "270",
+        "speed_kts": 271.0,
+        "speed_mph": 312.0,
+        "altitude_feet": 8400.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(KLAX)"
+    },
+    {
+        "time": "10:38:06",
+        "latitude": 33.9174,
+        "longitude": -118.7604,
+        "course": "269",
+        "speed_kts": 272.0,
+        "speed_mph": 313.0,
+        "altitude_feet": 9450.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(KLGB)"
+    },
+    {
+        "time": "10:38:51",
+        "latitude": 33.9123,
+        "longitude": -118.8288,
+        "course": "263",
+        "speed_kts": 290.0,
+        "speed_mph": 334.0,
+        "altitude_feet": 10700.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(KSAN)"
+    },
+    {
+        "time": "10:39:21",
+        "latitude": 33.907,
+        "longitude": -118.8826,
+        "course": "263",
+        "speed_kts": 311.0,
+        "speed_mph": 358.0,
+        "altitude_feet": 11200.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(KMHV)"
+    },
+    {
+        "time": "10:39:51",
+        "latitude": 33.902,
+        "longitude": -118.9326,
+        "course": "263",
+        "speed_kts": 333.0,
+        "speed_mph": 383.0,
+        "altitude_feet": 11625.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(KLAX)"
+    },
+    {
+        "time": "10:40:21",
+        "latitude": 33.8963,
+        "longitude": -118.9886,
+        "course": "263",
+        "speed_kts": 354.0,
+        "speed_mph": 407.0,
+        "altitude_feet": 12025.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(KRNM)"
+    },
+    {
+        "time": "10:40:51",
+        "latitude": 33.8902,
+        "longitude": -119.051,
+        "course": "263",
+        "speed_kts": 372.0,
+        "speed_mph": 428.0,
+        "altitude_feet": 12475.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(KSNA)"
+    },
+    {
+        "time": "10:41:21",
+        "latitude": 33.8839,
+        "longitude": -119.1136,
+        "course": "263",
+        "speed_kts": 380.0,
+        "speed_mph": 437.0,
+        "altitude_feet": 13200.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(KSMO)"
+    },
+    {
+        "time": "10:41:39",
+        "latitude": 33.8802,
+        "longitude": -119.1514,
+        "course": "263",
+        "speed_kts": 383.0,
+        "speed_mph": 441.0,
+        "altitude_feet": 13650.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(KTOA)"
+    },
+    {
+        "time": "10:42:08",
+        "latitude": 33.8736,
+        "longitude": -119.2147,
+        "course": "263",
+        "speed_kts": 389.0,
+        "speed_mph": 448.0,
+        "altitude_feet": 14375.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(KPOC)"
+    },
+    {
+        "time": "10:42:27",
+        "latitude": 33.8695,
+        "longitude": -119.2536,
+        "course": "264",
+        "speed_kts": 393.0,
+        "speed_mph": 452.0,
+        "altitude_feet": 14800.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(KLPC)"
+    },
+    {
+        "time": "10:42:57",
+        "latitude": 33.8627,
+        "longitude": -119.3209,
+        "course": "263",
+        "speed_kts": 398.0,
+        "speed_mph": 458.0,
+        "altitude_feet": 15575.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(KSNA)"
+    },
+    {
+        "time": "10:43:27",
+        "latitude": 33.8562,
+        "longitude": -119.385,
+        "course": "263",
+        "speed_kts": 402.0,
+        "speed_mph": 463.0,
+        "altitude_feet": 16250.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(KLPC)"
+    },
+    {
+        "time": "10:43:53",
+        "latitude": 33.8505,
+        "longitude": -119.441,
+        "course": "263",
+        "speed_kts": 406.0,
+        "speed_mph": 467.0,
+        "altitude_feet": 16850.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(KCSL)"
+    },
+    {
+        "time": "10:44:28",
+        "latitude": 33.8419,
+        "longitude": -119.5225,
+        "course": "264",
+        "speed_kts": 413.0,
+        "speed_mph": 475.0,
+        "altitude_feet": 17600.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(KSZP)"
+    },
+    {
+        "time": "10:44:46",
+        "latitude": 33.8376,
+        "longitude": -119.5631,
+        "course": "264",
+        "speed_kts": 416.0,
+        "speed_mph": 479.0,
+        "altitude_feet": 17975.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(KNTD)"
+    },
+    {
+        "time": "10:45:18",
+        "latitude": 33.8297,
+        "longitude": -119.6385,
+        "course": "264",
+        "speed_kts": 423.0,
+        "speed_mph": 487.0,
+        "altitude_feet": 18575.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(KSZP)"
+    },
+    {
+        "time": "10:45:35",
+        "latitude": 33.8257,
+        "longitude": -119.6766,
+        "course": "263",
+        "speed_kts": 426.0,
+        "speed_mph": 490.0,
+        "altitude_feet": 18900.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(KSAN)"
+    },
+    {
+        "time": "10:46:02",
+        "latitude": 33.8185,
+        "longitude": -119.7435,
+        "course": "263",
+        "speed_kts": 434.0,
+        "speed_mph": 499.0,
+        "altitude_feet": 19375.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(KSBA)"
+    },
+    {
+        "time": "10:46:19",
+        "latitude": 33.8145,
+        "longitude": -119.7822,
+        "course": "263",
+        "speed_kts": 437.0,
+        "speed_mph": 503.0,
+        "altitude_feet": 19700.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(KSMO)"
+    },
+    {
+        "time": "10:46:48",
+        "latitude": 33.8071,
+        "longitude": -119.852,
+        "course": "263",
+        "speed_kts": 441.0,
+        "speed_mph": 507.0,
+        "altitude_feet": 20275.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(KLPC)"
+    },
+    {
+        "time": "10:47:08",
+        "latitude": 33.8019,
+        "longitude": -119.9005,
+        "course": "264",
+        "speed_kts": 443.0,
+        "speed_mph": 510.0,
+        "altitude_feet": 20700.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(KLPC)"
+    },
+    {
+        "time": "10:47:29",
+        "latitude": 33.7961,
+        "longitude": -119.9544,
+        "course": "263",
+        "speed_kts": 447.0,
+        "speed_mph": 514.0,
+        "altitude_feet": 21150.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(KSMO)"
+    },
+    {
+        "time": "10:47:51",
+        "latitude": 33.7906,
+        "longitude": -120.0057,
+        "course": "263",
+        "speed_kts": 450.0,
+        "speed_mph": 518.0,
+        "altitude_feet": 21600.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(KSZP)"
+    },
+    {
+        "time": "10:48:18",
+        "latitude": 33.7831,
+        "longitude": -120.0739,
+        "course": "264",
+        "speed_kts": 452.0,
+        "speed_mph": 520.0,
+        "altitude_feet": 22100.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(KLPC)"
+    },
+    {
+        "time": "10:48:48",
+        "latitude": 33.7748,
+        "longitude": -120.1488,
+        "course": "262",
+        "speed_kts": 454.0,
+        "speed_mph": 522.0,
+        "altitude_feet": 22800.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(KMPI)"
+    },
+    {
+        "time": "10:49:07",
+        "latitude": 33.7694,
+        "longitude": -120.1971,
+        "course": "264",
+        "speed_kts": 455.0,
+        "speed_mph": 524.0,
+        "altitude_feet": 23175.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(KSBA)"
+    },
+    {
+        "time": "10:49:34",
+        "latitude": 33.7621,
+        "longitude": -120.2632,
+        "course": "263",
+        "speed_kts": 457.0,
+        "speed_mph": 526.0,
+        "altitude_feet": 23725.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(KTOA)"
+    },
+    {
+        "time": "10:49:50",
+        "latitude": 33.7578,
+        "longitude": -120.303,
+        "course": "263",
+        "speed_kts": 458.0,
+        "speed_mph": 527.0,
+        "altitude_feet": 24050.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(KSMO)"
+    },
+    {
+        "time": "10:50:30",
+        "latitude": 33.7462,
+        "longitude": -120.4079,
+        "course": "262",
+        "speed_kts": 462.0,
+        "speed_mph": 532.0,
+        "altitude_feet": 24750.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(KNKX)"
+    },
+    {
+        "time": "10:51:00",
+        "latitude": 33.7381,
+        "longitude": -120.4807,
+        "course": "262",
+        "speed_kts": 464.0,
+        "speed_mph": 534.0,
+        "altitude_feet": 25250.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(KSZP)"
+    },
+    {
+        "time": "10:51:30",
+        "latitude": 33.7293,
+        "longitude": -120.5583,
+        "course": "262",
+        "speed_kts": 465.0,
+        "speed_mph": 535.0,
+        "altitude_feet": 25775.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(KSMO)"
+    },
+    {
+        "time": "10:52:00",
+        "latitude": 33.7208,
+        "longitude": -120.6333,
+        "course": "263",
+        "speed_kts": 467.0,
+        "speed_mph": 537.0,
+        "altitude_feet": 26200.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(KSZP)"
+    },
+    {
+        "time": "10:52:30",
+        "latitude": 33.7117,
+        "longitude": -120.7124,
+        "course": "262",
+        "speed_kts": 470.0,
+        "speed_mph": 541.0,
+        "altitude_feet": 26650.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(KSZP)"
+    },
+    {
+        "time": "10:53:00",
+        "latitude": 33.7026,
+        "longitude": -120.7915,
+        "course": "262",
+        "speed_kts": 474.0,
+        "speed_mph": 545.0,
+        "altitude_feet": 27050.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(KNKX)"
+    },
+    {
+        "time": "10:53:30",
+        "latitude": 33.6938,
+        "longitude": -120.8687,
+        "course": "263",
+        "speed_kts": 476.0,
+        "speed_mph": 548.0,
+        "altitude_feet": 27450.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(KSZP)"
+    },
+    {
+        "time": "10:53:55",
+        "latitude": 33.6865,
+        "longitude": -120.932,
+        "course": "262",
+        "speed_kts": 478.0,
+        "speed_mph": 550.0,
+        "altitude_feet": 27825.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(KSMO)"
+    },
+    {
+        "time": "10:54:25",
+        "latitude": 33.6768,
+        "longitude": -121.0146,
+        "course": "262",
+        "speed_kts": 480.0,
+        "speed_mph": 552.0,
+        "altitude_feet": 28275.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(KCMA)"
+    },
+    {
+        "time": "10:54:53",
+        "latitude": 33.6683,
+        "longitude": -121.0867,
+        "course": "262",
+        "speed_kts": 478.0,
+        "speed_mph": 550.0,
+        "altitude_feet": 28850.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(KTOA)"
+    },
+    {
+        "time": "10:55:33",
+        "latitude": 33.656,
+        "longitude": -121.1909,
+        "course": "262",
+        "speed_kts": 474.0,
+        "speed_mph": 545.0,
+        "altitude_feet": 29725.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(KSAN)"
+    },
+    {
+        "time": "10:56:03",
+        "latitude": 33.6466,
+        "longitude": -121.2713,
+        "course": "262",
+        "speed_kts": 472.0,
+        "speed_mph": 543.0,
+        "altitude_feet": 30300.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(KSBP)"
+    },
+    {
+        "time": "10:56:32",
+        "latitude": 33.638,
+        "longitude": -121.343,
+        "course": "263",
+        "speed_kts": 469.0,
+        "speed_mph": 540.0,
+        "altitude_feet": 30875.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(KCRQ)"
+    },
+    {
+        "time": "10:56:52",
+        "latitude": 33.6316,
+        "longitude": -121.3959,
+        "course": "263",
+        "speed_kts": 467.0,
+        "speed_mph": 537.0,
+        "altitude_feet": 31250.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(KSZP)"
+    },
+    {
+        "time": "10:57:12",
+        "latitude": 33.6254,
+        "longitude": -121.4468,
+        "course": "262",
+        "speed_kts": 467.0,
+        "speed_mph": 537.0,
+        "altitude_feet": 31650.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(KLAX)"
+    },
+    {
+        "time": "10:57:34",
+        "latitude": 33.6186,
+        "longitude": -121.5028,
+        "course": "262",
+        "speed_kts": 466.0,
+        "speed_mph": 536.0,
+        "altitude_feet": 32025.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(KSBP)"
+    },
+    {
+        "time": "10:58:04",
+        "latitude": 33.6095,
+        "longitude": -121.5778,
+        "course": "262",
+        "speed_kts": 465.0,
+        "speed_mph": 535.0,
+        "altitude_feet": 32475.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(KTOA)"
+    },
+    {
+        "time": "10:58:35",
+        "latitude": 33.5998,
+        "longitude": -121.658,
+        "course": "262",
+        "speed_kts": 465.0,
+        "speed_mph": 535.0,
+        "altitude_feet": 32925.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(KSBA)"
+    },
+    {
+        "time": "10:59:04",
+        "latitude": 33.591,
+        "longitude": -121.7295,
+        "course": "262",
+        "speed_kts": 465.0,
+        "speed_mph": 535.0,
+        "altitude_feet": 33325.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(KSBP)"
+    },
+    {
+        "time": "10:59:22",
+        "latitude": 33.5852,
+        "longitude": -121.777,
+        "course": "263",
+        "speed_kts": 463.0,
+        "speed_mph": 533.0,
+        "altitude_feet": 33575.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(KSBA)"
+    },
+    {
+        "time": "10:59:44",
+        "latitude": 33.5782,
+        "longitude": -121.8339,
+        "course": "262",
+        "speed_kts": 464.0,
+        "speed_mph": 534.0,
+        "altitude_feet": 33900.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(KSMO)"
+    },
+    {
+        "time": "11:00:22",
+        "latitude": 33.5663,
+        "longitude": -121.9293,
+        "course": "263",
+        "speed_kts": 464.0,
+        "speed_mph": 534.0,
+        "altitude_feet": 33975.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(KSBA)"
+    },
+    {
+        "time": "11:00:52",
+        "latitude": 33.5566,
+        "longitude": -122.007,
+        "course": "263",
+        "speed_kts": 464.0,
+        "speed_mph": 534.0,
+        "altitude_feet": 34000.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(KSBA)"
+    },
+    {
+        "time": "11:01:22",
+        "latitude": 33.5472,
+        "longitude": -122.0825,
+        "course": "262",
+        "speed_kts": 463.0,
+        "speed_mph": 533.0,
+        "altitude_feet": 34000.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(KSBA)"
+    },
+    {
+        "time": "11:01:53",
+        "latitude": 33.5374,
+        "longitude": -122.1593,
+        "course": "262",
+        "speed_kts": 463.0,
+        "speed_mph": 533.0,
+        "altitude_feet": 34000.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(KSBA)"
+    },
+    {
+        "time": "11:02:23",
+        "latitude": 33.528,
+        "longitude": -122.2334,
+        "course": "262",
+        "speed_kts": 464.0,
+        "speed_mph": 534.0,
+        "altitude_feet": 33975.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(KSBA)"
+    },
+    {
+        "time": "11:02:53",
+        "latitude": 33.5181,
+        "longitude": -122.3119,
+        "course": "261",
+        "speed_kts": 465.0,
+        "speed_mph": 535.0,
+        "altitude_feet": 33975.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(KSNA)"
+    },
+    {
+        "time": "11:03:23",
+        "latitude": 33.5082,
+        "longitude": -122.389,
+        "course": "262",
+        "speed_kts": 466.0,
+        "speed_mph": 536.0,
+        "altitude_feet": 34000.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(KSBA)"
+    },
+    {
+        "time": "11:03:53",
+        "latitude": 33.4983,
+        "longitude": -122.4655,
+        "course": "261",
+        "speed_kts": 467.0,
+        "speed_mph": 537.0,
+        "altitude_feet": 34000.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(KSNA)"
+    },
+    {
+        "time": "11:04:24",
+        "latitude": 33.4874,
+        "longitude": -122.5455,
+        "course": "260",
+        "speed_kts": 468.0,
+        "speed_mph": 539.0,
+        "altitude_feet": 34000.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(KCRQ)"
+    },
+    {
+        "time": "11:04:42",
+        "latitude": 33.4772,
+        "longitude": -122.5891,
+        "course": "251",
+        "speed_kts": 472.0,
+        "speed_mph": 543.0,
+        "altitude_feet": 33975.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(KSMX)"
+    },
+    {
+        "time": "11:05:11",
+        "latitude": 33.4514,
+        "longitude": -122.6586,
+        "course": "244",
+        "speed_kts": 474.0,
+        "speed_mph": 545.0,
+        "altitude_feet": 33975.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(KSBA)"
+    },
+    {
+        "time": "11:05:41",
+        "latitude": 33.4211,
+        "longitude": -122.7299,
+        "course": "243",
+        "speed_kts": 474.0,
+        "speed_mph": 545.0,
+        "altitude_feet": 33975.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(KWVI)"
+    },
+    {
+        "time": "11:06:12",
+        "latitude": 33.3907,
+        "longitude": -122.8014,
+        "course": "243",
+        "speed_kts": 475.0,
+        "speed_mph": 547.0,
+        "altitude_feet": 33975.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(KEMT)"
+    },
+    {
+        "time": "11:06:53",
+        "latitude": 33.3498,
+        "longitude": -122.8973,
+        "course": "243",
+        "speed_kts": 476.0,
+        "speed_mph": 548.0,
+        "altitude_feet": 34000.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(KTOA)"
+    },
+    {
+        "time": "11:07:27",
+        "latitude": 33.3154,
+        "longitude": -122.9775,
+        "course": "244",
+        "speed_kts": 475.0,
+        "speed_mph": 547.0,
+        "altitude_feet": 34000.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(KSBA)"
+    },
+    {
+        "time": "11:07:57",
+        "latitude": 33.2854,
+        "longitude": -123.0477,
+        "course": "244",
+        "speed_kts": 475.0,
+        "speed_mph": 547.0,
+        "altitude_feet": 33975.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(KSBA)"
+    },
+    {
+        "time": "11:08:27",
+        "latitude": 33.255,
+        "longitude": -123.1183,
+        "course": "244",
+        "speed_kts": 476.0,
+        "speed_mph": 548.0,
+        "altitude_feet": 33975.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(KSBA)"
+    },
+    {
+        "time": "11:08:57",
+        "latitude": 33.2259,
+        "longitude": -123.1862,
+        "course": "244",
+        "speed_kts": 476.0,
+        "speed_mph": 548.0,
+        "altitude_feet": 34000.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(KSBA)"
+    },
+    {
+        "time": "11:09:27",
+        "latitude": 33.1951,
+        "longitude": -123.2575,
+        "course": "244",
+        "speed_kts": 477.0,
+        "speed_mph": 549.0,
+        "altitude_feet": 33975.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(KSBA)"
+    },
+    {
+        "time": "11:09:58",
+        "latitude": 33.1636,
+        "longitude": -123.3302,
+        "course": "244",
+        "speed_kts": 478.0,
+        "speed_mph": 550.0,
+        "altitude_feet": 34000.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(KSBA)"
+    },
+    {
+        "time": "11:10:25",
+        "latitude": 33.1379,
+        "longitude": -123.3899,
+        "course": "244",
+        "speed_kts": 480.0,
+        "speed_mph": 552.0,
+        "altitude_feet": 34000.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(KSBA)"
+    },
+    {
+        "time": "11:10:56",
+        "latitude": 33.1033,
+        "longitude": -123.4696,
+        "course": "243",
+        "speed_kts": 482.0,
+        "speed_mph": 555.0,
+        "altitude_feet": 33975.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(KTOA)"
+    },
+    {
+        "time": "11:11:25",
+        "latitude": 33.0747,
+        "longitude": -123.5354,
+        "course": "244",
+        "speed_kts": 483.0,
+        "speed_mph": 556.0,
+        "altitude_feet": 34000.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(KSBA)"
+    },
+    {
+        "time": "11:11:56",
+        "latitude": 33.0433,
+        "longitude": -123.6076,
+        "course": "244",
+        "speed_kts": 483.0,
+        "speed_mph": 556.0,
+        "altitude_feet": 34000.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(KSBA)"
+    },
+    {
+        "time": "11:12:26",
+        "latitude": 33.0123,
+        "longitude": -123.6785,
+        "course": "244",
+        "speed_kts": 484.0,
+        "speed_mph": 557.0,
+        "altitude_feet": 33975.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(KSBA)"
+    },
+    {
+        "time": "11:12:55",
+        "latitude": 32.9819,
+        "longitude": -123.7481,
+        "course": "244",
+        "speed_kts": 484.0,
+        "speed_mph": 557.0,
+        "altitude_feet": 33975.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(KSBA)"
+    },
+    {
+        "time": "11:13:25",
+        "latitude": 32.9517,
+        "longitude": -123.8169,
+        "course": "243",
+        "speed_kts": 484.0,
+        "speed_mph": 557.0,
+        "altitude_feet": 33975.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(KSBA)"
+    },
+    {
+        "time": "11:13:56",
+        "latitude": 32.9192,
+        "longitude": -123.8911,
+        "course": "244",
+        "speed_kts": 485.0,
+        "speed_mph": 558.0,
+        "altitude_feet": 34000.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(KSBA)"
+    },
+    {
+        "time": "11:14:29",
+        "latitude": 32.8859,
+        "longitude": -123.9668,
+        "course": "244",
+        "speed_kts": 485.0,
+        "speed_mph": 558.0,
+        "altitude_feet": 33975.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(KSBA)"
+    },
+    {
+        "time": "11:15:09",
+        "latitude": 32.8419,
+        "longitude": -124.0667,
+        "course": "242",
+        "speed_kts": 486.0,
+        "speed_mph": 559.0,
+        "altitude_feet": 34000.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(KSBP)"
+    },
+    {
+        "time": "11:15:54",
+        "latitude": 32.7963,
+        "longitude": -124.1697,
+        "course": "243",
+        "speed_kts": 486.0,
+        "speed_mph": 559.0,
+        "altitude_feet": 34000.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(KSBA)"
+    },
+    {
+        "time": "11:16:58",
+        "latitude": 32.729,
+        "longitude": -124.3213,
+        "course": "243",
+        "speed_kts": 485.0,
+        "speed_mph": 558.0,
+        "altitude_feet": 34000.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(KSBA)"
+    },
+    {
+        "time": "11:17:31",
+        "latitude": 32.6943,
+        "longitude": -124.3993,
+        "course": "243",
+        "speed_kts": 485.0,
+        "speed_mph": 558.0,
+        "altitude_feet": 34000.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(KSBA)"
+    },
+    {
+        "time": "11:18:01",
+        "latitude": 32.6684,
+        "longitude": -124.4573,
+        "course": "242",
+        "speed_kts": 434.0,
+        "speed_mph": 499.0,
+        "altitude_feet": 34000.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(KSBA)"
+    },
+    {
+        "time": "11:18:31",
+        "latitude": 32.6305,
+        "longitude": -124.542,
+        "course": "243",
+        "speed_kts": 487.0,
+        "speed_mph": 560.0,
+        "altitude_feet": 33975.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(KSBA)"
+    },
+    {
+        "time": "11:19:11",
+        "latitude": 32.5975,
+        "longitude": -124.6157,
+        "course": "243",
+        "speed_kts": 488.0,
+        "speed_mph": 562.0,
+        "altitude_feet": 33975.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(KSBA)"
+    },
+    {
+        "time": "11:20:18",
+        "latitude": 32.5177,
+        "longitude": -124.7935,
+        "course": "242",
+        "speed_kts": 523.0,
+        "speed_mph": 602.0,
+        "altitude_feet": 34000.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(KSBA)"
+    },
+    {
+        "time": "11:20:48",
+        "latitude": 32.4853,
+        "longitude": -124.8652,
+        "course": "243",
+        "speed_kts": 490.0,
+        "speed_mph": 564.0,
+        "altitude_feet": 33975.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(KSBA)"
+    },
+    {
+        "time": "11:21:18",
+        "latitude": 32.4537,
+        "longitude": -124.9351,
+        "course": "243",
+        "speed_kts": 492.0,
+        "speed_mph": 566.0,
+        "altitude_feet": 34000.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(KSBA)"
+    },
+    {
+        "time": "11:21:48",
+        "latitude": 32.4212,
+        "longitude": -125.007,
+        "course": "243",
+        "speed_kts": 493.0,
+        "speed_mph": 567.0,
+        "altitude_feet": 33975.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(KSBA)"
+    },
+    {
+        "time": "11:22:49",
+        "latitude": 32.3628,
+        "longitude": -125.1354,
+        "course": "243",
+        "speed_kts": 493.0,
+        "speed_mph": 567.0,
+        "altitude_feet": 33975.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(KSBA)"
+    },
+    {
+        "time": "11:24:01",
+        "latitude": 32.277,
+        "longitude": -125.3237,
+        "course": "242",
+        "speed_kts": 521.0,
+        "speed_mph": 600.0,
+        "altitude_feet": 34000.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(KSBA)"
+    },
+    {
+        "time": "11:24:32",
+        "latitude": 32.2457,
+        "longitude": -125.3921,
+        "course": "243",
+        "speed_kts": 493.0,
+        "speed_mph": 567.0,
+        "altitude_feet": 34000.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(KSBA)"
+    },
+    {
+        "time": "11:25:08",
+        "latitude": 32.2059,
+        "longitude": -125.4788,
+        "course": "243",
+        "speed_kts": 491.0,
+        "speed_mph": 565.0,
+        "altitude_feet": 33975.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(KSBA)"
+    },
+    {
+        "time": "11:26:01",
+        "latitude": 32.1499,
+        "longitude": -125.6005,
+        "course": "243",
+        "speed_kts": 493.0,
+        "speed_mph": 567.0,
+        "altitude_feet": 34000.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(KSBA)"
+    },
+    {
+        "time": "11:26:38",
+        "latitude": 32.107,
+        "longitude": -125.6936,
+        "course": "243",
+        "speed_kts": 492.0,
+        "speed_mph": 566.0,
+        "altitude_feet": 33975.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(KSBA)"
+    },
+    {
+        "time": "11:30:21",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "243",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "11:32:27",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "243",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "11:34:03",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "243",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "11:35:24",
+        "latitude": 31.5333,
+        "longitude": -126.9,
+        "course": "241",
+        "speed_kts": 490.0,
+        "speed_mph": 564.0,
+        "altitude_feet": 34000.0,
+        "reporting_facility": "Oakland Oceanic"
+    },
+    {
+        "time": "11:44:59",
+        "latitude": 30.9,
+        "longitude": -128.2333,
+        "course": "240",
+        "speed_kts": 488.0,
+        "speed_mph": 562.0,
+        "altitude_feet": 34000.0,
+        "reporting_facility": "Oakland Oceanic"
+    },
+    {
+        "time": "11:54:36",
+        "latitude": 30.2333,
+        "longitude": -129.5333,
+        "course": "240",
+        "speed_kts": 486.0,
+        "speed_mph": 559.0,
+        "altitude_feet": 34000.0,
+        "reporting_facility": "Oakland Oceanic"
+    },
+    {
+        "time": "11:58:08",
+        "latitude": 30.0,
+        "longitude": -130.0,
+        "course": "223",
+        "speed_kts": 499.0,
+        "speed_mph": 574.0,
+        "altitude_feet": 34000.0,
+        "reporting_facility": "Oakland Oceanic"
+    },
+    {
+        "time": "12:04:12",
+        "latitude": 29.3833,
+        "longitude": -130.6667,
+        "course": "222",
+        "speed_kts": 503.0,
+        "speed_mph": 579.0,
+        "altitude_feet": 34000.0,
+        "reporting_facility": "Oakland Oceanic"
+    },
+    {
+        "time": "12:13:46",
+        "latitude": 28.3833,
+        "longitude": -131.6833,
+        "course": "222",
+        "speed_kts": 503.0,
+        "speed_mph": 579.0,
+        "altitude_feet": 34000.0,
+        "reporting_facility": "Oakland Oceanic"
+    },
+    {
+        "time": "12:23:22",
+        "latitude": 27.3833,
+        "longitude": -132.7,
+        "course": "222",
+        "speed_kts": 504.0,
+        "speed_mph": 580.0,
+        "altitude_feet": 34000.0,
+        "reporting_facility": "Oakland Oceanic"
+    },
+    {
+        "time": "12:24:25",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "222",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "12:31:32",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "221",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "12:32:43",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "221",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "12:32:57",
+        "latitude": 26.3667,
+        "longitude": -133.6833,
+        "course": "221",
+        "speed_kts": 504.0,
+        "speed_mph": 580.0,
+        "altitude_feet": 34000.0,
+        "reporting_facility": "Oakland Oceanic"
+    },
+    {
+        "time": "12:42:33",
+        "latitude": 25.35,
+        "longitude": -134.6667,
+        "course": "221",
+        "speed_kts": 500.0,
+        "speed_mph": 575.0,
+        "altitude_feet": 34000.0,
+        "reporting_facility": "Oakland Oceanic"
+    },
+    {
+        "time": "12:45:55",
+        "latitude": 25.0,
+        "longitude": -135.0,
+        "course": "221",
+        "speed_kts": 499.0,
+        "speed_mph": 574.0,
+        "altitude_feet": 34000.0,
+        "reporting_facility": "Oakland Oceanic"
+    },
+    {
+        "time": "12:52:10",
+        "latitude": 24.3333,
+        "longitude": -135.6333,
+        "course": "221",
+        "speed_kts": 498.0,
+        "speed_mph": 573.0,
+        "altitude_feet": 36000.0,
+        "reporting_facility": "Oakland Oceanic"
+    },
+    {
+        "time": "13:01:46",
+        "latitude": 23.3333,
+        "longitude": -136.5667,
+        "course": "220",
+        "speed_kts": 498.0,
+        "speed_mph": 573.0,
+        "altitude_feet": 36000.0,
+        "reporting_facility": "Oakland Oceanic"
+    },
+    {
+        "time": "13:11:22",
+        "latitude": 22.3167,
+        "longitude": -137.5,
+        "course": "220",
+        "speed_kts": 497.0,
+        "speed_mph": 572.0,
+        "altitude_feet": 36000.0,
+        "reporting_facility": "Oakland Oceanic"
+    },
+    {
+        "time": "13:20:58",
+        "latitude": 21.2833,
+        "longitude": -138.4167,
+        "course": "220",
+        "speed_kts": 498.0,
+        "speed_mph": 573.0,
+        "altitude_feet": 36000.0,
+        "reporting_facility": "Oakland Oceanic"
+    },
+    {
+        "time": "13:22:06",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "220",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "13:29:14",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "220",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "13:30:22",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "220",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "13:30:34",
+        "latitude": 20.2667,
+        "longitude": -139.3167,
+        "course": "223",
+        "speed_kts": 486.0,
+        "speed_mph": 559.0,
+        "altitude_feet": 36000.0,
+        "reporting_facility": "Oakland Oceanic"
+    },
+    {
+        "time": "13:30:54",
+        "latitude": 20.2333,
+        "longitude": -139.35,
+        "course": "214",
+        "speed_kts": 497.0,
+        "speed_mph": 572.0,
+        "altitude_feet": 36000.0,
+        "reporting_facility": "Oakland Oceanic"
+    },
+    {
+        "time": "13:40:10",
+        "latitude": 19.15,
+        "longitude": -140.1167,
+        "course": "214",
+        "speed_kts": 501.0,
+        "speed_mph": 577.0,
+        "altitude_feet": 36000.0,
+        "reporting_facility": "Oakland Oceanic"
+    },
+    {
+        "time": "13:49:46",
+        "latitude": 18.0333,
+        "longitude": -140.9167,
+        "course": "214",
+        "speed_kts": 502.0,
+        "speed_mph": 578.0,
+        "altitude_feet": 36000.0,
+        "reporting_facility": "Oakland Oceanic"
+    },
+    {
+        "time": "13:51:27",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "214",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "13:58:19",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "214",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "13:59:22",
+        "latitude": 16.9167,
+        "longitude": -141.6833,
+        "course": "214",
+        "speed_kts": 498.0,
+        "speed_mph": 573.0,
+        "altitude_feet": 36000.0,
+        "reporting_facility": "Oakland Oceanic"
+    },
+    {
+        "time": "14:08:57",
+        "latitude": 15.8167,
+        "longitude": -142.45,
+        "course": "213",
+        "speed_kts": 499.0,
+        "speed_mph": 574.0,
+        "altitude_feet": 36000.0,
+        "reporting_facility": "Oakland Oceanic"
+    },
+    {
+        "time": "14:15:57",
+        "latitude": 15.0,
+        "longitude": -143.0,
+        "course": "218",
+        "speed_kts": 502.0,
+        "speed_mph": 578.0,
+        "altitude_feet": 36000.0,
+        "reporting_facility": "Oakland Oceanic"
+    },
+    {
+        "time": "14:18:34",
+        "latitude": 14.7167,
+        "longitude": -143.2333,
+        "course": "218",
+        "speed_kts": 503.0,
+        "speed_mph": 579.0,
+        "altitude_feet": 36000.0,
+        "reporting_facility": "Oakland Oceanic"
+    },
+    {
+        "time": "14:28:10",
+        "latitude": 13.65,
+        "longitude": -144.1,
+        "course": "218",
+        "speed_kts": 503.0,
+        "speed_mph": 579.0,
+        "altitude_feet": 36000.0,
+        "reporting_facility": "Oakland Oceanic"
+    },
+    {
+        "time": "14:37:46",
+        "latitude": 12.6,
+        "longitude": -144.95,
+        "course": "218",
+        "speed_kts": 501.0,
+        "speed_mph": 577.0,
+        "altitude_feet": 36000.0,
+        "reporting_facility": "Oakland Oceanic"
+    },
+    {
+        "time": "14:47:22",
+        "latitude": 11.55,
+        "longitude": -145.7833,
+        "course": "218",
+        "speed_kts": 497.0,
+        "speed_mph": 572.0,
+        "altitude_feet": 36000.0,
+        "reporting_facility": "Oakland Oceanic"
+    },
+    {
+        "time": "14:56:58",
+        "latitude": 10.5,
+        "longitude": -146.6,
+        "course": "218",
+        "speed_kts": 491.0,
+        "speed_mph": 565.0,
+        "altitude_feet": 36000.0,
+        "reporting_facility": "Oakland Oceanic"
+    },
+    {
+        "time": "15:01:38",
+        "latitude": 10.0,
+        "longitude": -147.0,
+        "course": "219",
+        "speed_kts": 499.0,
+        "speed_mph": 574.0,
+        "altitude_feet": 36000.0,
+        "reporting_facility": "Oakland Oceanic"
+    },
+    {
+        "time": "15:06:34",
+        "latitude": 9.4667,
+        "longitude": -147.4333,
+        "course": "219",
+        "speed_kts": 502.0,
+        "speed_mph": 578.0,
+        "altitude_feet": 36000.0,
+        "reporting_facility": "Oakland Oceanic"
+    },
+    {
+        "time": "15:16:10",
+        "latitude": 8.4167,
+        "longitude": -148.2833,
+        "course": "218",
+        "speed_kts": 504.0,
+        "speed_mph": 580.0,
+        "altitude_feet": 36000.0,
+        "reporting_facility": "Oakland Oceanic"
+    },
+    {
+        "time": "15:17:33",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "218",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "15:24:54",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "218",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "15:25:46",
+        "latitude": 7.3667,
+        "longitude": -149.1333,
+        "course": "218",
+        "speed_kts": 506.0,
+        "speed_mph": 582.0,
+        "altitude_feet": 36000.0,
+        "reporting_facility": "Oakland Oceanic"
+    },
+    {
+        "time": "15:35:21",
+        "latitude": 6.3,
+        "longitude": -149.9667,
+        "course": "218",
+        "speed_kts": 509.0,
+        "speed_mph": 586.0,
+        "altitude_feet": 36000.0,
+        "reporting_facility": "Oakland Oceanic"
+    },
+    {
+        "time": "15:44:57",
+        "latitude": 5.2333,
+        "longitude": -150.8167,
+        "course": "218",
+        "speed_kts": 512.0,
+        "speed_mph": 589.0,
+        "altitude_feet": 36000.0,
+        "reporting_facility": "Oakland Oceanic"
+    },
+    {
+        "time": "15:47:04",
+        "latitude": 5.0,
+        "longitude": -151.0,
+        "course": "219",
+        "speed_kts": 506.0,
+        "speed_mph": 582.0,
+        "altitude_feet": 36000.0,
+        "reporting_facility": "Oakland Oceanic"
+    },
+    {
+        "time": "15:54:33",
+        "latitude": 4.1667,
+        "longitude": -151.6667,
+        "course": "219",
+        "speed_kts": 502.0,
+        "speed_mph": 578.0,
+        "altitude_feet": 36000.0,
+        "reporting_facility": "Oakland Oceanic"
+    },
+    {
+        "time": "16:04:09",
+        "latitude": 3.1167,
+        "longitude": -152.5,
+        "course": "219",
+        "speed_kts": 499.0,
+        "speed_mph": 574.0,
+        "altitude_feet": 36000.0,
+        "reporting_facility": "Oakland Oceanic"
+    },
+    {
+        "time": "16:13:45",
+        "latitude": 2.0833,
+        "longitude": -153.3333,
+        "course": "219",
+        "speed_kts": 496.0,
+        "speed_mph": 571.0,
+        "altitude_feet": 36000.0,
+        "reporting_facility": "Oakland Oceanic"
+    },
+    {
+        "time": "16:23:21",
+        "latitude": 1.05,
+        "longitude": -154.1667,
+        "course": "218",
+        "speed_kts": 498.0,
+        "speed_mph": 573.0,
+        "altitude_feet": 36000.0,
+        "reporting_facility": "Oakland Oceanic"
+    },
+    {
+        "time": "16:32:57",
+        "latitude": 0.0,
+        "longitude": -155.0,
+        "course": "219",
+        "speed_kts": 552.0,
+        "speed_mph": 635.0,
+        "altitude_feet": 36000.0,
+        "reporting_facility": "Oakland Oceanic"
+    },
+    {
+        "time": "16:42:33",
+        "latitude": -1.0167,
+        "longitude": -155.8167,
+        "course": "219",
+        "speed_kts": 489.0,
+        "speed_mph": 563.0,
+        "altitude_feet": 36000.0,
+        "reporting_facility": "Oakland Oceanic"
+    },
+    {
+        "time": "16:52:09",
+        "latitude": -2.05,
+        "longitude": -156.6333,
+        "course": "219",
+        "speed_kts": 493.0,
+        "speed_mph": 567.0,
+        "altitude_feet": 36000.0,
+        "reporting_facility": "Oakland Oceanic"
+    },
+    {
+        "time": "17:01:45",
+        "latitude": -3.0833,
+        "longitude": -157.4667,
+        "course": "219",
+        "speed_kts": 493.0,
+        "speed_mph": 567.0,
+        "altitude_feet": 36000.0,
+        "reporting_facility": "Oakland Oceanic"
+    },
+    {
+        "time": "17:11:21",
+        "latitude": -4.1,
+        "longitude": -158.2667,
+        "course": "219",
+        "speed_kts": 485.0,
+        "speed_mph": 558.0,
+        "altitude_feet": 38000.0,
+        "reporting_facility": "Oakland Oceanic"
+    },
+    {
+        "time": "17:34:31",
+        "latitude": -6.5846,
+        "longitude": -160.2552,
+        "course": "219",
+        "speed_kts": 490.0,
+        "speed_mph": 564.0,
+        "altitude_feet": 38000.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(MHX / NCMH)"
+    },
+    {
+        "time": "17:35:32",
+        "latitude": -6.6945,
+        "longitude": -160.3425,
+        "course": "219",
+        "speed_kts": 490.0,
+        "speed_mph": 564.0,
+        "altitude_feet": 37975.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(MHX / NCMH)"
+    },
+    {
+        "time": "17:36:32",
+        "latitude": -6.8018,
+        "longitude": -160.428,
+        "course": "219",
+        "speed_kts": 489.0,
+        "speed_mph": 563.0,
+        "altitude_feet": 38000.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(MHX / NCMH)"
+    },
+    {
+        "time": "17:37:30",
+        "latitude": -6.9033,
+        "longitude": -160.5088,
+        "course": "219",
+        "speed_kts": 487.0,
+        "speed_mph": 560.0,
+        "altitude_feet": 38000.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(MHX / NCMH)"
+    },
+    {
+        "time": "17:38:51",
+        "latitude": -7.0472,
+        "longitude": -160.6234,
+        "course": "219",
+        "speed_kts": 488.0,
+        "speed_mph": 562.0,
+        "altitude_feet": 37975.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(MHX / NCMH)"
+    },
+    {
+        "time": "17:41:36",
+        "latitude": -7.3397,
+        "longitude": -160.8568,
+        "course": "219",
+        "speed_kts": 489.0,
+        "speed_mph": 563.0,
+        "altitude_feet": 38000.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(MHX / NCMH)"
+    },
+    {
+        "time": "17:42:26",
+        "latitude": -7.425,
+        "longitude": -160.9249,
+        "course": "219",
+        "speed_kts": 487.0,
+        "speed_mph": 560.0,
+        "altitude_feet": 37975.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(PYE / NCPY)"
+    },
+    {
+        "time": "17:43:27",
+        "latitude": -7.5365,
+        "longitude": -161.014,
+        "course": "219",
+        "speed_kts": 488.0,
+        "speed_mph": 562.0,
+        "altitude_feet": 38000.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(MHX / NCMH)"
+    },
+    {
+        "time": "17:44:08",
+        "latitude": -7.6085,
+        "longitude": -161.0717,
+        "course": "219",
+        "speed_kts": 487.0,
+        "speed_mph": 560.0,
+        "altitude_feet": 37975.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(MHX / NCMH)"
+    },
+    {
+        "time": "17:44:51",
+        "latitude": -7.6836,
+        "longitude": -161.1317,
+        "course": "219",
+        "speed_kts": 487.0,
+        "speed_mph": 560.0,
+        "altitude_feet": 38000.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(PYE / NCPY)"
+    },
+    {
+        "time": "17:45:21",
+        "latitude": -7.7369,
+        "longitude": -161.1743,
+        "course": "219",
+        "speed_kts": 487.0,
+        "speed_mph": 560.0,
+        "altitude_feet": 37975.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(PYE / NCPY)"
+    },
+    {
+        "time": "17:46:11",
+        "latitude": -7.8251,
+        "longitude": -161.2449,
+        "course": "219",
+        "speed_kts": 490.0,
+        "speed_mph": 564.0,
+        "altitude_feet": 37975.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(PYE / NCPY)"
+    },
+    {
+        "time": "17:46:46",
+        "latitude": -7.8882,
+        "longitude": -161.2955,
+        "course": "219",
+        "speed_kts": 492.0,
+        "speed_mph": 566.0,
+        "altitude_feet": 38000.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(MHX / NCMH)"
+    },
+    {
+        "time": "17:47:34",
+        "latitude": -7.9743,
+        "longitude": -161.3645,
+        "course": "219",
+        "speed_kts": 490.0,
+        "speed_mph": 564.0,
+        "altitude_feet": 38000.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(MHX / NCMH)"
+    },
+    {
+        "time": "17:48:41",
+        "latitude": -8.0926,
+        "longitude": -161.4593,
+        "course": "219",
+        "speed_kts": 490.0,
+        "speed_mph": 564.0,
+        "altitude_feet": 37975.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(MHX / NCMH)"
+    },
+    {
+        "time": "17:49:11",
+        "latitude": -8.1472,
+        "longitude": -161.5031,
+        "course": "219",
+        "speed_kts": 491.0,
+        "speed_mph": 565.0,
+        "altitude_feet": 37975.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(MHX / NCMH)"
+    },
+    {
+        "time": "17:49:56",
+        "latitude": -8.2251,
+        "longitude": -161.5658,
+        "course": "219",
+        "speed_kts": 490.0,
+        "speed_mph": 564.0,
+        "altitude_feet": 37975.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(PYE / NCPY)"
+    },
+    {
+        "time": "17:50:41",
+        "latitude": -8.3072,
+        "longitude": -161.6317,
+        "course": "219",
+        "speed_kts": 490.0,
+        "speed_mph": 564.0,
+        "altitude_feet": 37975.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(MHX / NCMH)"
+    },
+    {
+        "time": "17:51:11",
+        "latitude": -8.3612,
+        "longitude": -161.6751,
+        "course": "219",
+        "speed_kts": 491.0,
+        "speed_mph": 565.0,
+        "altitude_feet": 38000.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(MHX / NCMH)"
+    },
+    {
+        "time": "17:51:41",
+        "latitude": -8.4147,
+        "longitude": -161.7181,
+        "course": "219",
+        "speed_kts": 491.0,
+        "speed_mph": 565.0,
+        "altitude_feet": 38000.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(MHX / NCMH)"
+    },
+    {
+        "time": "17:52:11",
+        "latitude": -8.4683,
+        "longitude": -161.7612,
+        "course": "219",
+        "speed_kts": 490.0,
+        "speed_mph": 564.0,
+        "altitude_feet": 37975.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(MHX / NCMH)"
+    },
+    {
+        "time": "17:52:41",
+        "latitude": -8.521,
+        "longitude": -161.8035,
+        "course": "219",
+        "speed_kts": 490.0,
+        "speed_mph": 564.0,
+        "altitude_feet": 38000.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(MHX / NCMH)"
+    },
+    {
+        "time": "17:53:12",
+        "latitude": -8.5746,
+        "longitude": -161.8467,
+        "course": "219",
+        "speed_kts": 489.0,
+        "speed_mph": 563.0,
+        "altitude_feet": 37975.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(MHX / NCMH)"
+    },
+    {
+        "time": "17:53:42",
+        "latitude": -8.627,
+        "longitude": -161.8889,
+        "course": "219",
+        "speed_kts": 489.0,
+        "speed_mph": 563.0,
+        "altitude_feet": 37975.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(MHX / NCMH)"
+    },
+    {
+        "time": "17:54:40",
+        "latitude": -8.7303,
+        "longitude": -161.972,
+        "course": "219",
+        "speed_kts": 491.0,
+        "speed_mph": 565.0,
+        "altitude_feet": 37975.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(MHX / NCMH)"
+    },
+    {
+        "time": "17:55:12",
+        "latitude": -8.7875,
+        "longitude": -162.0182,
+        "course": "219",
+        "speed_kts": 491.0,
+        "speed_mph": 565.0,
+        "altitude_feet": 38000.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(MHX / NCMH)"
+    },
+    {
+        "time": "17:56:18",
+        "latitude": -8.9064,
+        "longitude": -162.1141,
+        "course": "219",
+        "speed_kts": 489.0,
+        "speed_mph": 563.0,
+        "altitude_feet": 38000.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(MHX / NCMH)"
+    },
+    {
+        "time": "17:57:11",
+        "latitude": -8.9991,
+        "longitude": -162.1889,
+        "course": "219",
+        "speed_kts": 489.0,
+        "speed_mph": 563.0,
+        "altitude_feet": 37975.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(MHX / NCMH)"
+    },
+    {
+        "time": "17:57:44",
+        "latitude": -9.059,
+        "longitude": -162.2373,
+        "course": "219",
+        "speed_kts": 489.0,
+        "speed_mph": 563.0,
+        "altitude_feet": 37975.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(MHX / NCMH)"
+    },
+    {
+        "time": "17:58:43",
+        "latitude": -9.1618,
+        "longitude": -162.3203,
+        "course": "219",
+        "speed_kts": 489.0,
+        "speed_mph": 563.0,
+        "altitude_feet": 37975.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(MHX / NCMH)"
+    },
+    {
+        "time": "17:59:16",
+        "latitude": -9.2199,
+        "longitude": -162.3672,
+        "course": "219",
+        "speed_kts": 489.0,
+        "speed_mph": 563.0,
+        "altitude_feet": 38000.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(MHX / NCMH)"
+    },
+    {
+        "time": "18:00:06",
+        "latitude": -9.3078,
+        "longitude": -162.4384,
+        "course": "219",
+        "speed_kts": 489.0,
+        "speed_mph": 563.0,
+        "altitude_feet": 38000.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(MHX / NCMH)"
+    },
+    {
+        "time": "18:00:44",
+        "latitude": -9.376,
+        "longitude": -162.4935,
+        "course": "219",
+        "speed_kts": 489.0,
+        "speed_mph": 563.0,
+        "altitude_feet": 37975.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(MHX / NCMH)"
+    },
+    {
+        "time": "18:01:14",
+        "latitude": -9.4298,
+        "longitude": -162.5373,
+        "course": "219",
+        "speed_kts": 490.0,
+        "speed_mph": 564.0,
+        "altitude_feet": 37975.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(MHX / NCMH)"
+    },
+    {
+        "time": "18:02:01",
+        "latitude": -9.5116,
+        "longitude": -162.6036,
+        "course": "219",
+        "speed_kts": 489.0,
+        "speed_mph": 563.0,
+        "altitude_feet": 37975.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(MHX / NCMH)"
+    },
+    {
+        "time": "18:02:37",
+        "latitude": -9.5768,
+        "longitude": -162.6563,
+        "course": "219",
+        "speed_kts": 487.0,
+        "speed_mph": 560.0,
+        "altitude_feet": 37975.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(MHX / NCMH)"
+    },
+    {
+        "time": "18:03:10",
+        "latitude": -9.6358,
+        "longitude": -162.7042,
+        "course": "219",
+        "speed_kts": 487.0,
+        "speed_mph": 560.0,
+        "altitude_feet": 38000.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(MHX / NCMH)"
+    },
+    {
+        "time": "18:03:45",
+        "latitude": -9.6957,
+        "longitude": -162.7527,
+        "course": "219",
+        "speed_kts": 487.0,
+        "speed_mph": 560.0,
+        "altitude_feet": 38000.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(MHX / NCMH)"
+    },
+    {
+        "time": "18:04:37",
+        "latitude": -9.7869,
+        "longitude": -162.8267,
+        "course": "219",
+        "speed_kts": 487.0,
+        "speed_mph": 560.0,
+        "altitude_feet": 38000.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(MHX / NCMH)"
+    },
+    {
+        "time": "18:07:11",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "218",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "18:09:24",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "218",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "18:11:41",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "218",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "18:13:31",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "218",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "18:14:54",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "218",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "18:16:09",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "218",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "18:17:15",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "218",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "18:18:19",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "218",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "18:19:33",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "218",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "18:20:43",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "218",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "18:22:35",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "218",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "18:23:56",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "218",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "18:25:08",
+        "latitude": -11.9631,
+        "longitude": -164.5467,
+        "course": "218",
+        "speed_kts": 485.0,
+        "speed_mph": 558.0,
+        "altitude_feet": 38000.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(NCPK)"
+    },
+    {
+        "time": "18:25:38",
+        "latitude": -12.016,
+        "longitude": -164.5888,
+        "course": "218",
+        "speed_kts": 484.0,
+        "speed_mph": 557.0,
+        "altitude_feet": 37975.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(NCPK)"
+    },
+    {
+        "time": "18:26:27",
+        "latitude": -12.1033,
+        "longitude": -164.6584,
+        "course": "218",
+        "speed_kts": 487.0,
+        "speed_mph": 560.0,
+        "altitude_feet": 38000.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(NCPK)"
+    },
+    {
+        "time": "18:27:13",
+        "latitude": -12.1824,
+        "longitude": -164.7214,
+        "course": "218",
+        "speed_kts": 483.0,
+        "speed_mph": 556.0,
+        "altitude_feet": 37975.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(NCPK)"
+    },
+    {
+        "time": "18:29:40",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "218",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "18:30:55",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "218",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "18:31:56",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "218",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "18:33:06",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "218",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "18:34:06",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "218",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "18:35:22",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "218",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "18:36:35",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "218",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "18:38:44",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "218",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "18:40:57",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "218",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "18:41:58",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "218",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "18:43:15",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "218",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "18:44:20",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "218",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "18:45:31",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "218",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "18:46:35",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "218",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "18:47:45",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "218",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "18:48:47",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "218",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "18:49:51",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "218",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "18:51:12",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "218",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "18:52:15",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "218",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "18:53:30",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "218",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "18:54:38",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "209",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "18:55:45",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "209",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "18:56:58",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "209",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "18:58:09",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "209",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "18:59:17",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "209",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "19:00:27",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "209",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "19:02:37",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "209",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "19:04:43",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "209",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "19:05:55",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "210",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "19:07:08",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "210",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "19:08:12",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "210",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "19:10:29",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "210",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "19:11:39",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "210",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "19:12:49",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "210",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "19:14:51",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "210",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "19:16:09",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "210",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "19:18:21",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "210",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "19:20:29",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "210",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "19:22:44",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "210",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "19:23:49",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "210",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "19:25:01",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "210",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "19:26:06",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "210",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "19:27:18",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "210",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "19:28:24",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "210",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "19:29:31",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "210",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "19:30:39",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "210",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "19:31:41",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "210",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "19:32:59",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "210",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "19:34:03",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "210",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "19:35:21",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "210",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "19:36:27",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "210",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "19:37:31",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "210",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "19:38:44",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "208",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "19:39:46",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "208",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "19:41:05",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "208",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "19:43:18",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "209",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "19:44:26",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "209",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "19:45:30",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "209",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "19:46:43",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "209",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "19:47:55",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "209",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "19:49:02",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "209",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "19:50:06",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "209",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "19:51:15",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "209",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "19:52:27",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "209",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "19:53:32",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "209",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "19:54:34",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "209",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "19:55:55",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "209",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "19:57:00",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "209",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "19:58:05",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "209",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "19:59:06",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "209",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "20:00:27",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "209",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "20:01:35",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "209",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "20:03:47",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "209",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "20:05:54",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "209",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "20:07:07",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "209",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "20:08:10",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "209",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "20:09:25",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "209",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "20:10:31",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "209",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "20:12:35",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "209",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "20:14:54",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "209",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "20:15:58",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "209",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "20:17:03",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "209",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "20:18:19",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "209",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "20:19:27",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "209",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "20:20:34",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "210",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "20:21:47",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "207",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "20:22:56",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "207",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "20:24:01",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "207",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "20:25:15",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "207",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "20:26:25",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "207",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "20:27:31",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "207",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "20:28:43",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "208",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "20:30:46",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "208",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "20:31:59",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "208",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "20:33:04",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "208",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "20:34:11",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "208",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "20:35:33",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "208",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "20:36:38",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "208",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "20:37:48",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "208",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "20:38:59",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "208",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "20:40:03",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "208",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "20:41:20",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "208",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "20:43:24",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "208",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "20:44:38",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "208",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "20:46:45",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "208",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "20:49:04",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "208",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "20:50:07",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "208",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "20:51:09",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "208",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "20:52:32",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "208",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "20:53:33",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "208",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "20:54:49",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "208",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "20:55:54",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "208",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "20:56:59",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "208",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "20:58:16",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "208",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "20:59:22",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "209",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "21:00:26",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "209",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "21:01:37",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "209",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "21:02:50",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "209",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "21:03:51",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "209",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "21:05:09",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "217",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "21:06:13",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "217",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "21:07:21",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "217",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "21:08:36",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "217",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "21:09:44",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "217",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "21:10:50",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "217",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "21:12:00",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "217",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "21:14:04",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "217",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "21:15:16",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "218",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "21:16:27",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "218",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "21:17:33",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "218",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "21:18:47",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "218",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "21:19:51",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "218",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "21:20:59",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "218",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "21:22:07",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "218",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "21:23:17",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "218",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "21:24:26",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "218",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "21:25:31",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "218",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "21:26:48",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "218",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "21:27:51",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "218",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "21:28:56",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "218",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "21:30:09",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "218",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "21:31:15",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "218",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "21:32:27",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "218",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "21:33:34",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "218",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "21:34:44",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "219",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "21:35:44",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "219",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "21:37:01",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "219",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "21:38:06",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "219",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "21:39:21",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "219",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "21:40:27",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "219",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "21:41:33",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "219",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "21:42:44",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "219",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "21:44:48",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "219",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "21:46:03",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "219",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "21:47:08",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "219",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "21:48:10",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "219",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "21:49:20",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "219",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "21:50:32",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "course": "219",
+        "speed_kts": 0.0,
+        "speed_mph": 0.0,
+        "altitude_feet": 0.0,
+        "reporting_facility": "FlightAware Approximate"
+    },
+    {
+        "time": "21:51:00",
+        "latitude": -34.2333,
+        "longitude": -179.9167,
+        "course": "219",
+        "speed_kts": 489.0,
+        "speed_mph": 563.0,
+        "altitude_feet": 37975.0,
+        "reporting_facility": "New Zealand"
+    },
+    {
+        "time": "21:52:02",
+        "latitude": -34.3333,
+        "longitude": 179.9833,
+        "course": "220",
+        "speed_kts": 489.0,
+        "speed_mph": 563.0,
+        "altitude_feet": 37975.0,
+        "reporting_facility": "New Zealand"
+    },
+    {
+        "time": "21:53:03",
+        "latitude": -34.45,
+        "longitude": 179.8667,
+        "course": "219",
+        "speed_kts": 490.0,
+        "speed_mph": 564.0,
+        "altitude_feet": 37975.0,
+        "reporting_facility": "New Zealand"
+    },
+    {
+        "time": "21:54:04",
+        "latitude": -34.55,
+        "longitude": 179.7667,
+        "course": "219",
+        "speed_kts": 486.0,
+        "speed_mph": 559.0,
+        "altitude_feet": 37975.0,
+        "reporting_facility": "New Zealand"
+    },
+    {
+        "time": "21:55:07",
+        "latitude": -34.6667,
+        "longitude": 179.65,
+        "course": "219",
+        "speed_kts": 489.0,
+        "speed_mph": 563.0,
+        "altitude_feet": 37975.0,
+        "reporting_facility": "New Zealand"
+    },
+    {
+        "time": "21:56:10",
+        "latitude": -34.7667,
+        "longitude": 179.55,
+        "course": "219",
+        "speed_kts": 491.0,
+        "speed_mph": 565.0,
+        "altitude_feet": 37975.0,
+        "reporting_facility": "New Zealand"
+    },
+    {
+        "time": "21:57:13",
+        "latitude": -34.8833,
+        "longitude": 179.4333,
+        "course": "219",
+        "speed_kts": 492.0,
+        "speed_mph": 566.0,
+        "altitude_feet": 37975.0,
+        "reporting_facility": "New Zealand"
+    },
+    {
+        "time": "21:58:02",
+        "latitude": -34.9665,
+        "longitude": 179.3498,
+        "course": "220",
+        "speed_kts": 490.0,
+        "speed_mph": 564.0,
+        "altitude_feet": 39000.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(WHK / NZWK)"
+    },
+    {
+        "time": "21:58:51",
+        "latitude": -35.0511,
+        "longitude": 179.2643,
+        "course": "220",
+        "speed_kts": 489.0,
+        "speed_mph": 563.0,
+        "altitude_feet": 38975.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(WHK / NZWK)"
+    },
+    {
+        "time": "21:59:36",
+        "latitude": -35.1318,
+        "longitude": 179.1825,
+        "course": "220",
+        "speed_kts": 488.0,
+        "speed_mph": 562.0,
+        "altitude_feet": 39000.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(WHK / NZWK)"
+    },
+    {
+        "time": "22:00:08",
+        "latitude": -35.1883,
+        "longitude": 179.1251,
+        "course": "220",
+        "speed_kts": 488.0,
+        "speed_mph": 562.0,
+        "altitude_feet": 39000.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(NZRW)"
+    },
+    {
+        "time": "22:00:48",
+        "latitude": -35.2586,
+        "longitude": 179.0536,
+        "course": "220",
+        "speed_kts": 489.0,
+        "speed_mph": 563.0,
+        "altitude_feet": 38975.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(NZRW)"
+    },
+    {
+        "time": "22:01:18",
+        "latitude": -35.3101,
+        "longitude": 179.0012,
+        "course": "220",
+        "speed_kts": 489.0,
+        "speed_mph": 563.0,
+        "altitude_feet": 38975.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(NZRW)"
+    },
+    {
+        "time": "22:01:48",
+        "latitude": -35.3624,
+        "longitude": 178.9476,
+        "course": "220",
+        "speed_kts": 490.0,
+        "speed_mph": 564.0,
+        "altitude_feet": 39000.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(NZRW)"
+    },
+    {
+        "time": "22:02:35",
+        "latitude": -35.4432,
+        "longitude": 178.8648,
+        "course": "220",
+        "speed_kts": 488.0,
+        "speed_mph": 562.0,
+        "altitude_feet": 38975.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(NZRW)"
+    },
+    {
+        "time": "22:03:05",
+        "latitude": -35.4954,
+        "longitude": 178.8115,
+        "course": "220",
+        "speed_kts": 486.0,
+        "speed_mph": 559.0,
+        "altitude_feet": 39000.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(NZRW)"
+    },
+    {
+        "time": "22:03:37",
+        "latitude": -35.5519,
+        "longitude": 178.7535,
+        "course": "220",
+        "speed_kts": 487.0,
+        "speed_mph": 560.0,
+        "altitude_feet": 38975.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(AMZ / NZAR)"
+    },
+    {
+        "time": "22:04:08",
+        "latitude": -35.6044,
+        "longitude": 178.6994,
+        "course": "220",
+        "speed_kts": 488.0,
+        "speed_mph": 562.0,
+        "altitude_feet": 39000.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(TRG / NZTG)"
+    },
+    {
+        "time": "22:04:41",
+        "latitude": -35.6619,
+        "longitude": 178.6393,
+        "course": "223",
+        "speed_kts": 483.0,
+        "speed_mph": 556.0,
+        "altitude_feet": 38975.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(NZRW)"
+    },
+    {
+        "time": "22:05:00",
+        "latitude": -35.6898,
+        "longitude": 178.6007,
+        "course": "233",
+        "speed_kts": 475.0,
+        "speed_mph": 547.0,
+        "altitude_feet": 38975.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(AMZ / NZAR)"
+    },
+    {
+        "time": "22:05:20",
+        "latitude": -35.7123,
+        "longitude": 178.556,
+        "course": "243",
+        "speed_kts": 468.0,
+        "speed_mph": 539.0,
+        "altitude_feet": 39000.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(AMZ / NZAR)"
+    },
+    {
+        "time": "22:05:50",
+        "latitude": -35.7389,
+        "longitude": 178.4842,
+        "course": "246",
+        "speed_kts": 466.0,
+        "speed_mph": 536.0,
+        "altitude_feet": 38975.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(AMZ / NZAR)"
+    },
+    {
+        "time": "22:06:20",
+        "latitude": -35.7657,
+        "longitude": 178.4115,
+        "course": "246",
+        "speed_kts": 466.0,
+        "speed_mph": 536.0,
+        "altitude_feet": 38975.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(AMZ / NZAR)"
+    },
+    {
+        "time": "22:06:54",
+        "latitude": -35.7951,
+        "longitude": 178.3315,
+        "course": "246",
+        "speed_kts": 466.0,
+        "speed_mph": 536.0,
+        "altitude_feet": 39000.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(AKL / NZAA)"
+    },
+    {
+        "time": "22:07:32",
+        "latitude": -35.8291,
+        "longitude": 178.2389,
+        "course": "246",
+        "speed_kts": 468.0,
+        "speed_mph": 539.0,
+        "altitude_feet": 39000.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(TRG / NZTG)"
+    },
+    {
+        "time": "22:08:02",
+        "latitude": -35.8559,
+        "longitude": 178.1654,
+        "course": "246",
+        "speed_kts": 470.0,
+        "speed_mph": 541.0,
+        "altitude_feet": 39000.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(TRG / NZTG)"
+    },
+    {
+        "time": "22:08:35",
+        "latitude": -35.8842,
+        "longitude": 178.0879,
+        "course": "246",
+        "speed_kts": 471.0,
+        "speed_mph": 542.0,
+        "altitude_feet": 38975.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(AKL / NZAA)"
+    },
+    {
+        "time": "22:09:08",
+        "latitude": -35.9145,
+        "longitude": 178.0046,
+        "course": "246",
+        "speed_kts": 472.0,
+        "speed_mph": 543.0,
+        "altitude_feet": 39000.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(TRG / NZTG)"
+    },
+    {
+        "time": "22:09:38",
+        "latitude": -35.9421,
+        "longitude": 177.929,
+        "course": "246",
+        "speed_kts": 472.0,
+        "speed_mph": 543.0,
+        "altitude_feet": 39000.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(TRG / NZTG)"
+    },
+    {
+        "time": "22:10:08",
+        "latitude": -35.9686,
+        "longitude": 177.8556,
+        "course": "246",
+        "speed_kts": 472.0,
+        "speed_mph": 543.0,
+        "altitude_feet": 39000.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(TRG / NZTG)"
+    },
+    {
+        "time": "22:10:38",
+        "latitude": -35.9953,
+        "longitude": 177.7818,
+        "course": "246",
+        "speed_kts": 472.0,
+        "speed_mph": 543.0,
+        "altitude_feet": 39000.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(TRG / NZTG)"
+    },
+    {
+        "time": "22:11:08",
+        "latitude": -36.0219,
+        "longitude": 177.708,
+        "course": "246",
+        "speed_kts": 471.0,
+        "speed_mph": 542.0,
+        "altitude_feet": 38975.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(TRG / NZTG)"
+    },
+    {
+        "time": "22:11:40",
+        "latitude": -36.0493,
+        "longitude": 177.6317,
+        "course": "246",
+        "speed_kts": 471.0,
+        "speed_mph": 542.0,
+        "altitude_feet": 38875.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(WHK / NZWK)"
+    },
+    {
+        "time": "22:12:13",
+        "latitude": -36.0787,
+        "longitude": 177.5497,
+        "course": "246",
+        "speed_kts": 469.0,
+        "speed_mph": 540.0,
+        "altitude_feet": 37800.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(NZRW)"
+    },
+    {
+        "time": "22:12:43",
+        "latitude": -36.105,
+        "longitude": 177.4769,
+        "course": "246",
+        "speed_kts": 467.0,
+        "speed_mph": 537.0,
+        "altitude_feet": 36650.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(WHK / NZWK)"
+    },
+    {
+        "time": "22:13:13",
+        "latitude": -36.1313,
+        "longitude": 177.4038,
+        "course": "246",
+        "speed_kts": 469.0,
+        "speed_mph": 540.0,
+        "altitude_feet": 35275.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(NZRW)"
+    },
+    {
+        "time": "22:13:43",
+        "latitude": -36.1573,
+        "longitude": 177.3304,
+        "course": "246",
+        "speed_kts": 459.0,
+        "speed_mph": 528.0,
+        "altitude_feet": 34275.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(NZRW)"
+    },
+    {
+        "time": "22:14:13",
+        "latitude": -36.1826,
+        "longitude": 177.2587,
+        "course": "246",
+        "speed_kts": 452.0,
+        "speed_mph": 520.0,
+        "altitude_feet": 33300.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(NZRW)"
+    },
+    {
+        "time": "22:14:43",
+        "latitude": -36.208,
+        "longitude": 177.1877,
+        "course": "246",
+        "speed_kts": 446.0,
+        "speed_mph": 513.0,
+        "altitude_feet": 32250.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(NZRW)"
+    },
+    {
+        "time": "22:15:13",
+        "latitude": -36.2324,
+        "longitude": 177.1183,
+        "course": "246",
+        "speed_kts": 440.0,
+        "speed_mph": 506.0,
+        "altitude_feet": 31225.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(TRG / NZTG)"
+    },
+    {
+        "time": "22:15:43",
+        "latitude": -36.2564,
+        "longitude": 177.0492,
+        "course": "247",
+        "speed_kts": 430.0,
+        "speed_mph": 495.0,
+        "altitude_feet": 30275.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(NZRW)"
+    },
+    {
+        "time": "22:16:21",
+        "latitude": -36.2859,
+        "longitude": 176.9666,
+        "course": "246",
+        "speed_kts": 420.0,
+        "speed_mph": 483.0,
+        "altitude_feet": 29175.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(NZPI)"
+    },
+    {
+        "time": "22:16:51",
+        "latitude": -36.3094,
+        "longitude": 176.9004,
+        "course": "247",
+        "speed_kts": 416.0,
+        "speed_mph": 479.0,
+        "altitude_feet": 28250.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(NZPI)"
+    },
+    {
+        "time": "22:17:21",
+        "latitude": -36.331,
+        "longitude": 176.8372,
+        "course": "247",
+        "speed_kts": 415.0,
+        "speed_mph": 478.0,
+        "altitude_feet": 27475.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(WHK / NZWK)"
+    },
+    {
+        "time": "22:17:51",
+        "latitude": -36.3534,
+        "longitude": 176.7725,
+        "course": "247",
+        "speed_kts": 415.0,
+        "speed_mph": 478.0,
+        "altitude_feet": 26575.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(WHK / NZWK)"
+    },
+    {
+        "time": "22:18:21",
+        "latitude": -36.376,
+        "longitude": 176.7078,
+        "course": "247",
+        "speed_kts": 407.0,
+        "speed_mph": 468.0,
+        "altitude_feet": 25675.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(WHK / NZWK)"
+    },
+    {
+        "time": "22:19:00",
+        "latitude": -36.406,
+        "longitude": 176.6215,
+        "course": "247",
+        "speed_kts": 393.0,
+        "speed_mph": 452.0,
+        "altitude_feet": 24575.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(NZRW)"
+    },
+    {
+        "time": "22:19:34",
+        "latitude": -36.4293,
+        "longitude": 176.5543,
+        "course": "246",
+        "speed_kts": 386.0,
+        "speed_mph": 444.0,
+        "altitude_feet": 23700.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(ROT / NZRO)"
+    },
+    {
+        "time": "22:19:57",
+        "latitude": -36.4464,
+        "longitude": 176.5055,
+        "course": "247",
+        "speed_kts": 383.0,
+        "speed_mph": 441.0,
+        "altitude_feet": 23050.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(TRG / NZTG)"
+    },
+    {
+        "time": "22:20:28",
+        "latitude": -36.4677,
+        "longitude": 176.4442,
+        "course": "247",
+        "speed_kts": 376.0,
+        "speed_mph": 433.0,
+        "altitude_feet": 22225.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(NZKE)"
+    },
+    {
+        "time": "22:20:58",
+        "latitude": -36.4881,
+        "longitude": 176.3844,
+        "course": "247",
+        "speed_kts": 370.0,
+        "speed_mph": 426.0,
+        "altitude_feet": 21450.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(NZKE)"
+    },
+    {
+        "time": "22:21:28",
+        "latitude": -36.5081,
+        "longitude": 176.3258,
+        "course": "247",
+        "speed_kts": 369.0,
+        "speed_mph": 425.0,
+        "altitude_feet": 20675.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(TRG / NZTG)"
+    },
+    {
+        "time": "22:22:13",
+        "latitude": -36.5373,
+        "longitude": 176.2416,
+        "course": "248",
+        "speed_kts": 360.0,
+        "speed_mph": 414.0,
+        "altitude_feet": 19600.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(AKL / NZAA)"
+    },
+    {
+        "time": "22:22:43",
+        "latitude": -36.5563,
+        "longitude": 176.1856,
+        "course": "248",
+        "speed_kts": 358.0,
+        "speed_mph": 412.0,
+        "altitude_feet": 18825.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(AKL / NZAA)"
+    },
+    {
+        "time": "22:23:13",
+        "latitude": -36.5765,
+        "longitude": 176.1266,
+        "course": "247",
+        "speed_kts": 355.0,
+        "speed_mph": 409.0,
+        "altitude_feet": 17950.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(NZPI)"
+    },
+    {
+        "time": "22:23:33",
+        "latitude": -36.5889,
+        "longitude": 176.0905,
+        "course": "247",
+        "speed_kts": 352.0,
+        "speed_mph": 405.0,
+        "altitude_feet": 17525.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(AKL / NZAA)"
+    },
+    {
+        "time": "22:24:03",
+        "latitude": -36.6081,
+        "longitude": 176.0341,
+        "course": "247",
+        "speed_kts": 350.0,
+        "speed_mph": 403.0,
+        "altitude_feet": 16650.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(NZPI)"
+    },
+    {
+        "time": "22:24:33",
+        "latitude": -36.6271,
+        "longitude": 175.9784,
+        "course": "247",
+        "speed_kts": 347.0,
+        "speed_mph": 399.0,
+        "altitude_feet": 15850.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(NZPI)"
+    },
+    {
+        "time": "22:25:04",
+        "latitude": -36.6457,
+        "longitude": 175.9232,
+        "course": "248",
+        "speed_kts": 341.0,
+        "speed_mph": 392.0,
+        "altitude_feet": 15125.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(AKL / NZAA)"
+    },
+    {
+        "time": "22:25:34",
+        "latitude": -36.6643,
+        "longitude": 175.8689,
+        "course": "247",
+        "speed_kts": 335.0,
+        "speed_mph": 386.0,
+        "altitude_feet": 14550.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(AMZ / NZAR)"
+    },
+    {
+        "time": "22:26:04",
+        "latitude": -36.6822,
+        "longitude": 175.816,
+        "course": "248",
+        "speed_kts": 337.0,
+        "speed_mph": 388.0,
+        "altitude_feet": 13850.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(AMZ / NZAR)"
+    },
+    {
+        "time": "22:26:37",
+        "latitude": -36.7023,
+        "longitude": 175.7563,
+        "course": "247",
+        "speed_kts": 337.0,
+        "speed_mph": 388.0,
+        "altitude_feet": 12900.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(NZKE)"
+    },
+    {
+        "time": "22:27:09",
+        "latitude": -36.7211,
+        "longitude": 175.7006,
+        "course": "247",
+        "speed_kts": 333.0,
+        "speed_mph": 383.0,
+        "altitude_feet": 12000.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(AKL / NZAA)"
+    },
+    {
+        "time": "22:27:39",
+        "latitude": -36.7389,
+        "longitude": 175.6476,
+        "course": "248",
+        "speed_kts": 333.0,
+        "speed_mph": 383.0,
+        "altitude_feet": 11175.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(AKL / NZAA)"
+    },
+    {
+        "time": "22:28:09",
+        "latitude": -36.757,
+        "longitude": 175.5946,
+        "course": "248",
+        "speed_kts": 322.0,
+        "speed_mph": 371.0,
+        "altitude_feet": 10775.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(AKL / NZAA)"
+    },
+    {
+        "time": "22:28:39",
+        "latitude": -36.7735,
+        "longitude": 175.5446,
+        "course": "249",
+        "speed_kts": 310.0,
+        "speed_mph": 357.0,
+        "altitude_feet": 10500.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(AKL / NZAA)"
+    },
+    {
+        "time": "22:29:09",
+        "latitude": -36.7897,
+        "longitude": 175.4966,
+        "course": "247",
+        "speed_kts": 283.0,
+        "speed_mph": 326.0,
+        "altitude_feet": 10425.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(AKL / NZAA)"
+    },
+    {
+        "time": "22:29:29",
+        "latitude": -36.7998,
+        "longitude": 175.4666,
+        "course": "247",
+        "speed_kts": 276.0,
+        "speed_mph": 318.0,
+        "altitude_feet": 9975.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(NZPK)"
+    },
+    {
+        "time": "22:29:55",
+        "latitude": -36.812,
+        "longitude": 175.4292,
+        "course": "249",
+        "speed_kts": 274.0,
+        "speed_mph": 315.0,
+        "altitude_feet": 9225.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(AKL / NZAA)"
+    },
+    {
+        "time": "22:30:26",
+        "latitude": -36.8277,
+        "longitude": 175.3826,
+        "course": "247",
+        "speed_kts": 272.0,
+        "speed_mph": 313.0,
+        "altitude_feet": 8450.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(NZPI)"
+    },
+    {
+        "time": "22:30:46",
+        "latitude": -36.8366,
+        "longitude": 175.3557,
+        "course": "249",
+        "speed_kts": 265.0,
+        "speed_mph": 305.0,
+        "altitude_feet": 7925.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(AKL / NZAA)"
+    },
+    {
+        "time": "22:31:16",
+        "latitude": -36.8507,
+        "longitude": 175.3137,
+        "course": "248",
+        "speed_kts": 266.0,
+        "speed_mph": 306.0,
+        "altitude_feet": 7100.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(NZPK)"
+    },
+    {
+        "time": "22:31:44",
+        "latitude": -36.8648,
+        "longitude": 175.2716,
+        "course": "247",
+        "speed_kts": 268.0,
+        "speed_mph": 308.0,
+        "altitude_feet": 6450.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(NZKE)"
+    },
+    {
+        "time": "22:32:12",
+        "latitude": -36.8774,
+        "longitude": 175.2334,
+        "course": "248",
+        "speed_kts": 270.0,
+        "speed_mph": 311.0,
+        "altitude_feet": 5875.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(AKL / NZAA)"
+    },
+    {
+        "time": "22:32:32",
+        "latitude": -36.8869,
+        "longitude": 175.2045,
+        "course": "248",
+        "speed_kts": 272.0,
+        "speed_mph": 313.0,
+        "altitude_feet": 5450.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(AKL / NZAA)"
+    },
+    {
+        "time": "22:33:01",
+        "latitude": -36.901,
+        "longitude": 175.1624,
+        "course": "249",
+        "speed_kts": 262.0,
+        "speed_mph": 302.0,
+        "altitude_feet": 4825.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(AKL / NZAA)"
+    },
+    {
+        "time": "22:33:22",
+        "latitude": -36.9108,
+        "longitude": 175.1327,
+        "course": "248",
+        "speed_kts": 246.0,
+        "speed_mph": 283.0,
+        "altitude_feet": 4575.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(NZPK)"
+    },
+    {
+        "time": "22:33:47",
+        "latitude": -36.9209,
+        "longitude": 175.102,
+        "course": "248",
+        "speed_kts": 233.0,
+        "speed_mph": 268.0,
+        "altitude_feet": 4400.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(AKL / NZAA)"
+    },
+    {
+        "time": "22:34:10",
+        "latitude": -36.9302,
+        "longitude": 175.0747,
+        "course": "248",
+        "speed_kts": 219.0,
+        "speed_mph": 252.0,
+        "altitude_feet": 4250.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(NZPK)"
+    },
+    {
+        "time": "22:34:39",
+        "latitude": -36.9409,
+        "longitude": 175.0425,
+        "course": "250",
+        "speed_kts": 196.0,
+        "speed_mph": 226.0,
+        "altitude_feet": 4100.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(AKL / NZAA)"
+    },
+    {
+        "time": "22:34:56",
+        "latitude": -36.946,
+        "longitude": 175.0246,
+        "course": "251",
+        "speed_kts": 193.0,
+        "speed_mph": 222.0,
+        "altitude_feet": 3850.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(NZWP)"
+    },
+    {
+        "time": "22:35:26",
+        "latitude": -36.9549,
+        "longitude": 174.9922,
+        "course": "251",
+        "speed_kts": 191.0,
+        "speed_mph": 220.0,
+        "altitude_feet": 3350.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(AKL / NZAA)"
+    },
+    {
+        "time": "22:35:42",
+        "latitude": -36.9593,
+        "longitude": 174.9764,
+        "course": "251",
+        "speed_kts": 189.0,
+        "speed_mph": 217.0,
+        "altitude_feet": 3125.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(AKL / NZAA)"
+    },
+    {
+        "time": "22:35:58",
+        "latitude": -36.9639,
+        "longitude": 174.9601,
+        "course": "251",
+        "speed_kts": 177.0,
+        "speed_mph": 204.0,
+        "altitude_feet": 3025.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(NZPI)"
+    },
+    {
+        "time": "22:36:14",
+        "latitude": -36.9678,
+        "longitude": 174.946,
+        "course": "251",
+        "speed_kts": 166.0,
+        "speed_mph": 191.0,
+        "altitude_feet": 2900.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(AKL / NZAA)"
+    },
+    {
+        "time": "22:36:31",
+        "latitude": -36.9724,
+        "longitude": 174.9295,
+        "course": "251",
+        "speed_kts": 162.0,
+        "speed_mph": 186.0,
+        "altitude_feet": 2625.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(AKL / NZAA)"
+    },
+    {
+        "time": "22:36:47",
+        "latitude": -36.9762,
+        "longitude": 174.9158,
+        "course": "251",
+        "speed_kts": 162.0,
+        "speed_mph": 186.0,
+        "altitude_feet": 2425.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(AKL / NZAA)"
+    },
+    {
+        "time": "22:37:09",
+        "latitude": -36.9813,
+        "longitude": 174.8972,
+        "course": "251",
+        "speed_kts": 157.0,
+        "speed_mph": 181.0,
+        "altitude_feet": 2100.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(AKL / NZAA)"
+    },
+    {
+        "time": "22:37:32",
+        "latitude": -36.9867,
+        "longitude": 174.8779,
+        "course": "251",
+        "speed_kts": 148.0,
+        "speed_mph": 170.0,
+        "altitude_feet": 1825.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(AKL / NZAA)"
+    },
+    {
+        "time": "22:37:48",
+        "latitude": -36.9904,
+        "longitude": 174.8647,
+        "course": "251",
+        "speed_kts": 147.0,
+        "speed_mph": 169.0,
+        "altitude_feet": 1600.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(NZPK)"
+    },
+    {
+        "time": "22:38:04",
+        "latitude": -36.9936,
+        "longitude": 174.8528,
+        "course": "251",
+        "speed_kts": 147.0,
+        "speed_mph": 169.0,
+        "altitude_feet": 1425.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(AKL / NZAA)"
+    },
+    {
+        "time": "22:38:20",
+        "latitude": -36.9975,
+        "longitude": 174.8388,
+        "course": "251",
+        "speed_kts": 147.0,
+        "speed_mph": 169.0,
+        "altitude_feet": 1200.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(AKL / NZAA)"
+    },
+    {
+        "time": "22:38:36",
+        "latitude": -37.0009,
+        "longitude": 174.8264,
+        "course": "251",
+        "speed_kts": 148.0,
+        "speed_mph": 170.0,
+        "altitude_feet": 1000.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(NZPI)"
+    },
+    {
+        "time": "22:38:52",
+        "latitude": -37.0048,
+        "longitude": 174.8126,
+        "course": "251",
+        "speed_kts": 150.0,
+        "speed_mph": 173.0,
+        "altitude_feet": 800.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(AKL / NZAA)"
+    },
+    {
+        "time": "22:39:08",
+        "latitude": -37.0082,
+        "longitude": 174.8001,
+        "course": "252",
+        "speed_kts": 150.0,
+        "speed_mph": 173.0,
+        "altitude_feet": 600.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(NZPK)"
+    },
+    {
+        "time": "22:39:24",
+        "latitude": -37.0119,
+        "longitude": 174.7867,
+        "course": "250",
+        "speed_kts": 141.0,
+        "speed_mph": 162.0,
+        "altitude_feet": 425.0,
+        "reporting_facility": "FlightAware ADS-B\u00a0(AKL / NZAA)"
+    }
+]
