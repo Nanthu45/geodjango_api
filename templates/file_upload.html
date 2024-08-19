@@ -1,0 +1,82 @@
+<h2>TASK-2</h2>
+<p>Write a Django API to open the file and read the CSV file into the database having same keys as the columns in the CSV
+</p>
+<form action="{% url 'csv_upload' %}" method="post" enctype="multipart/form-data">
+    {% csrf_token %}
+    <label for="file">CSV File:</label>
+    <input type="file" id="file" name="file" accept=".csv" required>
+    <button type="submit" >Upload to PSQL</button>
+</form>
+
+<hr>
+
+<h2>TASK-3</h2>
+<p>Write an API to Sort the Array based on the first column 'Time' and export the entire sorted data as JSON file with Time in ISO format
+</p>
+<form action="{% url 'json_download' %}" method="post" enctype="multipart/form-data">
+    {% csrf_token %}
+    <input type="file" id="file" name="file" accept=".csv" required>
+    <button type="submit" name="convert">Download csv as JSON</button>
+</form>
+
+<hr>
+
+<h2>TASK-4</h2>
+<p>Write an API to Sort the Array based on the first column 'Time', convert the data to line and export the entire sorted data in LineString as GeoJSON file with Time in ISO format 
+</p>
+<form action="{% url 'geojson_download' %}" method="post" enctype="multipart/form-data">
+    {% csrf_token %}
+    <input type="file" id="file" name="file" accept=".csv" required>
+    <button type="submit" name="convert_geojson">Download latlong as GeoJSON</button>
+</form>
+
+<hr>
+
+<h2>TASK-5</h2>
+<p>Write an API to Sort the data now using altitude column and Transform the coordinates of the aircraft into image-pixel coordinates
+</p>
+<form action="{% url 'transformed_geojson_download' %}" method="post" enctype="multipart/form-data">
+    {% csrf_token %}
+    <input type="file" id="file" name="file" accept=".csv" required>
+    <button type="submit" name="transform_altitude_geojson">Download Transformed GeoJSON</button>
+</form>
+
+<hr>
+
+<h2>TASK-6</h2>
+<p>Write an API to Load the world.tif geotiff file attached using PIL/OpenCV or equivalent Image library and Draw the trajectory of the flight on the loaded image as a connected yellow line through all points 
+</p>
+<form action="{% url 'load_geotiff_and_draw_trajectory' %}" method="POST" enctype="multipart/form-data">
+    {% csrf_token %}
+    <label for="tifffile">Select GeoTIFF File:</label>
+    <input type="file" id="tifffile" name="tifffile" accept=".tif,.tiff" required><br><br>
+    <label for="csvfile">Select CSV File:</label>
+    <input type="file" id="csvfile" name="csvfile" accept=".csv" required><br><br>
+    <button type="submit" name="load_geotiff_and_draw_trajectory">Upload and Process</button>
+</form>
+
+<hr>
+
+<h2>TASK-7</h2>
+<p>Write an API to store latitude, longitude as points in the PostGIS database as points and attach a screenshot viewing in the Postgresql geometry viewer
+</p>
+<form action="{% url 'lat_long_to_geompsql_point' %}" method="post" enctype="multipart/form-data">
+    {% csrf_token %}
+    <label for="file">Choose CSV file:</label>
+    <input type="file" id="file" name="file" accept=".csv" required>
+    <button type="submit"name="lat_long_to_geompsql_point">Upload-LatLong-Points</button>
+</form>
+
+<hr>
+
+<h2>TASK-8</h2>
+<p>Write an API to store the joined latitude, longitude as a LineString in the PostGIS database as points and attach a screenshot viewing in the Postgresql geometry viewer
+</p> 
+<form action="{% url 'lat_long_to_linestring' %}" method="post" enctype="multipart/form-data">
+    {% csrf_token %}
+    <label for="file">Choose CSV file:</label>
+    <input type="file" id="file" name="file" accept=".csv" required>
+    <label for="name">Route Name:</label>
+    <input type="text" id="name" name="name" placeholder="Enter route name">
+    <button type="submit" name="lat_long_to_linestring">Upload LatLong Points</button>
+</form>

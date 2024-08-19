@@ -1,0 +1,4702 @@
+[
+    {
+        "Time": "1900-01-01T10:34:03",
+        "Latitude": "33.9354",
+        "Longitude": "-118.4232",
+        "Course": "262",
+        "SpeedKts": "182",
+        "SpeedMph": "209",
+        "AltitudeFeet": "750",
+        "Reporting Facility": "FlightAware ADS-B (KSNA)"
+    },
+    {
+        "Time": "1900-01-01T10:34:19",
+        "Latitude": "33.9337",
+        "Longitude": "-118.4396",
+        "Course": "264",
+        "SpeedKts": "184",
+        "SpeedMph": "212",
+        "AltitudeFeet": "1300",
+        "Reporting Facility": "FlightAware ADS-B (KSNA)"
+    },
+    {
+        "Time": "1900-01-01T10:34:35",
+        "Latitude": "33.9321",
+        "Longitude": "-118.4559",
+        "Course": "263",
+        "SpeedKts": "196",
+        "SpeedMph": "226",
+        "AltitudeFeet": "1775",
+        "Reporting Facility": "FlightAware ADS-B (KSMO)"
+    },
+    {
+        "Time": "1900-01-01T10:34:51",
+        "Latitude": "33.9303",
+        "Longitude": "-118.4759",
+        "Course": "265",
+        "SpeedKts": "218",
+        "SpeedMph": "251",
+        "AltitudeFeet": "2025",
+        "Reporting Facility": "FlightAware ADS-B (KSMO)"
+    },
+    {
+        "Time": "1900-01-01T10:35:21",
+        "Latitude": "33.9272",
+        "Longitude": "-118.514",
+        "Course": "265",
+        "SpeedKts": "250",
+        "SpeedMph": "288",
+        "AltitudeFeet": "2650",
+        "Reporting Facility": "FlightAware ADS-B (KLAX)"
+    },
+    {
+        "Time": "1900-01-01T10:35:51",
+        "Latitude": "33.9236",
+        "Longitude": "-118.5577",
+        "Course": "265",
+        "SpeedKts": "270",
+        "SpeedMph": "311",
+        "AltitudeFeet": "3550",
+        "Reporting Facility": "FlightAware ADS-B (KLAX)"
+    },
+    {
+        "Time": "1900-01-01T10:36:14",
+        "Latitude": "33.9208",
+        "Longitude": "-118.5927",
+        "Course": "264",
+        "SpeedKts": "275",
+        "SpeedMph": "316",
+        "AltitudeFeet": "4525",
+        "Reporting Facility": "FlightAware ADS-B (KRNM)"
+    },
+    {
+        "Time": "1900-01-01T10:36:35",
+        "Latitude": "33.9184",
+        "Longitude": "-118.6242",
+        "Course": "267",
+        "SpeedKts": "269",
+        "SpeedMph": "310",
+        "AltitudeFeet": "5625",
+        "Reporting Facility": "FlightAware ADS-B (KLAX)"
+    },
+    {
+        "Time": "1900-01-01T10:36:52",
+        "Latitude": "33.9178",
+        "Longitude": "-118.651",
+        "Course": "270",
+        "SpeedKts": "267",
+        "SpeedMph": "307",
+        "AltitudeFeet": "6525",
+        "Reporting Facility": "FlightAware ADS-B (KSNA)"
+    },
+    {
+        "Time": "1900-01-01T10:37:17",
+        "Latitude": "33.9177",
+        "Longitude": "-118.6863",
+        "Course": "270",
+        "SpeedKts": "268",
+        "SpeedMph": "308",
+        "AltitudeFeet": "7550",
+        "Reporting Facility": "FlightAware ADS-B (KSZP)"
+    },
+    {
+        "Time": "1900-01-01T10:37:39",
+        "Latitude": "33.9175",
+        "Longitude": "-118.7197",
+        "Course": "270",
+        "SpeedKts": "271",
+        "SpeedMph": "312",
+        "AltitudeFeet": "8400",
+        "Reporting Facility": "FlightAware ADS-B (KLAX)"
+    },
+    {
+        "Time": "1900-01-01T10:38:06",
+        "Latitude": "33.9174",
+        "Longitude": "-118.7604",
+        "Course": "269",
+        "SpeedKts": "272",
+        "SpeedMph": "313",
+        "AltitudeFeet": "9450",
+        "Reporting Facility": "FlightAware ADS-B (KLGB)"
+    },
+    {
+        "Time": "1900-01-01T10:38:51",
+        "Latitude": "33.9123",
+        "Longitude": "-118.8288",
+        "Course": "263",
+        "SpeedKts": "290",
+        "SpeedMph": "334",
+        "AltitudeFeet": "10700",
+        "Reporting Facility": "FlightAware ADS-B (KSAN)"
+    },
+    {
+        "Time": "1900-01-01T10:39:21",
+        "Latitude": "33.907",
+        "Longitude": "-118.8826",
+        "Course": "263",
+        "SpeedKts": "311",
+        "SpeedMph": "358",
+        "AltitudeFeet": "11200",
+        "Reporting Facility": "FlightAware ADS-B (KMHV)"
+    },
+    {
+        "Time": "1900-01-01T10:39:51",
+        "Latitude": "33.902",
+        "Longitude": "-118.9326",
+        "Course": "263",
+        "SpeedKts": "333",
+        "SpeedMph": "383",
+        "AltitudeFeet": "11625",
+        "Reporting Facility": "FlightAware ADS-B (KLAX)"
+    },
+    {
+        "Time": "1900-01-01T10:40:21",
+        "Latitude": "33.8963",
+        "Longitude": "-118.9886",
+        "Course": "263",
+        "SpeedKts": "354",
+        "SpeedMph": "407",
+        "AltitudeFeet": "12025",
+        "Reporting Facility": "FlightAware ADS-B (KRNM)"
+    },
+    {
+        "Time": "1900-01-01T10:40:51",
+        "Latitude": "33.8902",
+        "Longitude": "-119.051",
+        "Course": "263",
+        "SpeedKts": "372",
+        "SpeedMph": "428",
+        "AltitudeFeet": "12475",
+        "Reporting Facility": "FlightAware ADS-B (KSNA)"
+    },
+    {
+        "Time": "1900-01-01T10:41:21",
+        "Latitude": "33.8839",
+        "Longitude": "-119.1136",
+        "Course": "263",
+        "SpeedKts": "380",
+        "SpeedMph": "437",
+        "AltitudeFeet": "13200",
+        "Reporting Facility": "FlightAware ADS-B (KSMO)"
+    },
+    {
+        "Time": "1900-01-01T10:41:39",
+        "Latitude": "33.8802",
+        "Longitude": "-119.1514",
+        "Course": "263",
+        "SpeedKts": "383",
+        "SpeedMph": "441",
+        "AltitudeFeet": "13650",
+        "Reporting Facility": "FlightAware ADS-B (KTOA)"
+    },
+    {
+        "Time": "1900-01-01T10:42:08",
+        "Latitude": "33.8736",
+        "Longitude": "-119.2147",
+        "Course": "263",
+        "SpeedKts": "389",
+        "SpeedMph": "448",
+        "AltitudeFeet": "14375",
+        "Reporting Facility": "FlightAware ADS-B (KPOC)"
+    },
+    {
+        "Time": "1900-01-01T10:42:27",
+        "Latitude": "33.8695",
+        "Longitude": "-119.2536",
+        "Course": "264",
+        "SpeedKts": "393",
+        "SpeedMph": "452",
+        "AltitudeFeet": "14800",
+        "Reporting Facility": "FlightAware ADS-B (KLPC)"
+    },
+    {
+        "Time": "1900-01-01T10:42:57",
+        "Latitude": "33.8627",
+        "Longitude": "-119.3209",
+        "Course": "263",
+        "SpeedKts": "398",
+        "SpeedMph": "458",
+        "AltitudeFeet": "15575",
+        "Reporting Facility": "FlightAware ADS-B (KSNA)"
+    },
+    {
+        "Time": "1900-01-01T10:43:27",
+        "Latitude": "33.8562",
+        "Longitude": "-119.385",
+        "Course": "263",
+        "SpeedKts": "402",
+        "SpeedMph": "463",
+        "AltitudeFeet": "16250",
+        "Reporting Facility": "FlightAware ADS-B (KLPC)"
+    },
+    {
+        "Time": "1900-01-01T10:43:53",
+        "Latitude": "33.8505",
+        "Longitude": "-119.441",
+        "Course": "263",
+        "SpeedKts": "406",
+        "SpeedMph": "467",
+        "AltitudeFeet": "16850",
+        "Reporting Facility": "FlightAware ADS-B (KCSL)"
+    },
+    {
+        "Time": "1900-01-01T10:44:28",
+        "Latitude": "33.8419",
+        "Longitude": "-119.5225",
+        "Course": "264",
+        "SpeedKts": "413",
+        "SpeedMph": "475",
+        "AltitudeFeet": "17600",
+        "Reporting Facility": "FlightAware ADS-B (KSZP)"
+    },
+    {
+        "Time": "1900-01-01T10:44:46",
+        "Latitude": "33.8376",
+        "Longitude": "-119.5631",
+        "Course": "264",
+        "SpeedKts": "416",
+        "SpeedMph": "479",
+        "AltitudeFeet": "17975",
+        "Reporting Facility": "FlightAware ADS-B (KNTD)"
+    },
+    {
+        "Time": "1900-01-01T10:45:18",
+        "Latitude": "33.8297",
+        "Longitude": "-119.6385",
+        "Course": "264",
+        "SpeedKts": "423",
+        "SpeedMph": "487",
+        "AltitudeFeet": "18575",
+        "Reporting Facility": "FlightAware ADS-B (KSZP)"
+    },
+    {
+        "Time": "1900-01-01T10:45:35",
+        "Latitude": "33.8257",
+        "Longitude": "-119.6766",
+        "Course": "263",
+        "SpeedKts": "426",
+        "SpeedMph": "490",
+        "AltitudeFeet": "18900",
+        "Reporting Facility": "FlightAware ADS-B (KSAN)"
+    },
+    {
+        "Time": "1900-01-01T10:46:02",
+        "Latitude": "33.8185",
+        "Longitude": "-119.7435",
+        "Course": "263",
+        "SpeedKts": "434",
+        "SpeedMph": "499",
+        "AltitudeFeet": "19375",
+        "Reporting Facility": "FlightAware ADS-B (KSBA)"
+    },
+    {
+        "Time": "1900-01-01T10:46:19",
+        "Latitude": "33.8145",
+        "Longitude": "-119.7822",
+        "Course": "263",
+        "SpeedKts": "437",
+        "SpeedMph": "503",
+        "AltitudeFeet": "19700",
+        "Reporting Facility": "FlightAware ADS-B (KSMO)"
+    },
+    {
+        "Time": "1900-01-01T10:46:48",
+        "Latitude": "33.8071",
+        "Longitude": "-119.852",
+        "Course": "263",
+        "SpeedKts": "441",
+        "SpeedMph": "507",
+        "AltitudeFeet": "20275",
+        "Reporting Facility": "FlightAware ADS-B (KLPC)"
+    },
+    {
+        "Time": "1900-01-01T10:47:08",
+        "Latitude": "33.8019",
+        "Longitude": "-119.9005",
+        "Course": "264",
+        "SpeedKts": "443",
+        "SpeedMph": "510",
+        "AltitudeFeet": "20700",
+        "Reporting Facility": "FlightAware ADS-B (KLPC)"
+    },
+    {
+        "Time": "1900-01-01T10:47:29",
+        "Latitude": "33.7961",
+        "Longitude": "-119.9544",
+        "Course": "263",
+        "SpeedKts": "447",
+        "SpeedMph": "514",
+        "AltitudeFeet": "21150",
+        "Reporting Facility": "FlightAware ADS-B (KSMO)"
+    },
+    {
+        "Time": "1900-01-01T10:47:51",
+        "Latitude": "33.7906",
+        "Longitude": "-120.0057",
+        "Course": "263",
+        "SpeedKts": "450",
+        "SpeedMph": "518",
+        "AltitudeFeet": "21600",
+        "Reporting Facility": "FlightAware ADS-B (KSZP)"
+    },
+    {
+        "Time": "1900-01-01T10:48:18",
+        "Latitude": "33.7831",
+        "Longitude": "-120.0739",
+        "Course": "264",
+        "SpeedKts": "452",
+        "SpeedMph": "520",
+        "AltitudeFeet": "22100",
+        "Reporting Facility": "FlightAware ADS-B (KLPC)"
+    },
+    {
+        "Time": "1900-01-01T10:48:48",
+        "Latitude": "33.7748",
+        "Longitude": "-120.1488",
+        "Course": "262",
+        "SpeedKts": "454",
+        "SpeedMph": "522",
+        "AltitudeFeet": "22800",
+        "Reporting Facility": "FlightAware ADS-B (KMPI)"
+    },
+    {
+        "Time": "1900-01-01T10:49:07",
+        "Latitude": "33.7694",
+        "Longitude": "-120.1971",
+        "Course": "264",
+        "SpeedKts": "455",
+        "SpeedMph": "524",
+        "AltitudeFeet": "23175",
+        "Reporting Facility": "FlightAware ADS-B (KSBA)"
+    },
+    {
+        "Time": "1900-01-01T10:49:34",
+        "Latitude": "33.7621",
+        "Longitude": "-120.2632",
+        "Course": "263",
+        "SpeedKts": "457",
+        "SpeedMph": "526",
+        "AltitudeFeet": "23725",
+        "Reporting Facility": "FlightAware ADS-B (KTOA)"
+    },
+    {
+        "Time": "1900-01-01T10:49:50",
+        "Latitude": "33.7578",
+        "Longitude": "-120.303",
+        "Course": "263",
+        "SpeedKts": "458",
+        "SpeedMph": "527",
+        "AltitudeFeet": "24050",
+        "Reporting Facility": "FlightAware ADS-B (KSMO)"
+    },
+    {
+        "Time": "1900-01-01T10:50:30",
+        "Latitude": "33.7462",
+        "Longitude": "-120.4079",
+        "Course": "262",
+        "SpeedKts": "462",
+        "SpeedMph": "532",
+        "AltitudeFeet": "24750",
+        "Reporting Facility": "FlightAware ADS-B (KNKX)"
+    },
+    {
+        "Time": "1900-01-01T10:51:00",
+        "Latitude": "33.7381",
+        "Longitude": "-120.4807",
+        "Course": "262",
+        "SpeedKts": "464",
+        "SpeedMph": "534",
+        "AltitudeFeet": "25250",
+        "Reporting Facility": "FlightAware ADS-B (KSZP)"
+    },
+    {
+        "Time": "1900-01-01T10:51:30",
+        "Latitude": "33.7293",
+        "Longitude": "-120.5583",
+        "Course": "262",
+        "SpeedKts": "465",
+        "SpeedMph": "535",
+        "AltitudeFeet": "25775",
+        "Reporting Facility": "FlightAware ADS-B (KSMO)"
+    },
+    {
+        "Time": "1900-01-01T10:52:00",
+        "Latitude": "33.7208",
+        "Longitude": "-120.6333",
+        "Course": "263",
+        "SpeedKts": "467",
+        "SpeedMph": "537",
+        "AltitudeFeet": "26200",
+        "Reporting Facility": "FlightAware ADS-B (KSZP)"
+    },
+    {
+        "Time": "1900-01-01T10:52:30",
+        "Latitude": "33.7117",
+        "Longitude": "-120.7124",
+        "Course": "262",
+        "SpeedKts": "470",
+        "SpeedMph": "541",
+        "AltitudeFeet": "26650",
+        "Reporting Facility": "FlightAware ADS-B (KSZP)"
+    },
+    {
+        "Time": "1900-01-01T10:53:00",
+        "Latitude": "33.7026",
+        "Longitude": "-120.7915",
+        "Course": "262",
+        "SpeedKts": "474",
+        "SpeedMph": "545",
+        "AltitudeFeet": "27050",
+        "Reporting Facility": "FlightAware ADS-B (KNKX)"
+    },
+    {
+        "Time": "1900-01-01T10:53:30",
+        "Latitude": "33.6938",
+        "Longitude": "-120.8687",
+        "Course": "263",
+        "SpeedKts": "476",
+        "SpeedMph": "548",
+        "AltitudeFeet": "27450",
+        "Reporting Facility": "FlightAware ADS-B (KSZP)"
+    },
+    {
+        "Time": "1900-01-01T10:53:55",
+        "Latitude": "33.6865",
+        "Longitude": "-120.932",
+        "Course": "262",
+        "SpeedKts": "478",
+        "SpeedMph": "550",
+        "AltitudeFeet": "27825",
+        "Reporting Facility": "FlightAware ADS-B (KSMO)"
+    },
+    {
+        "Time": "1900-01-01T10:54:25",
+        "Latitude": "33.6768",
+        "Longitude": "-121.0146",
+        "Course": "262",
+        "SpeedKts": "480",
+        "SpeedMph": "552",
+        "AltitudeFeet": "28275",
+        "Reporting Facility": "FlightAware ADS-B (KCMA)"
+    },
+    {
+        "Time": "1900-01-01T10:54:53",
+        "Latitude": "33.6683",
+        "Longitude": "-121.0867",
+        "Course": "262",
+        "SpeedKts": "478",
+        "SpeedMph": "550",
+        "AltitudeFeet": "28850",
+        "Reporting Facility": "FlightAware ADS-B (KTOA)"
+    },
+    {
+        "Time": "1900-01-01T10:55:33",
+        "Latitude": "33.656",
+        "Longitude": "-121.1909",
+        "Course": "262",
+        "SpeedKts": "474",
+        "SpeedMph": "545",
+        "AltitudeFeet": "29725",
+        "Reporting Facility": "FlightAware ADS-B (KSAN)"
+    },
+    {
+        "Time": "1900-01-01T10:56:03",
+        "Latitude": "33.6466",
+        "Longitude": "-121.2713",
+        "Course": "262",
+        "SpeedKts": "472",
+        "SpeedMph": "543",
+        "AltitudeFeet": "30300",
+        "Reporting Facility": "FlightAware ADS-B (KSBP)"
+    },
+    {
+        "Time": "1900-01-01T10:56:32",
+        "Latitude": "33.638",
+        "Longitude": "-121.343",
+        "Course": "263",
+        "SpeedKts": "469",
+        "SpeedMph": "540",
+        "AltitudeFeet": "30875",
+        "Reporting Facility": "FlightAware ADS-B (KCRQ)"
+    },
+    {
+        "Time": "1900-01-01T10:56:52",
+        "Latitude": "33.6316",
+        "Longitude": "-121.3959",
+        "Course": "263",
+        "SpeedKts": "467",
+        "SpeedMph": "537",
+        "AltitudeFeet": "31250",
+        "Reporting Facility": "FlightAware ADS-B (KSZP)"
+    },
+    {
+        "Time": "1900-01-01T10:57:12",
+        "Latitude": "33.6254",
+        "Longitude": "-121.4468",
+        "Course": "262",
+        "SpeedKts": "467",
+        "SpeedMph": "537",
+        "AltitudeFeet": "31650",
+        "Reporting Facility": "FlightAware ADS-B (KLAX)"
+    },
+    {
+        "Time": "1900-01-01T10:57:34",
+        "Latitude": "33.6186",
+        "Longitude": "-121.5028",
+        "Course": "262",
+        "SpeedKts": "466",
+        "SpeedMph": "536",
+        "AltitudeFeet": "32025",
+        "Reporting Facility": "FlightAware ADS-B (KSBP)"
+    },
+    {
+        "Time": "1900-01-01T10:58:04",
+        "Latitude": "33.6095",
+        "Longitude": "-121.5778",
+        "Course": "262",
+        "SpeedKts": "465",
+        "SpeedMph": "535",
+        "AltitudeFeet": "32475",
+        "Reporting Facility": "FlightAware ADS-B (KTOA)"
+    },
+    {
+        "Time": "1900-01-01T10:58:35",
+        "Latitude": "33.5998",
+        "Longitude": "-121.658",
+        "Course": "262",
+        "SpeedKts": "465",
+        "SpeedMph": "535",
+        "AltitudeFeet": "32925",
+        "Reporting Facility": "FlightAware ADS-B (KSBA)"
+    },
+    {
+        "Time": "1900-01-01T10:59:04",
+        "Latitude": "33.591",
+        "Longitude": "-121.7295",
+        "Course": "262",
+        "SpeedKts": "465",
+        "SpeedMph": "535",
+        "AltitudeFeet": "33325",
+        "Reporting Facility": "FlightAware ADS-B (KSBP)"
+    },
+    {
+        "Time": "1900-01-01T10:59:22",
+        "Latitude": "33.5852",
+        "Longitude": "-121.777",
+        "Course": "263",
+        "SpeedKts": "463",
+        "SpeedMph": "533",
+        "AltitudeFeet": "33575",
+        "Reporting Facility": "FlightAware ADS-B (KSBA)"
+    },
+    {
+        "Time": "1900-01-01T10:59:44",
+        "Latitude": "33.5782",
+        "Longitude": "-121.8339",
+        "Course": "262",
+        "SpeedKts": "464",
+        "SpeedMph": "534",
+        "AltitudeFeet": "33900",
+        "Reporting Facility": "FlightAware ADS-B (KSMO)"
+    },
+    {
+        "Time": "1900-01-01T11:00:22",
+        "Latitude": "33.5663",
+        "Longitude": "-121.9293",
+        "Course": "263",
+        "SpeedKts": "464",
+        "SpeedMph": "534",
+        "AltitudeFeet": "33975",
+        "Reporting Facility": "FlightAware ADS-B (KSBA)"
+    },
+    {
+        "Time": "1900-01-01T11:00:52",
+        "Latitude": "33.5566",
+        "Longitude": "-122.007",
+        "Course": "263",
+        "SpeedKts": "464",
+        "SpeedMph": "534",
+        "AltitudeFeet": "34000",
+        "Reporting Facility": "FlightAware ADS-B (KSBA)"
+    },
+    {
+        "Time": "1900-01-01T11:01:22",
+        "Latitude": "33.5472",
+        "Longitude": "-122.0825",
+        "Course": "262",
+        "SpeedKts": "463",
+        "SpeedMph": "533",
+        "AltitudeFeet": "34000",
+        "Reporting Facility": "FlightAware ADS-B (KSBA)"
+    },
+    {
+        "Time": "1900-01-01T11:01:53",
+        "Latitude": "33.5374",
+        "Longitude": "-122.1593",
+        "Course": "262",
+        "SpeedKts": "463",
+        "SpeedMph": "533",
+        "AltitudeFeet": "34000",
+        "Reporting Facility": "FlightAware ADS-B (KSBA)"
+    },
+    {
+        "Time": "1900-01-01T11:02:23",
+        "Latitude": "33.528",
+        "Longitude": "-122.2334",
+        "Course": "262",
+        "SpeedKts": "464",
+        "SpeedMph": "534",
+        "AltitudeFeet": "33975",
+        "Reporting Facility": "FlightAware ADS-B (KSBA)"
+    },
+    {
+        "Time": "1900-01-01T11:02:53",
+        "Latitude": "33.5181",
+        "Longitude": "-122.3119",
+        "Course": "261",
+        "SpeedKts": "465",
+        "SpeedMph": "535",
+        "AltitudeFeet": "33975",
+        "Reporting Facility": "FlightAware ADS-B (KSNA)"
+    },
+    {
+        "Time": "1900-01-01T11:03:23",
+        "Latitude": "33.5082",
+        "Longitude": "-122.389",
+        "Course": "262",
+        "SpeedKts": "466",
+        "SpeedMph": "536",
+        "AltitudeFeet": "34000",
+        "Reporting Facility": "FlightAware ADS-B (KSBA)"
+    },
+    {
+        "Time": "1900-01-01T11:03:53",
+        "Latitude": "33.4983",
+        "Longitude": "-122.4655",
+        "Course": "261",
+        "SpeedKts": "467",
+        "SpeedMph": "537",
+        "AltitudeFeet": "34000",
+        "Reporting Facility": "FlightAware ADS-B (KSNA)"
+    },
+    {
+        "Time": "1900-01-01T11:04:24",
+        "Latitude": "33.4874",
+        "Longitude": "-122.5455",
+        "Course": "260",
+        "SpeedKts": "468",
+        "SpeedMph": "539",
+        "AltitudeFeet": "34000",
+        "Reporting Facility": "FlightAware ADS-B (KCRQ)"
+    },
+    {
+        "Time": "1900-01-01T11:04:42",
+        "Latitude": "33.4772",
+        "Longitude": "-122.5891",
+        "Course": "251",
+        "SpeedKts": "472",
+        "SpeedMph": "543",
+        "AltitudeFeet": "33975",
+        "Reporting Facility": "FlightAware ADS-B (KSMX)"
+    },
+    {
+        "Time": "1900-01-01T11:05:11",
+        "Latitude": "33.4514",
+        "Longitude": "-122.6586",
+        "Course": "244",
+        "SpeedKts": "474",
+        "SpeedMph": "545",
+        "AltitudeFeet": "33975",
+        "Reporting Facility": "FlightAware ADS-B (KSBA)"
+    },
+    {
+        "Time": "1900-01-01T11:05:41",
+        "Latitude": "33.4211",
+        "Longitude": "-122.7299",
+        "Course": "243",
+        "SpeedKts": "474",
+        "SpeedMph": "545",
+        "AltitudeFeet": "33975",
+        "Reporting Facility": "FlightAware ADS-B (KWVI)"
+    },
+    {
+        "Time": "1900-01-01T11:06:12",
+        "Latitude": "33.3907",
+        "Longitude": "-122.8014",
+        "Course": "243",
+        "SpeedKts": "475",
+        "SpeedMph": "547",
+        "AltitudeFeet": "33975",
+        "Reporting Facility": "FlightAware ADS-B (KEMT)"
+    },
+    {
+        "Time": "1900-01-01T11:06:53",
+        "Latitude": "33.3498",
+        "Longitude": "-122.8973",
+        "Course": "243",
+        "SpeedKts": "476",
+        "SpeedMph": "548",
+        "AltitudeFeet": "34000",
+        "Reporting Facility": "FlightAware ADS-B (KTOA)"
+    },
+    {
+        "Time": "1900-01-01T11:07:27",
+        "Latitude": "33.3154",
+        "Longitude": "-122.9775",
+        "Course": "244",
+        "SpeedKts": "475",
+        "SpeedMph": "547",
+        "AltitudeFeet": "34000",
+        "Reporting Facility": "FlightAware ADS-B (KSBA)"
+    },
+    {
+        "Time": "1900-01-01T11:07:57",
+        "Latitude": "33.2854",
+        "Longitude": "-123.0477",
+        "Course": "244",
+        "SpeedKts": "475",
+        "SpeedMph": "547",
+        "AltitudeFeet": "33975",
+        "Reporting Facility": "FlightAware ADS-B (KSBA)"
+    },
+    {
+        "Time": "1900-01-01T11:08:27",
+        "Latitude": "33.255",
+        "Longitude": "-123.1183",
+        "Course": "244",
+        "SpeedKts": "476",
+        "SpeedMph": "548",
+        "AltitudeFeet": "33975",
+        "Reporting Facility": "FlightAware ADS-B (KSBA)"
+    },
+    {
+        "Time": "1900-01-01T11:08:57",
+        "Latitude": "33.2259",
+        "Longitude": "-123.1862",
+        "Course": "244",
+        "SpeedKts": "476",
+        "SpeedMph": "548",
+        "AltitudeFeet": "34000",
+        "Reporting Facility": "FlightAware ADS-B (KSBA)"
+    },
+    {
+        "Time": "1900-01-01T11:09:27",
+        "Latitude": "33.1951",
+        "Longitude": "-123.2575",
+        "Course": "244",
+        "SpeedKts": "477",
+        "SpeedMph": "549",
+        "AltitudeFeet": "33975",
+        "Reporting Facility": "FlightAware ADS-B (KSBA)"
+    },
+    {
+        "Time": "1900-01-01T11:09:58",
+        "Latitude": "33.1636",
+        "Longitude": "-123.3302",
+        "Course": "244",
+        "SpeedKts": "478",
+        "SpeedMph": "550",
+        "AltitudeFeet": "34000",
+        "Reporting Facility": "FlightAware ADS-B (KSBA)"
+    },
+    {
+        "Time": "1900-01-01T11:10:25",
+        "Latitude": "33.1379",
+        "Longitude": "-123.3899",
+        "Course": "244",
+        "SpeedKts": "480",
+        "SpeedMph": "552",
+        "AltitudeFeet": "34000",
+        "Reporting Facility": "FlightAware ADS-B (KSBA)"
+    },
+    {
+        "Time": "1900-01-01T11:10:56",
+        "Latitude": "33.1033",
+        "Longitude": "-123.4696",
+        "Course": "243",
+        "SpeedKts": "482",
+        "SpeedMph": "555",
+        "AltitudeFeet": "33975",
+        "Reporting Facility": "FlightAware ADS-B (KTOA)"
+    },
+    {
+        "Time": "1900-01-01T11:11:25",
+        "Latitude": "33.0747",
+        "Longitude": "-123.5354",
+        "Course": "244",
+        "SpeedKts": "483",
+        "SpeedMph": "556",
+        "AltitudeFeet": "34000",
+        "Reporting Facility": "FlightAware ADS-B (KSBA)"
+    },
+    {
+        "Time": "1900-01-01T11:11:56",
+        "Latitude": "33.0433",
+        "Longitude": "-123.6076",
+        "Course": "244",
+        "SpeedKts": "483",
+        "SpeedMph": "556",
+        "AltitudeFeet": "34000",
+        "Reporting Facility": "FlightAware ADS-B (KSBA)"
+    },
+    {
+        "Time": "1900-01-01T11:12:26",
+        "Latitude": "33.0123",
+        "Longitude": "-123.6785",
+        "Course": "244",
+        "SpeedKts": "484",
+        "SpeedMph": "557",
+        "AltitudeFeet": "33975",
+        "Reporting Facility": "FlightAware ADS-B (KSBA)"
+    },
+    {
+        "Time": "1900-01-01T11:12:55",
+        "Latitude": "32.9819",
+        "Longitude": "-123.7481",
+        "Course": "244",
+        "SpeedKts": "484",
+        "SpeedMph": "557",
+        "AltitudeFeet": "33975",
+        "Reporting Facility": "FlightAware ADS-B (KSBA)"
+    },
+    {
+        "Time": "1900-01-01T11:13:25",
+        "Latitude": "32.9517",
+        "Longitude": "-123.8169",
+        "Course": "243",
+        "SpeedKts": "484",
+        "SpeedMph": "557",
+        "AltitudeFeet": "33975",
+        "Reporting Facility": "FlightAware ADS-B (KSBA)"
+    },
+    {
+        "Time": "1900-01-01T11:13:56",
+        "Latitude": "32.9192",
+        "Longitude": "-123.8911",
+        "Course": "244",
+        "SpeedKts": "485",
+        "SpeedMph": "558",
+        "AltitudeFeet": "34000",
+        "Reporting Facility": "FlightAware ADS-B (KSBA)"
+    },
+    {
+        "Time": "1900-01-01T11:14:29",
+        "Latitude": "32.8859",
+        "Longitude": "-123.9668",
+        "Course": "244",
+        "SpeedKts": "485",
+        "SpeedMph": "558",
+        "AltitudeFeet": "33975",
+        "Reporting Facility": "FlightAware ADS-B (KSBA)"
+    },
+    {
+        "Time": "1900-01-01T11:15:09",
+        "Latitude": "32.8419",
+        "Longitude": "-124.0667",
+        "Course": "242",
+        "SpeedKts": "486",
+        "SpeedMph": "559",
+        "AltitudeFeet": "34000",
+        "Reporting Facility": "FlightAware ADS-B (KSBP)"
+    },
+    {
+        "Time": "1900-01-01T11:15:54",
+        "Latitude": "32.7963",
+        "Longitude": "-124.1697",
+        "Course": "243",
+        "SpeedKts": "486",
+        "SpeedMph": "559",
+        "AltitudeFeet": "34000",
+        "Reporting Facility": "FlightAware ADS-B (KSBA)"
+    },
+    {
+        "Time": "1900-01-01T11:16:58",
+        "Latitude": "32.729",
+        "Longitude": "-124.3213",
+        "Course": "243",
+        "SpeedKts": "485",
+        "SpeedMph": "558",
+        "AltitudeFeet": "34000",
+        "Reporting Facility": "FlightAware ADS-B (KSBA)"
+    },
+    {
+        "Time": "1900-01-01T11:17:31",
+        "Latitude": "32.6943",
+        "Longitude": "-124.3993",
+        "Course": "243",
+        "SpeedKts": "485",
+        "SpeedMph": "558",
+        "AltitudeFeet": "34000",
+        "Reporting Facility": "FlightAware ADS-B (KSBA)"
+    },
+    {
+        "Time": "1900-01-01T11:18:01",
+        "Latitude": "32.6684",
+        "Longitude": "-124.4573",
+        "Course": "242",
+        "SpeedKts": "434",
+        "SpeedMph": "499",
+        "AltitudeFeet": "34000",
+        "Reporting Facility": "FlightAware ADS-B (KSBA)"
+    },
+    {
+        "Time": "1900-01-01T11:18:31",
+        "Latitude": "32.6305",
+        "Longitude": "-124.542",
+        "Course": "243",
+        "SpeedKts": "487",
+        "SpeedMph": "560",
+        "AltitudeFeet": "33975",
+        "Reporting Facility": "FlightAware ADS-B (KSBA)"
+    },
+    {
+        "Time": "1900-01-01T11:19:11",
+        "Latitude": "32.5975",
+        "Longitude": "-124.6157",
+        "Course": "243",
+        "SpeedKts": "488",
+        "SpeedMph": "562",
+        "AltitudeFeet": "33975",
+        "Reporting Facility": "FlightAware ADS-B (KSBA)"
+    },
+    {
+        "Time": "1900-01-01T11:20:18",
+        "Latitude": "32.5177",
+        "Longitude": "-124.7935",
+        "Course": "242",
+        "SpeedKts": "523",
+        "SpeedMph": "602",
+        "AltitudeFeet": "34000",
+        "Reporting Facility": "FlightAware ADS-B (KSBA)"
+    },
+    {
+        "Time": "1900-01-01T11:20:48",
+        "Latitude": "32.4853",
+        "Longitude": "-124.8652",
+        "Course": "243",
+        "SpeedKts": "490",
+        "SpeedMph": "564",
+        "AltitudeFeet": "33975",
+        "Reporting Facility": "FlightAware ADS-B (KSBA)"
+    },
+    {
+        "Time": "1900-01-01T11:21:18",
+        "Latitude": "32.4537",
+        "Longitude": "-124.9351",
+        "Course": "243",
+        "SpeedKts": "492",
+        "SpeedMph": "566",
+        "AltitudeFeet": "34000",
+        "Reporting Facility": "FlightAware ADS-B (KSBA)"
+    },
+    {
+        "Time": "1900-01-01T11:21:48",
+        "Latitude": "32.4212",
+        "Longitude": "-125.007",
+        "Course": "243",
+        "SpeedKts": "493",
+        "SpeedMph": "567",
+        "AltitudeFeet": "33975",
+        "Reporting Facility": "FlightAware ADS-B (KSBA)"
+    },
+    {
+        "Time": "1900-01-01T11:22:49",
+        "Latitude": "32.3628",
+        "Longitude": "-125.1354",
+        "Course": "243",
+        "SpeedKts": "493",
+        "SpeedMph": "567",
+        "AltitudeFeet": "33975",
+        "Reporting Facility": "FlightAware ADS-B (KSBA)"
+    },
+    {
+        "Time": "1900-01-01T11:24:01",
+        "Latitude": "32.277",
+        "Longitude": "-125.3237",
+        "Course": "242",
+        "SpeedKts": "521",
+        "SpeedMph": "600",
+        "AltitudeFeet": "34000",
+        "Reporting Facility": "FlightAware ADS-B (KSBA)"
+    },
+    {
+        "Time": "1900-01-01T11:24:32",
+        "Latitude": "32.2457",
+        "Longitude": "-125.3921",
+        "Course": "243",
+        "SpeedKts": "493",
+        "SpeedMph": "567",
+        "AltitudeFeet": "34000",
+        "Reporting Facility": "FlightAware ADS-B (KSBA)"
+    },
+    {
+        "Time": "1900-01-01T11:25:08",
+        "Latitude": "32.2059",
+        "Longitude": "-125.4788",
+        "Course": "243",
+        "SpeedKts": "491",
+        "SpeedMph": "565",
+        "AltitudeFeet": "33975",
+        "Reporting Facility": "FlightAware ADS-B (KSBA)"
+    },
+    {
+        "Time": "1900-01-01T11:26:01",
+        "Latitude": "32.1499",
+        "Longitude": "-125.6005",
+        "Course": "243",
+        "SpeedKts": "493",
+        "SpeedMph": "567",
+        "AltitudeFeet": "34000",
+        "Reporting Facility": "FlightAware ADS-B (KSBA)"
+    },
+    {
+        "Time": "1900-01-01T11:26:38",
+        "Latitude": "32.107",
+        "Longitude": "-125.6936",
+        "Course": "243",
+        "SpeedKts": "492",
+        "SpeedMph": "566",
+        "AltitudeFeet": "33975",
+        "Reporting Facility": "FlightAware ADS-B (KSBA)"
+    },
+    {
+        "Time": "1900-01-01T11:30:21",
+        "Latitude": "31.7908",
+        "Longitude": "-126.1252",
+        "Course": "243",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "33975",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T11:32:27",
+        "Latitude": "31.6635",
+        "Longitude": "-126.4141",
+        "Course": "243",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "33975",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T11:34:03",
+        "Latitude": "31.5661",
+        "Longitude": "-126.6337",
+        "Course": "243",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "33975",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T11:35:24",
+        "Latitude": "31.5333",
+        "Longitude": "-126.9",
+        "Course": "241",
+        "SpeedKts": "490",
+        "SpeedMph": "564",
+        "AltitudeFeet": "34000",
+        "Reporting Facility": "Oakland Oceanic"
+    },
+    {
+        "Time": "1900-01-01T11:44:59",
+        "Latitude": "30.9",
+        "Longitude": "-128.2333",
+        "Course": "240",
+        "SpeedKts": "488",
+        "SpeedMph": "562",
+        "AltitudeFeet": "34000",
+        "Reporting Facility": "Oakland Oceanic"
+    },
+    {
+        "Time": "1900-01-01T11:54:36",
+        "Latitude": "30.2333",
+        "Longitude": "-129.5333",
+        "Course": "240",
+        "SpeedKts": "486",
+        "SpeedMph": "559",
+        "AltitudeFeet": "34000",
+        "Reporting Facility": "Oakland Oceanic"
+    },
+    {
+        "Time": "1900-01-01T11:58:08",
+        "Latitude": "30",
+        "Longitude": "-130",
+        "Course": "223",
+        "SpeedKts": "499",
+        "SpeedMph": "574",
+        "AltitudeFeet": "34000",
+        "Reporting Facility": "Oakland Oceanic"
+    },
+    {
+        "Time": "1900-01-01T12:04:12",
+        "Latitude": "29.3833",
+        "Longitude": "-130.6667",
+        "Course": "222",
+        "SpeedKts": "503",
+        "SpeedMph": "579",
+        "AltitudeFeet": "34000",
+        "Reporting Facility": "Oakland Oceanic"
+    },
+    {
+        "Time": "1900-01-01T12:13:46",
+        "Latitude": "28.3833",
+        "Longitude": "-131.6833",
+        "Course": "222",
+        "SpeedKts": "503",
+        "SpeedMph": "579",
+        "AltitudeFeet": "34000",
+        "Reporting Facility": "Oakland Oceanic"
+    },
+    {
+        "Time": "1900-01-01T12:23:22",
+        "Latitude": "27.3833",
+        "Longitude": "-132.7",
+        "Course": "222",
+        "SpeedKts": "504",
+        "SpeedMph": "580",
+        "AltitudeFeet": "34000",
+        "Reporting Facility": "Oakland Oceanic"
+    },
+    {
+        "Time": "1900-01-01T12:24:25",
+        "Latitude": "27.2786",
+        "Longitude": "-132.8018",
+        "Course": "222",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "34000",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T12:31:32",
+        "Latitude": "26.575",
+        "Longitude": "-133.4971",
+        "Course": "221",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "34000",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T12:32:43",
+        "Latitude": "26.4573",
+        "Longitude": "-133.6114",
+        "Course": "221",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "34000",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T12:32:57",
+        "Latitude": "26.3667",
+        "Longitude": "-133.6833",
+        "Course": "221",
+        "SpeedKts": "504",
+        "SpeedMph": "580",
+        "AltitudeFeet": "34000",
+        "Reporting Facility": "Oakland Oceanic"
+    },
+    {
+        "Time": "1900-01-01T12:42:33",
+        "Latitude": "25.35",
+        "Longitude": "-134.6667",
+        "Course": "221",
+        "SpeedKts": "500",
+        "SpeedMph": "575",
+        "AltitudeFeet": "34000",
+        "Reporting Facility": "Oakland Oceanic"
+    },
+    {
+        "Time": "1900-01-01T12:45:55",
+        "Latitude": "25",
+        "Longitude": "-135",
+        "Course": "221",
+        "SpeedKts": "499",
+        "SpeedMph": "574",
+        "AltitudeFeet": "34000",
+        "Reporting Facility": "Oakland Oceanic"
+    },
+    {
+        "Time": "1900-01-01T12:52:10",
+        "Latitude": "24.3333",
+        "Longitude": "-135.6333",
+        "Course": "221",
+        "SpeedKts": "498",
+        "SpeedMph": "573",
+        "AltitudeFeet": "36000",
+        "Reporting Facility": "Oakland Oceanic"
+    },
+    {
+        "Time": "1900-01-01T13:01:46",
+        "Latitude": "23.3333",
+        "Longitude": "-136.5667",
+        "Course": "220",
+        "SpeedKts": "498",
+        "SpeedMph": "573",
+        "AltitudeFeet": "36000",
+        "Reporting Facility": "Oakland Oceanic"
+    },
+    {
+        "Time": "1900-01-01T13:11:22",
+        "Latitude": "22.3167",
+        "Longitude": "-137.5",
+        "Course": "220",
+        "SpeedKts": "497",
+        "SpeedMph": "572",
+        "AltitudeFeet": "36000",
+        "Reporting Facility": "Oakland Oceanic"
+    },
+    {
+        "Time": "1900-01-01T13:20:58",
+        "Latitude": "21.2833",
+        "Longitude": "-138.4167",
+        "Course": "220",
+        "SpeedKts": "498",
+        "SpeedMph": "573",
+        "AltitudeFeet": "36000",
+        "Reporting Facility": "Oakland Oceanic"
+    },
+    {
+        "Time": "1900-01-01T13:22:06",
+        "Latitude": "21.1687",
+        "Longitude": "-138.5194",
+        "Course": "220",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "36000",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T13:29:14",
+        "Latitude": "20.445",
+        "Longitude": "-139.161",
+        "Course": "220",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "36000",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T13:30:22",
+        "Latitude": "20.3298",
+        "Longitude": "-139.2624",
+        "Course": "220",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "36000",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T13:30:34",
+        "Latitude": "20.2667",
+        "Longitude": "-139.3167",
+        "Course": "223",
+        "SpeedKts": "486",
+        "SpeedMph": "559",
+        "AltitudeFeet": "36000",
+        "Reporting Facility": "Oakland Oceanic"
+    },
+    {
+        "Time": "1900-01-01T13:30:54",
+        "Latitude": "20.2333",
+        "Longitude": "-139.35",
+        "Course": "214",
+        "SpeedKts": "497",
+        "SpeedMph": "572",
+        "AltitudeFeet": "36000",
+        "Reporting Facility": "Oakland Oceanic"
+    },
+    {
+        "Time": "1900-01-01T13:40:10",
+        "Latitude": "19.15",
+        "Longitude": "-140.1167",
+        "Course": "214",
+        "SpeedKts": "501",
+        "SpeedMph": "577",
+        "AltitudeFeet": "36000",
+        "Reporting Facility": "Oakland Oceanic"
+    },
+    {
+        "Time": "1900-01-01T13:49:46",
+        "Latitude": "18.0333",
+        "Longitude": "-140.9167",
+        "Course": "214",
+        "SpeedKts": "502",
+        "SpeedMph": "578",
+        "AltitudeFeet": "36000",
+        "Reporting Facility": "Oakland Oceanic"
+    },
+    {
+        "Time": "1900-01-01T13:51:27",
+        "Latitude": "17.8491",
+        "Longitude": "-141.0465",
+        "Course": "214",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "36000",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T13:58:19",
+        "Latitude": "17.0948",
+        "Longitude": "-141.5704",
+        "Course": "214",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "36000",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T13:59:22",
+        "Latitude": "16.9167",
+        "Longitude": "-141.6833",
+        "Course": "214",
+        "SpeedKts": "498",
+        "SpeedMph": "573",
+        "AltitudeFeet": "36000",
+        "Reporting Facility": "Oakland Oceanic"
+    },
+    {
+        "Time": "1900-01-01T14:08:57",
+        "Latitude": "15.8167",
+        "Longitude": "-142.45",
+        "Course": "213",
+        "SpeedKts": "499",
+        "SpeedMph": "574",
+        "AltitudeFeet": "36000",
+        "Reporting Facility": "Oakland Oceanic"
+    },
+    {
+        "Time": "1900-01-01T14:15:57",
+        "Latitude": "15",
+        "Longitude": "-143",
+        "Course": "218",
+        "SpeedKts": "502",
+        "SpeedMph": "578",
+        "AltitudeFeet": "36000",
+        "Reporting Facility": "Oakland Oceanic"
+    },
+    {
+        "Time": "1900-01-01T14:18:34",
+        "Latitude": "14.7167",
+        "Longitude": "-143.2333",
+        "Course": "218",
+        "SpeedKts": "503",
+        "SpeedMph": "579",
+        "AltitudeFeet": "36000",
+        "Reporting Facility": "Oakland Oceanic"
+    },
+    {
+        "Time": "1900-01-01T14:28:10",
+        "Latitude": "13.65",
+        "Longitude": "-144.1",
+        "Course": "218",
+        "SpeedKts": "503",
+        "SpeedMph": "579",
+        "AltitudeFeet": "36000",
+        "Reporting Facility": "Oakland Oceanic"
+    },
+    {
+        "Time": "1900-01-01T14:37:46",
+        "Latitude": "12.6",
+        "Longitude": "-144.95",
+        "Course": "218",
+        "SpeedKts": "501",
+        "SpeedMph": "577",
+        "AltitudeFeet": "36000",
+        "Reporting Facility": "Oakland Oceanic"
+    },
+    {
+        "Time": "1900-01-01T14:47:22",
+        "Latitude": "11.55",
+        "Longitude": "-145.7833",
+        "Course": "218",
+        "SpeedKts": "497",
+        "SpeedMph": "572",
+        "AltitudeFeet": "36000",
+        "Reporting Facility": "Oakland Oceanic"
+    },
+    {
+        "Time": "1900-01-01T14:56:58",
+        "Latitude": "10.5",
+        "Longitude": "-146.6",
+        "Course": "218",
+        "SpeedKts": "491",
+        "SpeedMph": "565",
+        "AltitudeFeet": "36000",
+        "Reporting Facility": "Oakland Oceanic"
+    },
+    {
+        "Time": "1900-01-01T15:01:38",
+        "Latitude": "10",
+        "Longitude": "-147",
+        "Course": "219",
+        "SpeedKts": "499",
+        "SpeedMph": "574",
+        "AltitudeFeet": "36000",
+        "Reporting Facility": "Oakland Oceanic"
+    },
+    {
+        "Time": "1900-01-01T15:06:34",
+        "Latitude": "9.4667",
+        "Longitude": "-147.4333",
+        "Course": "219",
+        "SpeedKts": "502",
+        "SpeedMph": "578",
+        "AltitudeFeet": "36000",
+        "Reporting Facility": "Oakland Oceanic"
+    },
+    {
+        "Time": "1900-01-01T15:16:10",
+        "Latitude": "8.4167",
+        "Longitude": "-148.2833",
+        "Course": "218",
+        "SpeedKts": "504",
+        "SpeedMph": "580",
+        "AltitudeFeet": "36000",
+        "Reporting Facility": "Oakland Oceanic"
+    },
+    {
+        "Time": "1900-01-01T15:17:33",
+        "Latitude": "8.2739",
+        "Longitude": "-148.3979",
+        "Course": "218",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "36000",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T15:24:54",
+        "Latitude": "7.515",
+        "Longitude": "-149.0054",
+        "Course": "218",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "36000",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T15:25:46",
+        "Latitude": "7.3667",
+        "Longitude": "-149.1333",
+        "Course": "218",
+        "SpeedKts": "506",
+        "SpeedMph": "582",
+        "AltitudeFeet": "36000",
+        "Reporting Facility": "Oakland Oceanic"
+    },
+    {
+        "Time": "1900-01-01T15:35:21",
+        "Latitude": "6.3",
+        "Longitude": "-149.9667",
+        "Course": "218",
+        "SpeedKts": "509",
+        "SpeedMph": "586",
+        "AltitudeFeet": "36000",
+        "Reporting Facility": "Oakland Oceanic"
+    },
+    {
+        "Time": "1900-01-01T15:44:57",
+        "Latitude": "5.2333",
+        "Longitude": "-150.8167",
+        "Course": "218",
+        "SpeedKts": "512",
+        "SpeedMph": "589",
+        "AltitudeFeet": "36000",
+        "Reporting Facility": "Oakland Oceanic"
+    },
+    {
+        "Time": "1900-01-01T15:47:04",
+        "Latitude": "5",
+        "Longitude": "-151",
+        "Course": "219",
+        "SpeedKts": "506",
+        "SpeedMph": "582",
+        "AltitudeFeet": "36000",
+        "Reporting Facility": "Oakland Oceanic"
+    },
+    {
+        "Time": "1900-01-01T15:54:33",
+        "Latitude": "4.1667",
+        "Longitude": "-151.6667",
+        "Course": "219",
+        "SpeedKts": "502",
+        "SpeedMph": "578",
+        "AltitudeFeet": "36000",
+        "Reporting Facility": "Oakland Oceanic"
+    },
+    {
+        "Time": "1900-01-01T16:04:09",
+        "Latitude": "3.1167",
+        "Longitude": "-152.5",
+        "Course": "219",
+        "SpeedKts": "499",
+        "SpeedMph": "574",
+        "AltitudeFeet": "36000",
+        "Reporting Facility": "Oakland Oceanic"
+    },
+    {
+        "Time": "1900-01-01T16:13:45",
+        "Latitude": "2.0833",
+        "Longitude": "-153.3333",
+        "Course": "219",
+        "SpeedKts": "496",
+        "SpeedMph": "571",
+        "AltitudeFeet": "36000",
+        "Reporting Facility": "Oakland Oceanic"
+    },
+    {
+        "Time": "1900-01-01T16:23:21",
+        "Latitude": "1.05",
+        "Longitude": "-154.1667",
+        "Course": "218",
+        "SpeedKts": "498",
+        "SpeedMph": "573",
+        "AltitudeFeet": "36000",
+        "Reporting Facility": "Oakland Oceanic"
+    },
+    {
+        "Time": "1900-01-01T16:32:57",
+        "Latitude": "0",
+        "Longitude": "-155",
+        "Course": "219",
+        "SpeedKts": "552",
+        "SpeedMph": "635",
+        "AltitudeFeet": "36000",
+        "Reporting Facility": "Oakland Oceanic"
+    },
+    {
+        "Time": "1900-01-01T16:42:33",
+        "Latitude": "-1.0167",
+        "Longitude": "-155.8167",
+        "Course": "219",
+        "SpeedKts": "489",
+        "SpeedMph": "563",
+        "AltitudeFeet": "36000",
+        "Reporting Facility": "Oakland Oceanic"
+    },
+    {
+        "Time": "1900-01-01T16:52:09",
+        "Latitude": "-2.05",
+        "Longitude": "-156.6333",
+        "Course": "219",
+        "SpeedKts": "493",
+        "SpeedMph": "567",
+        "AltitudeFeet": "36000",
+        "Reporting Facility": "Oakland Oceanic"
+    },
+    {
+        "Time": "1900-01-01T17:01:45",
+        "Latitude": "-3.0833",
+        "Longitude": "-157.4667",
+        "Course": "219",
+        "SpeedKts": "493",
+        "SpeedMph": "567",
+        "AltitudeFeet": "36000",
+        "Reporting Facility": "Oakland Oceanic"
+    },
+    {
+        "Time": "1900-01-01T17:11:21",
+        "Latitude": "-4.1",
+        "Longitude": "-158.2667",
+        "Course": "219",
+        "SpeedKts": "485",
+        "SpeedMph": "558",
+        "AltitudeFeet": "38000",
+        "Reporting Facility": "Oakland Oceanic"
+    },
+    {
+        "Time": "1900-01-01T17:34:31",
+        "Latitude": "-6.5846",
+        "Longitude": "-160.2552",
+        "Course": "219",
+        "SpeedKts": "490",
+        "SpeedMph": "564",
+        "AltitudeFeet": "38000",
+        "Reporting Facility": "FlightAware ADS-B (MHX / NCMH)"
+    },
+    {
+        "Time": "1900-01-01T17:35:32",
+        "Latitude": "-6.6945",
+        "Longitude": "-160.3425",
+        "Course": "219",
+        "SpeedKts": "490",
+        "SpeedMph": "564",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware ADS-B (MHX / NCMH)"
+    },
+    {
+        "Time": "1900-01-01T17:36:32",
+        "Latitude": "-6.8018",
+        "Longitude": "-160.428",
+        "Course": "219",
+        "SpeedKts": "489",
+        "SpeedMph": "563",
+        "AltitudeFeet": "38000",
+        "Reporting Facility": "FlightAware ADS-B (MHX / NCMH)"
+    },
+    {
+        "Time": "1900-01-01T17:37:30",
+        "Latitude": "-6.9033",
+        "Longitude": "-160.5088",
+        "Course": "219",
+        "SpeedKts": "487",
+        "SpeedMph": "560",
+        "AltitudeFeet": "38000",
+        "Reporting Facility": "FlightAware ADS-B (MHX / NCMH)"
+    },
+    {
+        "Time": "1900-01-01T17:38:51",
+        "Latitude": "-7.0472",
+        "Longitude": "-160.6234",
+        "Course": "219",
+        "SpeedKts": "488",
+        "SpeedMph": "562",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware ADS-B (MHX / NCMH)"
+    },
+    {
+        "Time": "1900-01-01T17:41:36",
+        "Latitude": "-7.3397",
+        "Longitude": "-160.8568",
+        "Course": "219",
+        "SpeedKts": "489",
+        "SpeedMph": "563",
+        "AltitudeFeet": "38000",
+        "Reporting Facility": "FlightAware ADS-B (MHX / NCMH)"
+    },
+    {
+        "Time": "1900-01-01T17:42:26",
+        "Latitude": "-7.425",
+        "Longitude": "-160.9249",
+        "Course": "219",
+        "SpeedKts": "487",
+        "SpeedMph": "560",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware ADS-B (PYE / NCPY)"
+    },
+    {
+        "Time": "1900-01-01T17:43:27",
+        "Latitude": "-7.5365",
+        "Longitude": "-161.014",
+        "Course": "219",
+        "SpeedKts": "488",
+        "SpeedMph": "562",
+        "AltitudeFeet": "38000",
+        "Reporting Facility": "FlightAware ADS-B (MHX / NCMH)"
+    },
+    {
+        "Time": "1900-01-01T17:44:08",
+        "Latitude": "-7.6085",
+        "Longitude": "-161.0717",
+        "Course": "219",
+        "SpeedKts": "487",
+        "SpeedMph": "560",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware ADS-B (MHX / NCMH)"
+    },
+    {
+        "Time": "1900-01-01T17:44:51",
+        "Latitude": "-7.6836",
+        "Longitude": "-161.1317",
+        "Course": "219",
+        "SpeedKts": "487",
+        "SpeedMph": "560",
+        "AltitudeFeet": "38000",
+        "Reporting Facility": "FlightAware ADS-B (PYE / NCPY)"
+    },
+    {
+        "Time": "1900-01-01T17:45:21",
+        "Latitude": "-7.7369",
+        "Longitude": "-161.1743",
+        "Course": "219",
+        "SpeedKts": "487",
+        "SpeedMph": "560",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware ADS-B (PYE / NCPY)"
+    },
+    {
+        "Time": "1900-01-01T17:46:11",
+        "Latitude": "-7.8251",
+        "Longitude": "-161.2449",
+        "Course": "219",
+        "SpeedKts": "490",
+        "SpeedMph": "564",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware ADS-B (PYE / NCPY)"
+    },
+    {
+        "Time": "1900-01-01T17:46:46",
+        "Latitude": "-7.8882",
+        "Longitude": "-161.2955",
+        "Course": "219",
+        "SpeedKts": "492",
+        "SpeedMph": "566",
+        "AltitudeFeet": "38000",
+        "Reporting Facility": "FlightAware ADS-B (MHX / NCMH)"
+    },
+    {
+        "Time": "1900-01-01T17:47:34",
+        "Latitude": "-7.9743",
+        "Longitude": "-161.3645",
+        "Course": "219",
+        "SpeedKts": "490",
+        "SpeedMph": "564",
+        "AltitudeFeet": "38000",
+        "Reporting Facility": "FlightAware ADS-B (MHX / NCMH)"
+    },
+    {
+        "Time": "1900-01-01T17:48:41",
+        "Latitude": "-8.0926",
+        "Longitude": "-161.4593",
+        "Course": "219",
+        "SpeedKts": "490",
+        "SpeedMph": "564",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware ADS-B (MHX / NCMH)"
+    },
+    {
+        "Time": "1900-01-01T17:49:11",
+        "Latitude": "-8.1472",
+        "Longitude": "-161.5031",
+        "Course": "219",
+        "SpeedKts": "491",
+        "SpeedMph": "565",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware ADS-B (MHX / NCMH)"
+    },
+    {
+        "Time": "1900-01-01T17:49:56",
+        "Latitude": "-8.2251",
+        "Longitude": "-161.5658",
+        "Course": "219",
+        "SpeedKts": "490",
+        "SpeedMph": "564",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware ADS-B (PYE / NCPY)"
+    },
+    {
+        "Time": "1900-01-01T17:50:41",
+        "Latitude": "-8.3072",
+        "Longitude": "-161.6317",
+        "Course": "219",
+        "SpeedKts": "490",
+        "SpeedMph": "564",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware ADS-B (MHX / NCMH)"
+    },
+    {
+        "Time": "1900-01-01T17:51:11",
+        "Latitude": "-8.3612",
+        "Longitude": "-161.6751",
+        "Course": "219",
+        "SpeedKts": "491",
+        "SpeedMph": "565",
+        "AltitudeFeet": "38000",
+        "Reporting Facility": "FlightAware ADS-B (MHX / NCMH)"
+    },
+    {
+        "Time": "1900-01-01T17:51:41",
+        "Latitude": "-8.4147",
+        "Longitude": "-161.7181",
+        "Course": "219",
+        "SpeedKts": "491",
+        "SpeedMph": "565",
+        "AltitudeFeet": "38000",
+        "Reporting Facility": "FlightAware ADS-B (MHX / NCMH)"
+    },
+    {
+        "Time": "1900-01-01T17:52:11",
+        "Latitude": "-8.4683",
+        "Longitude": "-161.7612",
+        "Course": "219",
+        "SpeedKts": "490",
+        "SpeedMph": "564",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware ADS-B (MHX / NCMH)"
+    },
+    {
+        "Time": "1900-01-01T17:52:41",
+        "Latitude": "-8.521",
+        "Longitude": "-161.8035",
+        "Course": "219",
+        "SpeedKts": "490",
+        "SpeedMph": "564",
+        "AltitudeFeet": "38000",
+        "Reporting Facility": "FlightAware ADS-B (MHX / NCMH)"
+    },
+    {
+        "Time": "1900-01-01T17:53:12",
+        "Latitude": "-8.5746",
+        "Longitude": "-161.8467",
+        "Course": "219",
+        "SpeedKts": "489",
+        "SpeedMph": "563",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware ADS-B (MHX / NCMH)"
+    },
+    {
+        "Time": "1900-01-01T17:53:42",
+        "Latitude": "-8.627",
+        "Longitude": "-161.8889",
+        "Course": "219",
+        "SpeedKts": "489",
+        "SpeedMph": "563",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware ADS-B (MHX / NCMH)"
+    },
+    {
+        "Time": "1900-01-01T17:54:40",
+        "Latitude": "-8.7303",
+        "Longitude": "-161.972",
+        "Course": "219",
+        "SpeedKts": "491",
+        "SpeedMph": "565",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware ADS-B (MHX / NCMH)"
+    },
+    {
+        "Time": "1900-01-01T17:55:12",
+        "Latitude": "-8.7875",
+        "Longitude": "-162.0182",
+        "Course": "219",
+        "SpeedKts": "491",
+        "SpeedMph": "565",
+        "AltitudeFeet": "38000",
+        "Reporting Facility": "FlightAware ADS-B (MHX / NCMH)"
+    },
+    {
+        "Time": "1900-01-01T17:56:18",
+        "Latitude": "-8.9064",
+        "Longitude": "-162.1141",
+        "Course": "219",
+        "SpeedKts": "489",
+        "SpeedMph": "563",
+        "AltitudeFeet": "38000",
+        "Reporting Facility": "FlightAware ADS-B (MHX / NCMH)"
+    },
+    {
+        "Time": "1900-01-01T17:57:11",
+        "Latitude": "-8.9991",
+        "Longitude": "-162.1889",
+        "Course": "219",
+        "SpeedKts": "489",
+        "SpeedMph": "563",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware ADS-B (MHX / NCMH)"
+    },
+    {
+        "Time": "1900-01-01T17:57:44",
+        "Latitude": "-9.059",
+        "Longitude": "-162.2373",
+        "Course": "219",
+        "SpeedKts": "489",
+        "SpeedMph": "563",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware ADS-B (MHX / NCMH)"
+    },
+    {
+        "Time": "1900-01-01T17:58:43",
+        "Latitude": "-9.1618",
+        "Longitude": "-162.3203",
+        "Course": "219",
+        "SpeedKts": "489",
+        "SpeedMph": "563",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware ADS-B (MHX / NCMH)"
+    },
+    {
+        "Time": "1900-01-01T17:59:16",
+        "Latitude": "-9.2199",
+        "Longitude": "-162.3672",
+        "Course": "219",
+        "SpeedKts": "489",
+        "SpeedMph": "563",
+        "AltitudeFeet": "38000",
+        "Reporting Facility": "FlightAware ADS-B (MHX / NCMH)"
+    },
+    {
+        "Time": "1900-01-01T18:00:06",
+        "Latitude": "-9.3078",
+        "Longitude": "-162.4384",
+        "Course": "219",
+        "SpeedKts": "489",
+        "SpeedMph": "563",
+        "AltitudeFeet": "38000",
+        "Reporting Facility": "FlightAware ADS-B (MHX / NCMH)"
+    },
+    {
+        "Time": "1900-01-01T18:00:44",
+        "Latitude": "-9.376",
+        "Longitude": "-162.4935",
+        "Course": "219",
+        "SpeedKts": "489",
+        "SpeedMph": "563",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware ADS-B (MHX / NCMH)"
+    },
+    {
+        "Time": "1900-01-01T18:01:14",
+        "Latitude": "-9.4298",
+        "Longitude": "-162.5373",
+        "Course": "219",
+        "SpeedKts": "490",
+        "SpeedMph": "564",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware ADS-B (MHX / NCMH)"
+    },
+    {
+        "Time": "1900-01-01T18:02:01",
+        "Latitude": "-9.5116",
+        "Longitude": "-162.6036",
+        "Course": "219",
+        "SpeedKts": "489",
+        "SpeedMph": "563",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware ADS-B (MHX / NCMH)"
+    },
+    {
+        "Time": "1900-01-01T18:02:37",
+        "Latitude": "-9.5768",
+        "Longitude": "-162.6563",
+        "Course": "219",
+        "SpeedKts": "487",
+        "SpeedMph": "560",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware ADS-B (MHX / NCMH)"
+    },
+    {
+        "Time": "1900-01-01T18:03:10",
+        "Latitude": "-9.6358",
+        "Longitude": "-162.7042",
+        "Course": "219",
+        "SpeedKts": "487",
+        "SpeedMph": "560",
+        "AltitudeFeet": "38000",
+        "Reporting Facility": "FlightAware ADS-B (MHX / NCMH)"
+    },
+    {
+        "Time": "1900-01-01T18:03:45",
+        "Latitude": "-9.6957",
+        "Longitude": "-162.7527",
+        "Course": "219",
+        "SpeedKts": "487",
+        "SpeedMph": "560",
+        "AltitudeFeet": "38000",
+        "Reporting Facility": "FlightAware ADS-B (MHX / NCMH)"
+    },
+    {
+        "Time": "1900-01-01T18:04:37",
+        "Latitude": "-9.7869",
+        "Longitude": "-162.8267",
+        "Course": "219",
+        "SpeedKts": "487",
+        "SpeedMph": "560",
+        "AltitudeFeet": "38000",
+        "Reporting Facility": "FlightAware ADS-B (MHX / NCMH)"
+    },
+    {
+        "Time": "1900-01-01T18:07:11",
+        "Latitude": "-10.0517",
+        "Longitude": "-163.0404",
+        "Course": "218",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "38000",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T18:09:24",
+        "Latitude": "-10.2831",
+        "Longitude": "-163.2214",
+        "Course": "218",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "38000",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T18:11:41",
+        "Latitude": "-10.5213",
+        "Longitude": "-163.4082",
+        "Course": "218",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "38000",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T18:13:31",
+        "Latitude": "-10.7126",
+        "Longitude": "-163.5584",
+        "Course": "218",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "38000",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T18:14:54",
+        "Latitude": "-10.8568",
+        "Longitude": "-163.6719",
+        "Course": "218",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "38000",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T18:16:09",
+        "Latitude": "-10.9871",
+        "Longitude": "-163.7745",
+        "Course": "218",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "38000",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T18:17:15",
+        "Latitude": "-11.1018",
+        "Longitude": "-163.8648",
+        "Course": "218",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "38000",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T18:18:19",
+        "Latitude": "-11.2129",
+        "Longitude": "-163.9525",
+        "Course": "218",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "38000",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T18:19:33",
+        "Latitude": "-11.3414",
+        "Longitude": "-164.054",
+        "Course": "218",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "38000",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T18:20:43",
+        "Latitude": "-11.4629",
+        "Longitude": "-164.1501",
+        "Course": "218",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "38000",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T18:22:35",
+        "Latitude": "-11.6572",
+        "Longitude": "-164.304",
+        "Course": "218",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "38000",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T18:23:56",
+        "Latitude": "-11.7977",
+        "Longitude": "-164.4154",
+        "Course": "218",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "38000",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T18:25:08",
+        "Latitude": "-11.9631",
+        "Longitude": "-164.5467",
+        "Course": "218",
+        "SpeedKts": "485",
+        "SpeedMph": "558",
+        "AltitudeFeet": "38000",
+        "Reporting Facility": "FlightAware ADS-B (NCPK)"
+    },
+    {
+        "Time": "1900-01-01T18:25:38",
+        "Latitude": "-12.016",
+        "Longitude": "-164.5888",
+        "Course": "218",
+        "SpeedKts": "484",
+        "SpeedMph": "557",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware ADS-B (NCPK)"
+    },
+    {
+        "Time": "1900-01-01T18:26:27",
+        "Latitude": "-12.1033",
+        "Longitude": "-164.6584",
+        "Course": "218",
+        "SpeedKts": "487",
+        "SpeedMph": "560",
+        "AltitudeFeet": "38000",
+        "Reporting Facility": "FlightAware ADS-B (NCPK)"
+    },
+    {
+        "Time": "1900-01-01T18:27:13",
+        "Latitude": "-12.1824",
+        "Longitude": "-164.7214",
+        "Course": "218",
+        "SpeedKts": "483",
+        "SpeedMph": "556",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware ADS-B (NCPK)"
+    },
+    {
+        "Time": "1900-01-01T18:29:40",
+        "Latitude": "-12.4371",
+        "Longitude": "-164.9246",
+        "Course": "218",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T18:30:55",
+        "Latitude": "-12.5669",
+        "Longitude": "-165.0283",
+        "Course": "218",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T18:31:56",
+        "Latitude": "-12.6725",
+        "Longitude": "-165.1128",
+        "Course": "218",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T18:33:06",
+        "Latitude": "-12.7936",
+        "Longitude": "-165.2098",
+        "Course": "218",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T18:34:06",
+        "Latitude": "-12.8975",
+        "Longitude": "-165.2931",
+        "Course": "218",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T18:35:22",
+        "Latitude": "-13.0289",
+        "Longitude": "-165.3987",
+        "Course": "218",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T18:36:35",
+        "Latitude": "-13.1551",
+        "Longitude": "-165.5001",
+        "Course": "218",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T18:38:44",
+        "Latitude": "-13.3781",
+        "Longitude": "-165.6797",
+        "Course": "218",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T18:40:57",
+        "Latitude": "-13.6078",
+        "Longitude": "-165.8653",
+        "Course": "218",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T18:41:58",
+        "Latitude": "-13.7131",
+        "Longitude": "-165.9504",
+        "Course": "218",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T18:43:15",
+        "Latitude": "-13.846",
+        "Longitude": "-166.0581",
+        "Course": "218",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T18:44:20",
+        "Latitude": "-13.9582",
+        "Longitude": "-166.1491",
+        "Course": "218",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T18:45:31",
+        "Latitude": "-14.0806",
+        "Longitude": "-166.2486",
+        "Course": "218",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T18:46:35",
+        "Latitude": "-14.191",
+        "Longitude": "-166.3384",
+        "Course": "218",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T18:47:45",
+        "Latitude": "-14.3116",
+        "Longitude": "-166.4366",
+        "Course": "218",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T18:48:47",
+        "Latitude": "-14.4185",
+        "Longitude": "-166.5238",
+        "Course": "218",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T18:49:51",
+        "Latitude": "-14.5287",
+        "Longitude": "-166.6138",
+        "Course": "218",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T18:51:12",
+        "Latitude": "-14.6682",
+        "Longitude": "-166.7279",
+        "Course": "218",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T18:52:15",
+        "Latitude": "-14.7767",
+        "Longitude": "-166.8167",
+        "Course": "218",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T18:53:30",
+        "Latitude": "-14.9057",
+        "Longitude": "-166.9226",
+        "Course": "218",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T18:54:38",
+        "Latitude": "-15.0253",
+        "Longitude": "-167.0147",
+        "Course": "209",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T18:55:45",
+        "Latitude": "-15.1535",
+        "Longitude": "-167.0894",
+        "Course": "209",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T18:56:58",
+        "Latitude": "-15.2933",
+        "Longitude": "-167.1709",
+        "Course": "209",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T18:58:09",
+        "Latitude": "-15.4291",
+        "Longitude": "-167.2503",
+        "Course": "209",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T18:59:17",
+        "Latitude": "-15.5592",
+        "Longitude": "-167.3264",
+        "Course": "209",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T19:00:27",
+        "Latitude": "-15.6931",
+        "Longitude": "-167.4049",
+        "Course": "209",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T19:02:37",
+        "Latitude": "-15.9416",
+        "Longitude": "-167.5509",
+        "Course": "209",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T19:04:43",
+        "Latitude": "-16.1824",
+        "Longitude": "-167.6927",
+        "Course": "209",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T19:05:55",
+        "Latitude": "-16.32",
+        "Longitude": "-167.7739",
+        "Course": "210",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T19:07:08",
+        "Latitude": "-16.4595",
+        "Longitude": "-167.8563",
+        "Course": "210",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T19:08:12",
+        "Latitude": "-16.5817",
+        "Longitude": "-167.9287",
+        "Course": "210",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T19:10:29",
+        "Latitude": "-16.8433",
+        "Longitude": "-168.084",
+        "Course": "210",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T19:11:39",
+        "Latitude": "-16.9769",
+        "Longitude": "-168.1635",
+        "Course": "210",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T19:12:49",
+        "Latitude": "-17.1105",
+        "Longitude": "-168.2431",
+        "Course": "210",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T19:14:51",
+        "Latitude": "-17.3432",
+        "Longitude": "-168.3821",
+        "Course": "210",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T19:16:09",
+        "Latitude": "-17.4919",
+        "Longitude": "-168.4711",
+        "Course": "210",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T19:18:21",
+        "Latitude": "-17.7435",
+        "Longitude": "-168.6222",
+        "Course": "210",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T19:20:29",
+        "Latitude": "-17.9874",
+        "Longitude": "-168.769",
+        "Course": "210",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T19:22:44",
+        "Latitude": "-18.2445",
+        "Longitude": "-168.9244",
+        "Course": "210",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T19:23:49",
+        "Latitude": "-18.3683",
+        "Longitude": "-168.9994",
+        "Course": "210",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T19:25:01",
+        "Latitude": "-18.5053",
+        "Longitude": "-169.0825",
+        "Course": "210",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T19:26:06",
+        "Latitude": "-18.629",
+        "Longitude": "-169.1577",
+        "Course": "210",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T19:27:18",
+        "Latitude": "-18.7659",
+        "Longitude": "-169.2411",
+        "Course": "210",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T19:28:24",
+        "Latitude": "-18.8915",
+        "Longitude": "-169.3177",
+        "Course": "210",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T19:29:31",
+        "Latitude": "-19.0189",
+        "Longitude": "-169.3955",
+        "Course": "210",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T19:30:39",
+        "Latitude": "-19.1481",
+        "Longitude": "-169.4747",
+        "Course": "210",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T19:31:41",
+        "Latitude": "-19.2659",
+        "Longitude": "-169.547",
+        "Course": "210",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T19:32:59",
+        "Latitude": "-19.4141",
+        "Longitude": "-169.638",
+        "Course": "210",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T19:34:03",
+        "Latitude": "-19.5357",
+        "Longitude": "-169.7129",
+        "Course": "210",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T19:35:21",
+        "Latitude": "-19.6838",
+        "Longitude": "-169.8042",
+        "Course": "210",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T19:36:27",
+        "Latitude": "-19.8091",
+        "Longitude": "-169.8817",
+        "Course": "210",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T19:37:31",
+        "Latitude": "-19.9305",
+        "Longitude": "-169.9569",
+        "Course": "210",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T19:38:44",
+        "Latitude": "-20.0703",
+        "Longitude": "-170.0405",
+        "Course": "208",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T19:39:46",
+        "Latitude": "-20.19",
+        "Longitude": "-170.1096",
+        "Course": "208",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T19:41:05",
+        "Latitude": "-20.3424",
+        "Longitude": "-170.1979",
+        "Course": "208",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T19:43:18",
+        "Latitude": "-20.5991",
+        "Longitude": "-170.3468",
+        "Course": "209",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T19:44:26",
+        "Latitude": "-20.7302",
+        "Longitude": "-170.4231",
+        "Course": "209",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T19:45:30",
+        "Latitude": "-20.8536",
+        "Longitude": "-170.4951",
+        "Course": "209",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T19:46:43",
+        "Latitude": "-20.9943",
+        "Longitude": "-170.5773",
+        "Course": "209",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T19:47:55",
+        "Latitude": "-21.1331",
+        "Longitude": "-170.6586",
+        "Course": "209",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T19:49:02",
+        "Latitude": "-21.2622",
+        "Longitude": "-170.7343",
+        "Course": "209",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T19:50:06",
+        "Latitude": "-21.3854",
+        "Longitude": "-170.8068",
+        "Course": "209",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T19:51:15",
+        "Latitude": "-21.5183",
+        "Longitude": "-170.8851",
+        "Course": "209",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T19:52:27",
+        "Latitude": "-21.6569",
+        "Longitude": "-170.9669",
+        "Course": "209",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T19:53:32",
+        "Latitude": "-21.782",
+        "Longitude": "-171.041",
+        "Course": "209",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T19:54:34",
+        "Latitude": "-21.9013",
+        "Longitude": "-171.1117",
+        "Course": "209",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T19:55:55",
+        "Latitude": "-22.0571",
+        "Longitude": "-171.2043",
+        "Course": "209",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T19:57:00",
+        "Latitude": "-22.1821",
+        "Longitude": "-171.2787",
+        "Course": "209",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T19:58:05",
+        "Latitude": "-22.3071",
+        "Longitude": "-171.3533",
+        "Course": "209",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T19:59:06",
+        "Latitude": "-22.4243",
+        "Longitude": "-171.4234",
+        "Course": "209",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T20:00:27",
+        "Latitude": "-22.5799",
+        "Longitude": "-171.5166",
+        "Course": "209",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T20:01:35",
+        "Latitude": "-22.7105",
+        "Longitude": "-171.5951",
+        "Course": "209",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T20:03:47",
+        "Latitude": "-22.964",
+        "Longitude": "-171.7478",
+        "Course": "209",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T20:05:54",
+        "Latitude": "-23.2076",
+        "Longitude": "-171.8953",
+        "Course": "209",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T20:07:07",
+        "Latitude": "-23.3477",
+        "Longitude": "-171.9803",
+        "Course": "209",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T20:08:10",
+        "Latitude": "-23.4684",
+        "Longitude": "-172.0539",
+        "Course": "209",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T20:09:25",
+        "Latitude": "-23.6122",
+        "Longitude": "-172.1416",
+        "Course": "209",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T20:10:31",
+        "Latitude": "-23.7387",
+        "Longitude": "-172.2189",
+        "Course": "209",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T20:12:35",
+        "Latitude": "-23.9762",
+        "Longitude": "-172.3646",
+        "Course": "209",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T20:14:54",
+        "Latitude": "-24.2422",
+        "Longitude": "-172.5286",
+        "Course": "209",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T20:15:58",
+        "Latitude": "-24.3647",
+        "Longitude": "-172.6043",
+        "Course": "209",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T20:17:03",
+        "Latitude": "-24.489",
+        "Longitude": "-172.6814",
+        "Course": "209",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T20:18:19",
+        "Latitude": "-24.6343",
+        "Longitude": "-172.7717",
+        "Course": "209",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T20:19:27",
+        "Latitude": "-24.7643",
+        "Longitude": "-172.8527",
+        "Course": "209",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T20:20:34",
+        "Latitude": "-24.8923",
+        "Longitude": "-172.9326",
+        "Course": "210",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T20:21:47",
+        "Latitude": "-25.0324",
+        "Longitude": "-173.0185",
+        "Course": "207",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T20:22:56",
+        "Latitude": "-25.1669",
+        "Longitude": "-173.0954",
+        "Course": "207",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T20:24:01",
+        "Latitude": "-25.2937",
+        "Longitude": "-173.168",
+        "Course": "207",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T20:25:15",
+        "Latitude": "-25.4379",
+        "Longitude": "-173.2509",
+        "Course": "207",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T20:26:25",
+        "Latitude": "-25.5743",
+        "Longitude": "-173.3294",
+        "Course": "207",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T20:27:31",
+        "Latitude": "-25.7029",
+        "Longitude": "-173.4037",
+        "Course": "207",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T20:28:43",
+        "Latitude": "-25.8431",
+        "Longitude": "-173.4848",
+        "Course": "208",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T20:30:46",
+        "Latitude": "-26.0826",
+        "Longitude": "-173.624",
+        "Course": "208",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T20:31:59",
+        "Latitude": "-26.2246",
+        "Longitude": "-173.7068",
+        "Course": "208",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T20:33:04",
+        "Latitude": "-26.351",
+        "Longitude": "-173.7807",
+        "Course": "208",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T20:34:11",
+        "Latitude": "-26.4813",
+        "Longitude": "-173.8571",
+        "Course": "208",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T20:35:33",
+        "Latitude": "-26.6407",
+        "Longitude": "-173.9508",
+        "Course": "208",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T20:36:38",
+        "Latitude": "-26.767",
+        "Longitude": "-174.0252",
+        "Course": "208",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T20:37:48",
+        "Latitude": "-26.903",
+        "Longitude": "-174.1056",
+        "Course": "208",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T20:38:59",
+        "Latitude": "-27.0409",
+        "Longitude": "-174.1873",
+        "Course": "208",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T20:40:03",
+        "Latitude": "-27.1651",
+        "Longitude": "-174.2611",
+        "Course": "208",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T20:41:20",
+        "Latitude": "-27.3145",
+        "Longitude": "-174.3502",
+        "Course": "208",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T20:43:24",
+        "Latitude": "-27.5551",
+        "Longitude": "-174.4941",
+        "Course": "208",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T20:44:38",
+        "Latitude": "-27.6985",
+        "Longitude": "-174.5803",
+        "Course": "208",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T20:46:45",
+        "Latitude": "-27.9443",
+        "Longitude": "-174.7285",
+        "Course": "208",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T20:49:04",
+        "Latitude": "-28.213",
+        "Longitude": "-174.8915",
+        "Course": "208",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T20:50:07",
+        "Latitude": "-28.3348",
+        "Longitude": "-174.9657",
+        "Course": "208",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T20:51:09",
+        "Latitude": "-28.4546",
+        "Longitude": "-175.0388",
+        "Course": "208",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T20:52:32",
+        "Latitude": "-28.6149",
+        "Longitude": "-175.137",
+        "Course": "208",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T20:53:33",
+        "Latitude": "-28.7327",
+        "Longitude": "-175.2093",
+        "Course": "208",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T20:54:49",
+        "Latitude": "-28.8793",
+        "Longitude": "-175.2997",
+        "Course": "208",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T20:55:54",
+        "Latitude": "-29.0047",
+        "Longitude": "-175.3772",
+        "Course": "208",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T20:56:59",
+        "Latitude": "-29.1301",
+        "Longitude": "-175.4549",
+        "Course": "208",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T20:58:16",
+        "Latitude": "-29.2785",
+        "Longitude": "-175.5471",
+        "Course": "208",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T20:59:22",
+        "Latitude": "-29.4057",
+        "Longitude": "-175.6264",
+        "Course": "209",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T21:00:26",
+        "Latitude": "-29.529",
+        "Longitude": "-175.7035",
+        "Course": "209",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T21:01:37",
+        "Latitude": "-29.6657",
+        "Longitude": "-175.7892",
+        "Course": "209",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T21:02:50",
+        "Latitude": "-29.8062",
+        "Longitude": "-175.8776",
+        "Course": "209",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T21:03:51",
+        "Latitude": "-29.9236",
+        "Longitude": "-175.9517",
+        "Course": "209",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T21:05:09",
+        "Latitude": "-30.0669",
+        "Longitude": "-176.0585",
+        "Course": "217",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T21:06:13",
+        "Latitude": "-30.1788",
+        "Longitude": "-176.1564",
+        "Course": "217",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T21:07:21",
+        "Latitude": "-30.2976",
+        "Longitude": "-176.2608",
+        "Course": "217",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T21:08:36",
+        "Latitude": "-30.4286",
+        "Longitude": "-176.3761",
+        "Course": "217",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T21:09:44",
+        "Latitude": "-30.5472",
+        "Longitude": "-176.481",
+        "Course": "217",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T21:10:50",
+        "Latitude": "-30.6623",
+        "Longitude": "-176.583",
+        "Course": "217",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T21:12:00",
+        "Latitude": "-30.7842",
+        "Longitude": "-176.6915",
+        "Course": "217",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T21:14:04",
+        "Latitude": "-31",
+        "Longitude": "-176.8843",
+        "Course": "217",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T21:15:16",
+        "Latitude": "-31.1252",
+        "Longitude": "-176.9967",
+        "Course": "218",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T21:16:27",
+        "Latitude": "-31.2486",
+        "Longitude": "-177.1078",
+        "Course": "218",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T21:17:33",
+        "Latitude": "-31.3631",
+        "Longitude": "-177.2114",
+        "Course": "218",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T21:18:47",
+        "Latitude": "-31.4915",
+        "Longitude": "-177.3277",
+        "Course": "218",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T21:19:51",
+        "Latitude": "-31.6024",
+        "Longitude": "-177.4287",
+        "Course": "218",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T21:20:59",
+        "Latitude": "-31.7202",
+        "Longitude": "-177.5362",
+        "Course": "218",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T21:22:07",
+        "Latitude": "-31.8379",
+        "Longitude": "-177.6439",
+        "Course": "218",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T21:23:17",
+        "Latitude": "-31.9589",
+        "Longitude": "-177.7551",
+        "Course": "218",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T21:24:26",
+        "Latitude": "-32.0781",
+        "Longitude": "-177.8651",
+        "Course": "218",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T21:25:31",
+        "Latitude": "-32.1904",
+        "Longitude": "-177.9689",
+        "Course": "218",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T21:26:48",
+        "Latitude": "-32.3232",
+        "Longitude": "-178.0922",
+        "Course": "218",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T21:27:51",
+        "Latitude": "-32.4318",
+        "Longitude": "-178.1933",
+        "Course": "218",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T21:28:56",
+        "Latitude": "-32.5437",
+        "Longitude": "-178.2979",
+        "Course": "218",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T21:30:09",
+        "Latitude": "-32.6694",
+        "Longitude": "-178.4158",
+        "Course": "218",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T21:31:15",
+        "Latitude": "-32.7829",
+        "Longitude": "-178.5226",
+        "Course": "218",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T21:32:27",
+        "Latitude": "-32.9066",
+        "Longitude": "-178.6394",
+        "Course": "218",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T21:33:34",
+        "Latitude": "-33.0216",
+        "Longitude": "-178.7484",
+        "Course": "218",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T21:34:44",
+        "Latitude": "-33.1416",
+        "Longitude": "-178.8626",
+        "Course": "219",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T21:35:44",
+        "Latitude": "-33.2445",
+        "Longitude": "-178.9607",
+        "Course": "219",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T21:37:01",
+        "Latitude": "-33.3763",
+        "Longitude": "-179.087",
+        "Course": "219",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T21:38:06",
+        "Latitude": "-33.4875",
+        "Longitude": "-179.1939",
+        "Course": "219",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T21:39:21",
+        "Latitude": "-33.6157",
+        "Longitude": "-179.3175",
+        "Course": "219",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T21:40:27",
+        "Latitude": "-33.7284",
+        "Longitude": "-179.4266",
+        "Course": "219",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T21:41:33",
+        "Latitude": "-33.841",
+        "Longitude": "-179.5361",
+        "Course": "219",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T21:42:44",
+        "Latitude": "-33.9621",
+        "Longitude": "-179.6541",
+        "Course": "219",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T21:44:48",
+        "Latitude": "-34.1732",
+        "Longitude": "-179.8611",
+        "Course": "219",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T21:46:03",
+        "Latitude": "-34.3007",
+        "Longitude": "-179.9867",
+        "Course": "219",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T21:47:08",
+        "Latitude": "-34.4111",
+        "Longitude": "179.9041",
+        "Course": "219",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T21:48:10",
+        "Latitude": "-34.5164",
+        "Longitude": "179.7996",
+        "Course": "219",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T21:49:20",
+        "Latitude": "-34.6351",
+        "Longitude": "179.6813",
+        "Course": "219",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T21:50:32",
+        "Latitude": "-34.757",
+        "Longitude": "179.5594",
+        "Course": "219",
+        "SpeedKts": "",
+        "SpeedMph": "",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "FlightAware Approximate"
+    },
+    {
+        "Time": "1900-01-01T21:51:00",
+        "Latitude": "-34.2333",
+        "Longitude": "-179.9167",
+        "Course": "219",
+        "SpeedKts": "489",
+        "SpeedMph": "563",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "New Zealand"
+    },
+    {
+        "Time": "1900-01-01T21:52:02",
+        "Latitude": "-34.3333",
+        "Longitude": "179.9833",
+        "Course": "220",
+        "SpeedKts": "489",
+        "SpeedMph": "563",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "New Zealand"
+    },
+    {
+        "Time": "1900-01-01T21:53:03",
+        "Latitude": "-34.45",
+        "Longitude": "179.8667",
+        "Course": "219",
+        "SpeedKts": "490",
+        "SpeedMph": "564",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "New Zealand"
+    },
+    {
+        "Time": "1900-01-01T21:54:04",
+        "Latitude": "-34.55",
+        "Longitude": "179.7667",
+        "Course": "219",
+        "SpeedKts": "486",
+        "SpeedMph": "559",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "New Zealand"
+    },
+    {
+        "Time": "1900-01-01T21:55:07",
+        "Latitude": "-34.6667",
+        "Longitude": "179.65",
+        "Course": "219",
+        "SpeedKts": "489",
+        "SpeedMph": "563",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "New Zealand"
+    },
+    {
+        "Time": "1900-01-01T21:56:10",
+        "Latitude": "-34.7667",
+        "Longitude": "179.55",
+        "Course": "219",
+        "SpeedKts": "491",
+        "SpeedMph": "565",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "New Zealand"
+    },
+    {
+        "Time": "1900-01-01T21:57:13",
+        "Latitude": "-34.8833",
+        "Longitude": "179.4333",
+        "Course": "219",
+        "SpeedKts": "492",
+        "SpeedMph": "566",
+        "AltitudeFeet": "37975",
+        "Reporting Facility": "New Zealand"
+    },
+    {
+        "Time": "1900-01-01T21:58:02",
+        "Latitude": "-34.9665",
+        "Longitude": "179.3498",
+        "Course": "220",
+        "SpeedKts": "490",
+        "SpeedMph": "564",
+        "AltitudeFeet": "39000",
+        "Reporting Facility": "FlightAware ADS-B (WHK / NZWK)"
+    },
+    {
+        "Time": "1900-01-01T21:58:51",
+        "Latitude": "-35.0511",
+        "Longitude": "179.2643",
+        "Course": "220",
+        "SpeedKts": "489",
+        "SpeedMph": "563",
+        "AltitudeFeet": "38975",
+        "Reporting Facility": "FlightAware ADS-B (WHK / NZWK)"
+    },
+    {
+        "Time": "1900-01-01T21:59:36",
+        "Latitude": "-35.1318",
+        "Longitude": "179.1825",
+        "Course": "220",
+        "SpeedKts": "488",
+        "SpeedMph": "562",
+        "AltitudeFeet": "39000",
+        "Reporting Facility": "FlightAware ADS-B (WHK / NZWK)"
+    },
+    {
+        "Time": "1900-01-01T22:00:08",
+        "Latitude": "-35.1883",
+        "Longitude": "179.1251",
+        "Course": "220",
+        "SpeedKts": "488",
+        "SpeedMph": "562",
+        "AltitudeFeet": "39000",
+        "Reporting Facility": "FlightAware ADS-B (NZRW)"
+    },
+    {
+        "Time": "1900-01-01T22:00:48",
+        "Latitude": "-35.2586",
+        "Longitude": "179.0536",
+        "Course": "220",
+        "SpeedKts": "489",
+        "SpeedMph": "563",
+        "AltitudeFeet": "38975",
+        "Reporting Facility": "FlightAware ADS-B (NZRW)"
+    },
+    {
+        "Time": "1900-01-01T22:01:18",
+        "Latitude": "-35.3101",
+        "Longitude": "179.0012",
+        "Course": "220",
+        "SpeedKts": "489",
+        "SpeedMph": "563",
+        "AltitudeFeet": "38975",
+        "Reporting Facility": "FlightAware ADS-B (NZRW)"
+    },
+    {
+        "Time": "1900-01-01T22:01:48",
+        "Latitude": "-35.3624",
+        "Longitude": "178.9476",
+        "Course": "220",
+        "SpeedKts": "490",
+        "SpeedMph": "564",
+        "AltitudeFeet": "39000",
+        "Reporting Facility": "FlightAware ADS-B (NZRW)"
+    },
+    {
+        "Time": "1900-01-01T22:02:35",
+        "Latitude": "-35.4432",
+        "Longitude": "178.8648",
+        "Course": "220",
+        "SpeedKts": "488",
+        "SpeedMph": "562",
+        "AltitudeFeet": "38975",
+        "Reporting Facility": "FlightAware ADS-B (NZRW)"
+    },
+    {
+        "Time": "1900-01-01T22:03:05",
+        "Latitude": "-35.4954",
+        "Longitude": "178.8115",
+        "Course": "220",
+        "SpeedKts": "486",
+        "SpeedMph": "559",
+        "AltitudeFeet": "39000",
+        "Reporting Facility": "FlightAware ADS-B (NZRW)"
+    },
+    {
+        "Time": "1900-01-01T22:03:37",
+        "Latitude": "-35.5519",
+        "Longitude": "178.7535",
+        "Course": "220",
+        "SpeedKts": "487",
+        "SpeedMph": "560",
+        "AltitudeFeet": "38975",
+        "Reporting Facility": "FlightAware ADS-B (AMZ / NZAR)"
+    },
+    {
+        "Time": "1900-01-01T22:04:08",
+        "Latitude": "-35.6044",
+        "Longitude": "178.6994",
+        "Course": "220",
+        "SpeedKts": "488",
+        "SpeedMph": "562",
+        "AltitudeFeet": "39000",
+        "Reporting Facility": "FlightAware ADS-B (TRG / NZTG)"
+    },
+    {
+        "Time": "1900-01-01T22:04:41",
+        "Latitude": "-35.6619",
+        "Longitude": "178.6393",
+        "Course": "223",
+        "SpeedKts": "483",
+        "SpeedMph": "556",
+        "AltitudeFeet": "38975",
+        "Reporting Facility": "FlightAware ADS-B (NZRW)"
+    },
+    {
+        "Time": "1900-01-01T22:05:00",
+        "Latitude": "-35.6898",
+        "Longitude": "178.6007",
+        "Course": "233",
+        "SpeedKts": "475",
+        "SpeedMph": "547",
+        "AltitudeFeet": "38975",
+        "Reporting Facility": "FlightAware ADS-B (AMZ / NZAR)"
+    },
+    {
+        "Time": "1900-01-01T22:05:20",
+        "Latitude": "-35.7123",
+        "Longitude": "178.556",
+        "Course": "243",
+        "SpeedKts": "468",
+        "SpeedMph": "539",
+        "AltitudeFeet": "39000",
+        "Reporting Facility": "FlightAware ADS-B (AMZ / NZAR)"
+    },
+    {
+        "Time": "1900-01-01T22:05:50",
+        "Latitude": "-35.7389",
+        "Longitude": "178.4842",
+        "Course": "246",
+        "SpeedKts": "466",
+        "SpeedMph": "536",
+        "AltitudeFeet": "38975",
+        "Reporting Facility": "FlightAware ADS-B (AMZ / NZAR)"
+    },
+    {
+        "Time": "1900-01-01T22:06:20",
+        "Latitude": "-35.7657",
+        "Longitude": "178.4115",
+        "Course": "246",
+        "SpeedKts": "466",
+        "SpeedMph": "536",
+        "AltitudeFeet": "38975",
+        "Reporting Facility": "FlightAware ADS-B (AMZ / NZAR)"
+    },
+    {
+        "Time": "1900-01-01T22:06:54",
+        "Latitude": "-35.7951",
+        "Longitude": "178.3315",
+        "Course": "246",
+        "SpeedKts": "466",
+        "SpeedMph": "536",
+        "AltitudeFeet": "39000",
+        "Reporting Facility": "FlightAware ADS-B (AKL / NZAA)"
+    },
+    {
+        "Time": "1900-01-01T22:07:32",
+        "Latitude": "-35.8291",
+        "Longitude": "178.2389",
+        "Course": "246",
+        "SpeedKts": "468",
+        "SpeedMph": "539",
+        "AltitudeFeet": "39000",
+        "Reporting Facility": "FlightAware ADS-B (TRG / NZTG)"
+    },
+    {
+        "Time": "1900-01-01T22:08:02",
+        "Latitude": "-35.8559",
+        "Longitude": "178.1654",
+        "Course": "246",
+        "SpeedKts": "470",
+        "SpeedMph": "541",
+        "AltitudeFeet": "39000",
+        "Reporting Facility": "FlightAware ADS-B (TRG / NZTG)"
+    },
+    {
+        "Time": "1900-01-01T22:08:35",
+        "Latitude": "-35.8842",
+        "Longitude": "178.0879",
+        "Course": "246",
+        "SpeedKts": "471",
+        "SpeedMph": "542",
+        "AltitudeFeet": "38975",
+        "Reporting Facility": "FlightAware ADS-B (AKL / NZAA)"
+    },
+    {
+        "Time": "1900-01-01T22:09:08",
+        "Latitude": "-35.9145",
+        "Longitude": "178.0046",
+        "Course": "246",
+        "SpeedKts": "472",
+        "SpeedMph": "543",
+        "AltitudeFeet": "39000",
+        "Reporting Facility": "FlightAware ADS-B (TRG / NZTG)"
+    },
+    {
+        "Time": "1900-01-01T22:09:38",
+        "Latitude": "-35.9421",
+        "Longitude": "177.929",
+        "Course": "246",
+        "SpeedKts": "472",
+        "SpeedMph": "543",
+        "AltitudeFeet": "39000",
+        "Reporting Facility": "FlightAware ADS-B (TRG / NZTG)"
+    },
+    {
+        "Time": "1900-01-01T22:10:08",
+        "Latitude": "-35.9686",
+        "Longitude": "177.8556",
+        "Course": "246",
+        "SpeedKts": "472",
+        "SpeedMph": "543",
+        "AltitudeFeet": "39000",
+        "Reporting Facility": "FlightAware ADS-B (TRG / NZTG)"
+    },
+    {
+        "Time": "1900-01-01T22:10:38",
+        "Latitude": "-35.9953",
+        "Longitude": "177.7818",
+        "Course": "246",
+        "SpeedKts": "472",
+        "SpeedMph": "543",
+        "AltitudeFeet": "39000",
+        "Reporting Facility": "FlightAware ADS-B (TRG / NZTG)"
+    },
+    {
+        "Time": "1900-01-01T22:11:08",
+        "Latitude": "-36.0219",
+        "Longitude": "177.708",
+        "Course": "246",
+        "SpeedKts": "471",
+        "SpeedMph": "542",
+        "AltitudeFeet": "38975",
+        "Reporting Facility": "FlightAware ADS-B (TRG / NZTG)"
+    },
+    {
+        "Time": "1900-01-01T22:11:40",
+        "Latitude": "-36.0493",
+        "Longitude": "177.6317",
+        "Course": "246",
+        "SpeedKts": "471",
+        "SpeedMph": "542",
+        "AltitudeFeet": "38875",
+        "Reporting Facility": "FlightAware ADS-B (WHK / NZWK)"
+    },
+    {
+        "Time": "1900-01-01T22:12:13",
+        "Latitude": "-36.0787",
+        "Longitude": "177.5497",
+        "Course": "246",
+        "SpeedKts": "469",
+        "SpeedMph": "540",
+        "AltitudeFeet": "37800",
+        "Reporting Facility": "FlightAware ADS-B (NZRW)"
+    },
+    {
+        "Time": "1900-01-01T22:12:43",
+        "Latitude": "-36.105",
+        "Longitude": "177.4769",
+        "Course": "246",
+        "SpeedKts": "467",
+        "SpeedMph": "537",
+        "AltitudeFeet": "36650",
+        "Reporting Facility": "FlightAware ADS-B (WHK / NZWK)"
+    },
+    {
+        "Time": "1900-01-01T22:13:13",
+        "Latitude": "-36.1313",
+        "Longitude": "177.4038",
+        "Course": "246",
+        "SpeedKts": "469",
+        "SpeedMph": "540",
+        "AltitudeFeet": "35275",
+        "Reporting Facility": "FlightAware ADS-B (NZRW)"
+    },
+    {
+        "Time": "1900-01-01T22:13:43",
+        "Latitude": "-36.1573",
+        "Longitude": "177.3304",
+        "Course": "246",
+        "SpeedKts": "459",
+        "SpeedMph": "528",
+        "AltitudeFeet": "34275",
+        "Reporting Facility": "FlightAware ADS-B (NZRW)"
+    },
+    {
+        "Time": "1900-01-01T22:14:13",
+        "Latitude": "-36.1826",
+        "Longitude": "177.2587",
+        "Course": "246",
+        "SpeedKts": "452",
+        "SpeedMph": "520",
+        "AltitudeFeet": "33300",
+        "Reporting Facility": "FlightAware ADS-B (NZRW)"
+    },
+    {
+        "Time": "1900-01-01T22:14:43",
+        "Latitude": "-36.208",
+        "Longitude": "177.1877",
+        "Course": "246",
+        "SpeedKts": "446",
+        "SpeedMph": "513",
+        "AltitudeFeet": "32250",
+        "Reporting Facility": "FlightAware ADS-B (NZRW)"
+    },
+    {
+        "Time": "1900-01-01T22:15:13",
+        "Latitude": "-36.2324",
+        "Longitude": "177.1183",
+        "Course": "246",
+        "SpeedKts": "440",
+        "SpeedMph": "506",
+        "AltitudeFeet": "31225",
+        "Reporting Facility": "FlightAware ADS-B (TRG / NZTG)"
+    },
+    {
+        "Time": "1900-01-01T22:15:43",
+        "Latitude": "-36.2564",
+        "Longitude": "177.0492",
+        "Course": "247",
+        "SpeedKts": "430",
+        "SpeedMph": "495",
+        "AltitudeFeet": "30275",
+        "Reporting Facility": "FlightAware ADS-B (NZRW)"
+    },
+    {
+        "Time": "1900-01-01T22:16:21",
+        "Latitude": "-36.2859",
+        "Longitude": "176.9666",
+        "Course": "246",
+        "SpeedKts": "420",
+        "SpeedMph": "483",
+        "AltitudeFeet": "29175",
+        "Reporting Facility": "FlightAware ADS-B (NZPI)"
+    },
+    {
+        "Time": "1900-01-01T22:16:51",
+        "Latitude": "-36.3094",
+        "Longitude": "176.9004",
+        "Course": "247",
+        "SpeedKts": "416",
+        "SpeedMph": "479",
+        "AltitudeFeet": "28250",
+        "Reporting Facility": "FlightAware ADS-B (NZPI)"
+    },
+    {
+        "Time": "1900-01-01T22:17:21",
+        "Latitude": "-36.331",
+        "Longitude": "176.8372",
+        "Course": "247",
+        "SpeedKts": "415",
+        "SpeedMph": "478",
+        "AltitudeFeet": "27475",
+        "Reporting Facility": "FlightAware ADS-B (WHK / NZWK)"
+    },
+    {
+        "Time": "1900-01-01T22:17:51",
+        "Latitude": "-36.3534",
+        "Longitude": "176.7725",
+        "Course": "247",
+        "SpeedKts": "415",
+        "SpeedMph": "478",
+        "AltitudeFeet": "26575",
+        "Reporting Facility": "FlightAware ADS-B (WHK / NZWK)"
+    },
+    {
+        "Time": "1900-01-01T22:18:21",
+        "Latitude": "-36.376",
+        "Longitude": "176.7078",
+        "Course": "247",
+        "SpeedKts": "407",
+        "SpeedMph": "468",
+        "AltitudeFeet": "25675",
+        "Reporting Facility": "FlightAware ADS-B (WHK / NZWK)"
+    },
+    {
+        "Time": "1900-01-01T22:19:00",
+        "Latitude": "-36.406",
+        "Longitude": "176.6215",
+        "Course": "247",
+        "SpeedKts": "393",
+        "SpeedMph": "452",
+        "AltitudeFeet": "24575",
+        "Reporting Facility": "FlightAware ADS-B (NZRW)"
+    },
+    {
+        "Time": "1900-01-01T22:19:34",
+        "Latitude": "-36.4293",
+        "Longitude": "176.5543",
+        "Course": "246",
+        "SpeedKts": "386",
+        "SpeedMph": "444",
+        "AltitudeFeet": "23700",
+        "Reporting Facility": "FlightAware ADS-B (ROT / NZRO)"
+    },
+    {
+        "Time": "1900-01-01T22:19:57",
+        "Latitude": "-36.4464",
+        "Longitude": "176.5055",
+        "Course": "247",
+        "SpeedKts": "383",
+        "SpeedMph": "441",
+        "AltitudeFeet": "23050",
+        "Reporting Facility": "FlightAware ADS-B (TRG / NZTG)"
+    },
+    {
+        "Time": "1900-01-01T22:20:28",
+        "Latitude": "-36.4677",
+        "Longitude": "176.4442",
+        "Course": "247",
+        "SpeedKts": "376",
+        "SpeedMph": "433",
+        "AltitudeFeet": "22225",
+        "Reporting Facility": "FlightAware ADS-B (NZKE)"
+    },
+    {
+        "Time": "1900-01-01T22:20:58",
+        "Latitude": "-36.4881",
+        "Longitude": "176.3844",
+        "Course": "247",
+        "SpeedKts": "370",
+        "SpeedMph": "426",
+        "AltitudeFeet": "21450",
+        "Reporting Facility": "FlightAware ADS-B (NZKE)"
+    },
+    {
+        "Time": "1900-01-01T22:21:28",
+        "Latitude": "-36.5081",
+        "Longitude": "176.3258",
+        "Course": "247",
+        "SpeedKts": "369",
+        "SpeedMph": "425",
+        "AltitudeFeet": "20675",
+        "Reporting Facility": "FlightAware ADS-B (TRG / NZTG)"
+    },
+    {
+        "Time": "1900-01-01T22:22:13",
+        "Latitude": "-36.5373",
+        "Longitude": "176.2416",
+        "Course": "248",
+        "SpeedKts": "360",
+        "SpeedMph": "414",
+        "AltitudeFeet": "19600",
+        "Reporting Facility": "FlightAware ADS-B (AKL / NZAA)"
+    },
+    {
+        "Time": "1900-01-01T22:22:43",
+        "Latitude": "-36.5563",
+        "Longitude": "176.1856",
+        "Course": "248",
+        "SpeedKts": "358",
+        "SpeedMph": "412",
+        "AltitudeFeet": "18825",
+        "Reporting Facility": "FlightAware ADS-B (AKL / NZAA)"
+    },
+    {
+        "Time": "1900-01-01T22:23:13",
+        "Latitude": "-36.5765",
+        "Longitude": "176.1266",
+        "Course": "247",
+        "SpeedKts": "355",
+        "SpeedMph": "409",
+        "AltitudeFeet": "17950",
+        "Reporting Facility": "FlightAware ADS-B (NZPI)"
+    },
+    {
+        "Time": "1900-01-01T22:23:33",
+        "Latitude": "-36.5889",
+        "Longitude": "176.0905",
+        "Course": "247",
+        "SpeedKts": "352",
+        "SpeedMph": "405",
+        "AltitudeFeet": "17525",
+        "Reporting Facility": "FlightAware ADS-B (AKL / NZAA)"
+    },
+    {
+        "Time": "1900-01-01T22:24:03",
+        "Latitude": "-36.6081",
+        "Longitude": "176.0341",
+        "Course": "247",
+        "SpeedKts": "350",
+        "SpeedMph": "403",
+        "AltitudeFeet": "16650",
+        "Reporting Facility": "FlightAware ADS-B (NZPI)"
+    },
+    {
+        "Time": "1900-01-01T22:24:33",
+        "Latitude": "-36.6271",
+        "Longitude": "175.9784",
+        "Course": "247",
+        "SpeedKts": "347",
+        "SpeedMph": "399",
+        "AltitudeFeet": "15850",
+        "Reporting Facility": "FlightAware ADS-B (NZPI)"
+    },
+    {
+        "Time": "1900-01-01T22:25:04",
+        "Latitude": "-36.6457",
+        "Longitude": "175.9232",
+        "Course": "248",
+        "SpeedKts": "341",
+        "SpeedMph": "392",
+        "AltitudeFeet": "15125",
+        "Reporting Facility": "FlightAware ADS-B (AKL / NZAA)"
+    },
+    {
+        "Time": "1900-01-01T22:25:34",
+        "Latitude": "-36.6643",
+        "Longitude": "175.8689",
+        "Course": "247",
+        "SpeedKts": "335",
+        "SpeedMph": "386",
+        "AltitudeFeet": "14550",
+        "Reporting Facility": "FlightAware ADS-B (AMZ / NZAR)"
+    },
+    {
+        "Time": "1900-01-01T22:26:04",
+        "Latitude": "-36.6822",
+        "Longitude": "175.816",
+        "Course": "248",
+        "SpeedKts": "337",
+        "SpeedMph": "388",
+        "AltitudeFeet": "13850",
+        "Reporting Facility": "FlightAware ADS-B (AMZ / NZAR)"
+    },
+    {
+        "Time": "1900-01-01T22:26:37",
+        "Latitude": "-36.7023",
+        "Longitude": "175.7563",
+        "Course": "247",
+        "SpeedKts": "337",
+        "SpeedMph": "388",
+        "AltitudeFeet": "12900",
+        "Reporting Facility": "FlightAware ADS-B (NZKE)"
+    },
+    {
+        "Time": "1900-01-01T22:27:09",
+        "Latitude": "-36.7211",
+        "Longitude": "175.7006",
+        "Course": "247",
+        "SpeedKts": "333",
+        "SpeedMph": "383",
+        "AltitudeFeet": "12000",
+        "Reporting Facility": "FlightAware ADS-B (AKL / NZAA)"
+    },
+    {
+        "Time": "1900-01-01T22:27:39",
+        "Latitude": "-36.7389",
+        "Longitude": "175.6476",
+        "Course": "248",
+        "SpeedKts": "333",
+        "SpeedMph": "383",
+        "AltitudeFeet": "11175",
+        "Reporting Facility": "FlightAware ADS-B (AKL / NZAA)"
+    },
+    {
+        "Time": "1900-01-01T22:28:09",
+        "Latitude": "-36.757",
+        "Longitude": "175.5946",
+        "Course": "248",
+        "SpeedKts": "322",
+        "SpeedMph": "371",
+        "AltitudeFeet": "10775",
+        "Reporting Facility": "FlightAware ADS-B (AKL / NZAA)"
+    },
+    {
+        "Time": "1900-01-01T22:28:39",
+        "Latitude": "-36.7735",
+        "Longitude": "175.5446",
+        "Course": "249",
+        "SpeedKts": "310",
+        "SpeedMph": "357",
+        "AltitudeFeet": "10500",
+        "Reporting Facility": "FlightAware ADS-B (AKL / NZAA)"
+    },
+    {
+        "Time": "1900-01-01T22:29:09",
+        "Latitude": "-36.7897",
+        "Longitude": "175.4966",
+        "Course": "247",
+        "SpeedKts": "283",
+        "SpeedMph": "326",
+        "AltitudeFeet": "10425",
+        "Reporting Facility": "FlightAware ADS-B (AKL / NZAA)"
+    },
+    {
+        "Time": "1900-01-01T22:29:29",
+        "Latitude": "-36.7998",
+        "Longitude": "175.4666",
+        "Course": "247",
+        "SpeedKts": "276",
+        "SpeedMph": "318",
+        "AltitudeFeet": "9975",
+        "Reporting Facility": "FlightAware ADS-B (NZPK)"
+    },
+    {
+        "Time": "1900-01-01T22:29:55",
+        "Latitude": "-36.812",
+        "Longitude": "175.4292",
+        "Course": "249",
+        "SpeedKts": "274",
+        "SpeedMph": "315",
+        "AltitudeFeet": "9225",
+        "Reporting Facility": "FlightAware ADS-B (AKL / NZAA)"
+    },
+    {
+        "Time": "1900-01-01T22:30:26",
+        "Latitude": "-36.8277",
+        "Longitude": "175.3826",
+        "Course": "247",
+        "SpeedKts": "272",
+        "SpeedMph": "313",
+        "AltitudeFeet": "8450",
+        "Reporting Facility": "FlightAware ADS-B (NZPI)"
+    },
+    {
+        "Time": "1900-01-01T22:30:46",
+        "Latitude": "-36.8366",
+        "Longitude": "175.3557",
+        "Course": "249",
+        "SpeedKts": "265",
+        "SpeedMph": "305",
+        "AltitudeFeet": "7925",
+        "Reporting Facility": "FlightAware ADS-B (AKL / NZAA)"
+    },
+    {
+        "Time": "1900-01-01T22:31:16",
+        "Latitude": "-36.8507",
+        "Longitude": "175.3137",
+        "Course": "248",
+        "SpeedKts": "266",
+        "SpeedMph": "306",
+        "AltitudeFeet": "7100",
+        "Reporting Facility": "FlightAware ADS-B (NZPK)"
+    },
+    {
+        "Time": "1900-01-01T22:31:44",
+        "Latitude": "-36.8648",
+        "Longitude": "175.2716",
+        "Course": "247",
+        "SpeedKts": "268",
+        "SpeedMph": "308",
+        "AltitudeFeet": "6450",
+        "Reporting Facility": "FlightAware ADS-B (NZKE)"
+    },
+    {
+        "Time": "1900-01-01T22:32:12",
+        "Latitude": "-36.8774",
+        "Longitude": "175.2334",
+        "Course": "248",
+        "SpeedKts": "270",
+        "SpeedMph": "311",
+        "AltitudeFeet": "5875",
+        "Reporting Facility": "FlightAware ADS-B (AKL / NZAA)"
+    },
+    {
+        "Time": "1900-01-01T22:32:32",
+        "Latitude": "-36.8869",
+        "Longitude": "175.2045",
+        "Course": "248",
+        "SpeedKts": "272",
+        "SpeedMph": "313",
+        "AltitudeFeet": "5450",
+        "Reporting Facility": "FlightAware ADS-B (AKL / NZAA)"
+    },
+    {
+        "Time": "1900-01-01T22:33:01",
+        "Latitude": "-36.901",
+        "Longitude": "175.1624",
+        "Course": "249",
+        "SpeedKts": "262",
+        "SpeedMph": "302",
+        "AltitudeFeet": "4825",
+        "Reporting Facility": "FlightAware ADS-B (AKL / NZAA)"
+    },
+    {
+        "Time": "1900-01-01T22:33:22",
+        "Latitude": "-36.9108",
+        "Longitude": "175.1327",
+        "Course": "248",
+        "SpeedKts": "246",
+        "SpeedMph": "283",
+        "AltitudeFeet": "4575",
+        "Reporting Facility": "FlightAware ADS-B (NZPK)"
+    },
+    {
+        "Time": "1900-01-01T22:33:47",
+        "Latitude": "-36.9209",
+        "Longitude": "175.102",
+        "Course": "248",
+        "SpeedKts": "233",
+        "SpeedMph": "268",
+        "AltitudeFeet": "4400",
+        "Reporting Facility": "FlightAware ADS-B (AKL / NZAA)"
+    },
+    {
+        "Time": "1900-01-01T22:34:10",
+        "Latitude": "-36.9302",
+        "Longitude": "175.0747",
+        "Course": "248",
+        "SpeedKts": "219",
+        "SpeedMph": "252",
+        "AltitudeFeet": "4250",
+        "Reporting Facility": "FlightAware ADS-B (NZPK)"
+    },
+    {
+        "Time": "1900-01-01T22:34:39",
+        "Latitude": "-36.9409",
+        "Longitude": "175.0425",
+        "Course": "250",
+        "SpeedKts": "196",
+        "SpeedMph": "226",
+        "AltitudeFeet": "4100",
+        "Reporting Facility": "FlightAware ADS-B (AKL / NZAA)"
+    },
+    {
+        "Time": "1900-01-01T22:34:56",
+        "Latitude": "-36.946",
+        "Longitude": "175.0246",
+        "Course": "251",
+        "SpeedKts": "193",
+        "SpeedMph": "222",
+        "AltitudeFeet": "3850",
+        "Reporting Facility": "FlightAware ADS-B (NZWP)"
+    },
+    {
+        "Time": "1900-01-01T22:35:26",
+        "Latitude": "-36.9549",
+        "Longitude": "174.9922",
+        "Course": "251",
+        "SpeedKts": "191",
+        "SpeedMph": "220",
+        "AltitudeFeet": "3350",
+        "Reporting Facility": "FlightAware ADS-B (AKL / NZAA)"
+    },
+    {
+        "Time": "1900-01-01T22:35:42",
+        "Latitude": "-36.9593",
+        "Longitude": "174.9764",
+        "Course": "251",
+        "SpeedKts": "189",
+        "SpeedMph": "217",
+        "AltitudeFeet": "3125",
+        "Reporting Facility": "FlightAware ADS-B (AKL / NZAA)"
+    },
+    {
+        "Time": "1900-01-01T22:35:58",
+        "Latitude": "-36.9639",
+        "Longitude": "174.9601",
+        "Course": "251",
+        "SpeedKts": "177",
+        "SpeedMph": "204",
+        "AltitudeFeet": "3025",
+        "Reporting Facility": "FlightAware ADS-B (NZPI)"
+    },
+    {
+        "Time": "1900-01-01T22:36:14",
+        "Latitude": "-36.9678",
+        "Longitude": "174.946",
+        "Course": "251",
+        "SpeedKts": "166",
+        "SpeedMph": "191",
+        "AltitudeFeet": "2900",
+        "Reporting Facility": "FlightAware ADS-B (AKL / NZAA)"
+    },
+    {
+        "Time": "1900-01-01T22:36:31",
+        "Latitude": "-36.9724",
+        "Longitude": "174.9295",
+        "Course": "251",
+        "SpeedKts": "162",
+        "SpeedMph": "186",
+        "AltitudeFeet": "2625",
+        "Reporting Facility": "FlightAware ADS-B (AKL / NZAA)"
+    },
+    {
+        "Time": "1900-01-01T22:36:47",
+        "Latitude": "-36.9762",
+        "Longitude": "174.9158",
+        "Course": "251",
+        "SpeedKts": "162",
+        "SpeedMph": "186",
+        "AltitudeFeet": "2425",
+        "Reporting Facility": "FlightAware ADS-B (AKL / NZAA)"
+    },
+    {
+        "Time": "1900-01-01T22:37:09",
+        "Latitude": "-36.9813",
+        "Longitude": "174.8972",
+        "Course": "251",
+        "SpeedKts": "157",
+        "SpeedMph": "181",
+        "AltitudeFeet": "2100",
+        "Reporting Facility": "FlightAware ADS-B (AKL / NZAA)"
+    },
+    {
+        "Time": "1900-01-01T22:37:32",
+        "Latitude": "-36.9867",
+        "Longitude": "174.8779",
+        "Course": "251",
+        "SpeedKts": "148",
+        "SpeedMph": "170",
+        "AltitudeFeet": "1825",
+        "Reporting Facility": "FlightAware ADS-B (AKL / NZAA)"
+    },
+    {
+        "Time": "1900-01-01T22:37:48",
+        "Latitude": "-36.9904",
+        "Longitude": "174.8647",
+        "Course": "251",
+        "SpeedKts": "147",
+        "SpeedMph": "169",
+        "AltitudeFeet": "1600",
+        "Reporting Facility": "FlightAware ADS-B (NZPK)"
+    },
+    {
+        "Time": "1900-01-01T22:38:04",
+        "Latitude": "-36.9936",
+        "Longitude": "174.8528",
+        "Course": "251",
+        "SpeedKts": "147",
+        "SpeedMph": "169",
+        "AltitudeFeet": "1425",
+        "Reporting Facility": "FlightAware ADS-B (AKL / NZAA)"
+    },
+    {
+        "Time": "1900-01-01T22:38:20",
+        "Latitude": "-36.9975",
+        "Longitude": "174.8388",
+        "Course": "251",
+        "SpeedKts": "147",
+        "SpeedMph": "169",
+        "AltitudeFeet": "1200",
+        "Reporting Facility": "FlightAware ADS-B (AKL / NZAA)"
+    },
+    {
+        "Time": "1900-01-01T22:38:36",
+        "Latitude": "-37.0009",
+        "Longitude": "174.8264",
+        "Course": "251",
+        "SpeedKts": "148",
+        "SpeedMph": "170",
+        "AltitudeFeet": "1000",
+        "Reporting Facility": "FlightAware ADS-B (NZPI)"
+    },
+    {
+        "Time": "1900-01-01T22:38:52",
+        "Latitude": "-37.0048",
+        "Longitude": "174.8126",
+        "Course": "251",
+        "SpeedKts": "150",
+        "SpeedMph": "173",
+        "AltitudeFeet": "800",
+        "Reporting Facility": "FlightAware ADS-B (AKL / NZAA)"
+    },
+    {
+        "Time": "1900-01-01T22:39:08",
+        "Latitude": "-37.0082",
+        "Longitude": "174.8001",
+        "Course": "252",
+        "SpeedKts": "150",
+        "SpeedMph": "173",
+        "AltitudeFeet": "600",
+        "Reporting Facility": "FlightAware ADS-B (NZPK)"
+    },
+    {
+        "Time": "1900-01-01T22:39:24",
+        "Latitude": "-37.0119",
+        "Longitude": "174.7867",
+        "Course": "250",
+        "SpeedKts": "141",
+        "SpeedMph": "162",
+        "AltitudeFeet": "425",
+        "Reporting Facility": "FlightAware ADS-B (AKL / NZAA)"
+    }
+]
