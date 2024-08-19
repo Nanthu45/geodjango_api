@@ -1,5 +1,5 @@
 from django.urls import path
-from .views import Csv_to_Database, upload_csv_form,CSV_to_Json,Latlong_PSQLPoint,Latlong_PSQLPoint
+from .views import Csv_to_Database, upload_csv_form,CSV_to_Json,Latlong_PSQLPoint,Creating_linestring
 from .views import TIFF_DrawTrajectory,CSV_to_TransformedGeoJson,CSV_to_GeoJson
 
 urlpatterns = [
@@ -10,7 +10,7 @@ urlpatterns = [
     path('transformed-geojson_downloaded/', CSV_to_TransformedGeoJson.as_view(), name='transformed_geojson_download'), 
     path('trajectory_geotiff/', TIFF_DrawTrajectory.as_view(), name='load_geotiff_and_draw_trajectory'),  
     path('latlong_to_geompsql/', Latlong_PSQLPoint.as_view(), name='lat_long_to_geompsql_point'),
-    path('latlong_to_linstring/',Latlong_PSQLPoint.as_view(), name='lat_long_to_linestring'),
+    path('latlong_to_linstring/',Creating_linestring.as_view(), name='lat_long_to_linestring'),
 ]
 
 
